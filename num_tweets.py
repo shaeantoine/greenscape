@@ -97,7 +97,7 @@ num_tweets = {
 shorted_tweets = []
 
 for comp, tweets in num_tweets.items():
-    if tweets <= 200:
+    if tweets > 200 and tweets not in ["AAPL", "FB", "GOOG"]:
         shorted_tweets.append((comp, tweets))
 
 print("shortened")
@@ -149,6 +149,7 @@ else:
         tweet_df = pd.concat([tweet_df, line_tweet_df])
 
     print("Analysing sentiment")
+    tweet_df = tweet_df.reset_index(drop=True)
 
     sentiment_df = pd.DataFrame(
         analyze_sentiment(tweet_df["text"]), columns=["sentiment", "score"]
@@ -156,9 +157,16 @@ else:
     tweet_df = pd.concat([tweet_df, sentiment_df], axis=1)
 
     print(f"{company} analysed")
-    tweet_df.to_csv(f"stock-price-predictions/tweet/{company}/tweet_sentiment.csv", index=False)
-    tweet_df['created_at'] = pd.to_datetime(tweet_df['created_at'])
-    tweet_df['day'] = tweet_df['created_at'].dt.date
-    tweet_df["sentiment_number"] = tweet_df["sentiment"].replace({"NEG": -1, "POS": 1, "NEU": 0})
-    daily_tweet_df = tweet_df.groupby('day')['sentiment_number'].mean().reset_index()
-    daily_tweet_df.to_csv(f"stock-price-predictions/tweet/{company}/daily_tweet_sentiment.csv", index=False)
+    tweet_df.to_csv(
+        f"stock-price-predictions/tweet/{company}/tweet_sentiment.csv", index=False
+    )
+    tweet_df["created_at"] = pd.to_datetime(tweet_df["created_at"])
+    tweet_df["day"] = tweet_df["created_at"].dt.date
+    tweet_df["sentiment_number"] = tweet_df["sentiment"].replace(
+        {"NEG": -1, "POS": 1, "NEU": 0}
+    )
+    daily_tweet_df = tweet_df.groupby("day")["sentiment_number"].mean().reset_index()
+    daily_tweet_df.to_csv(
+        f"stock-price-predictions/tweet/{company}/daily_tweet_sentiment.csv",
+        index=False,
+    )

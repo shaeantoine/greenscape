@@ -1,0 +1,16 @@
+text,created_at,user_id_str,sentiment,score
+"['rt', 'AT_USER', 'warrenbuffett', 'top', '20', 'dividendstocks', 'with', 'highest', 'yields', '$', 'brk-a', '$', 'spy', '$', 'vz', '$', 'ge', '$', 'gm', '$', 'nov', '$', 'ko', '$', 'sny', '$', 'pg', '$', 'ups', '$', 'jnj', '$', 'de', 'URL']",Wed May 06 15:39:46 +0000 2015,1416078199,POS,0.7443526983261108
+"['etfs', 'for', 'your', 'inner', 'icahn', 'URL', 'etf', '$', 'brk-a', '$', 'pnqi', '$', 'qqq', '$', 'pkw', '$', 'csd', '$', 'fpx', '$', 'ipo', '$', 'socl']",Fri Jan 24 00:15:11 +0000 2014,20345218,NEU,0.9648785591125488
+"['$', 'brk-a', '$', 'brk-b', ':', 'how', 'warren', 'buffett', 'wins', 'from', 'bank', 'of', ""america's"", 'capital', 'plan', ':', 'URL']",Thu Mar 19 14:15:02 +0000 2015,2341281566,NEU,0.9440739750862122
+"['transportation', 'department', 'issues', 'safety', 'advisory', 'regarding', 'bakken', 'crude', 'by', 'rail', '$', 'brk-a', 'URL', 'via', 'AT_USER']",Thu May 08 18:31:48 +0000 2014,199930831,NEU,0.9577854871749878
+"['rt', 'AT_USER', 'one', 'potential', 'weakness', 'of', 'berkshire', 'hathaway', 'URL', 'via', 'AT_USER', '$', 'brk-a', 'URL']",Wed Mar 04 13:43:18 +0000 2015,1281072037,NEG,0.9124627113342285
+"['URL', ""don't"", 'agree', 'w', '/', 'web', 'on', '$', 'ko', 'but', ""he's"", 'still', 'warrenbuffett', '!', 'drinkh', '2o', 'if', ""you're"", 'upset', 'and', 'want', '2', 'protest', '.', '$', 'brk-a', '$', 'brk-b']",Wed May 07 13:45:34 +0000 2014,553137234,NEU,0.7903098464012146
+"['dairy', 'queen', 'latest', 'retailer', 'to', 'suffer', 'customer', 'card', 'hack', 'URL', 'via', 'AT_USER', '$', 'brk-b', '$', 'brk-a', '$', 'hd']",Fri Oct 10 20:43:54 +0000 2014,320223105,NEG,0.943881094455719
+"['here', 'is', 'how', 'davita', '$', 'gm', 'AT_USER', 'fits', 'into', 'the', 'top', '20', 'berkshire', 'hathaway', '$', 'brk-a', 'investments', 'and', 'warren', 'buffett', 'URL']",Tue Sep 08 16:53:15 +0000 2015,17945997,NEU,0.9553396105766296
+"['rt', 'AT_USER', 'book', 'review', ':', 'berkshire', 'beyond', 'buffett', 'URL', 'via', 'AT_USER', '$', 'brk-a', 'URL']",Wed Oct 29 12:13:25 +0000 2014,30952885,NEU,0.969732940196991
+"['$', 'krft', '$', 'brk-a', ':', 'why', 'the', 'buffett', 'role', 'in', 'kraft', 'heinz', 'matters', 'so', 'much', ':', 'URL']",Wed Mar 25 13:55:05 +0000 2015,2881595931,NEU,0.9083909392356873
+"['rt', 'AT_USER', 'warren', 'buffett', '’', 's', 'performance', 'by', 'decade', 'URL', 'via', 'AT_USER', '$', 'brk-a', 'URL']",Mon Mar 30 14:20:35 +0000 2015,16228257,NEU,0.9725031852722168
+"['rt', 'AT_USER', 'warren', 'buffett', '’', 's', 'performance', 'by', 'decade', 'URL', 'via', 'AT_USER', '$', 'brk-a', 'URL']",Mon Mar 30 14:24:59 +0000 2015,740322229,NEU,0.9725031852722168
+"['rt', 'AT_USER', 'warren', 'buffett', '’', 's', 'performance', 'by', 'decade', 'URL', 'via', 'AT_USER', '$', 'brk-a', 'URL']",Mon Mar 30 14:25:33 +0000 2015,2822938479,NEU,0.9725031852722168
+"['has', 'warren', 'buffett', 'lost', 'his', 'touch', '?', 'not', 'even', 'close', '$', 'brk-a', '$', 'brk-b', '$', 'cop', 'URL']",Wed Jan 28 13:55:22 +0000 2015,13471032,NEG,0.9605259299278259
+"['rt', 'AT_USER', '$', 'msft', '$', 'brk-a', ':', 'best', 'stocks', ':', 'microsoft', 'corporation', '(', 'nasdaq', ':', 'msft', ')', ',', 'quicklogic', '...', ':', 'URL']",Mon Jun 08 19:40:57 +0000 2015,1333461242,POS,0.6028300523757935

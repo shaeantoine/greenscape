@@ -1,0 +1,38 @@
+text,created_at,user_id_str,sentiment,score
+"['$', 'ocls', 'target', '$', '5.70', ',', '250', '%', 'upside', ',', '2', 'articles', 'on', 'earnings', 'beat', '$', 'mnkd', '$', 'moh', '$', 'ngg', 'investors', 'read', 'URL', 'URL']",Tue Jun 16 17:25:52 +0000 2015,287966215,NEU,0.9342657923698425
+"['ngg', 'netqin', 'mobile', 'inc', '.', 'prev', 'close', 'URL', '$', 'ngg', '$', 'hl', '$', 'abx.to', '$', 'nbg', 'ngg', 'stocks', 'invest']",Tue Jun 16 15:42:05 +0000 2015,2181314366,NEU,0.9639406800270081
+"['aavl', 'avalanche', 'biotechnologies', ',', 'inc', '.', 'short', 'sales', 'URL', '$', 'aavl', '$', 'ngg', '$', 'hysr', '$', 'ashr', 'aavl', 'invest', 'stocks']",Tue Jun 16 15:31:13 +0000 2015,1833020461,NEU,0.9705621004104614
+"['$', 'ngg', 'could', 'have', 'gone', 'a', 'lot', 'lower', ',', 'r', '/', 'r', 'was', 'good', 'on', 'this', 'trade', '.']",Mon Jun 29 12:09:28 +0000 2015,140087723,POS,0.7270848751068115
+"['$', 'ngg', 'prothena', 'corp', 'receives', '""', 'buy', '""', 'rating', 'from', 'citigroup', 'inc', '.', '(', 'prta', ')', 'URL']",Fri Apr 25 19:55:03 +0000 2014,1729271713,NEU,0.9346558451652527
+"['$', 'ngg', 'top', 'stock', 'picks', 'from', 'fidelity', 'asset', 'management', 'focused', 'on', 'construction', 'industry', 'trends', 'URL']",Mon Apr 14 16:45:04 +0000 2014,1704153223,NEU,0.9166951179504395
+"['$', 'ngg', 'in', 'a', 'year', 'long', 'bearish', 'saucer', 'that', 'looks', 'vulnerable', 'down', 'to', '$', '58']",Mon Jul 27 08:57:52 +0000 2015,455578285,NEG,0.7531930208206177
+"['*', 'review', '*', 'how', 'to', 'make', 'money', 'in', 'stocks', ':', 'URL', '$', 'oil', '$', 'taxi', '$', 'uso', '$', 'xom', '$', 'exxi', '$', 'sfy', '$', 'gsk', '$', 'apc', '$', 'ngg', '$', 'ery']",Tue Dec 02 08:31:30 +0000 2014,2185372855,NEU,0.9426055550575256
+"['national', 'grid', ""plc's"", 'underperform', 'rating', 'reiterated', 'at', 'bnp', 'paribas', '.', 'URL', '$', 'ngg', 'ngg']",Thu Apr 09 17:16:25 +0000 2015,992182100,NEG,0.5163859128952026
+"['$', 'ngg', ':', 'rbc', 'capital', 'mkts', 'cuts', 'to', 'sector', 'perform']",Thu Sep 11 12:54:14 +0000 2014,72928001,NEU,0.9261810779571533
+"['$', 'ngg', 'received', 'a', 'new', 'alert', '.', 'find', 'out', 'why', 'at', 'URL', 'stocks', 'daytrading', 'trading', 'mkt', 'nyse', 'nasdaq', 'markets', '522']",Mon May 12 18:17:20 +0000 2014,39546678,NEU,0.9593552350997925
+"['national', 'grid', 'plc', '(', 'adr', ')', ""'"", 's', 'neutral', 'rating', 'reiterated', 'at', 'jpmorgan', 'chase', '&', 'co', '..', 'URL', '$', 'ngg', 'ngg']",Tue Jun 03 22:19:02 +0000 2014,992182100,NEU,0.9455199837684631
+"['$', 'ngg', 'has', '4', 'analyst', 'ratings', 'in', 'last', '7', 'days', 'and', '25', '%', 'are', 'positive', '.', 'median', 'target', ':', '$', '802.5', 'view', 'here', ':', 'URL', 'ngg']",Wed Jun 04 17:30:12 +0000 2014,2540665153,POS,0.657174289226532
+"['$', 'ngg', 'thursday', ',', 'april', '24', ',', '2014', '-', 'national', 'grid', 'h', 'URL']",Tue May 06 17:07:06 +0000 2014,2476003294,NEU,0.9725468754768372
+"['this', 'service', 'made', '20,000', '%', 'gains', 'in', 'the', 'last', 'month', '!', 'subscribe', 'here', 'URL', '..', '$', 'nfj', '$', 'nfx', '$', 'ngg']",Mon Oct 12 12:54:27 +0000 2015,2730855593,POS,0.9428430199623108
+"['$', 'ngg', ':', 'shares', 'of', 'national', 'grid', 'transco', ',', 'plc', '(', 'nyse', ':', 'ngg', ')', 'rally', '0.57', '%', ':', 'URL']",Mon Aug 10 11:23:03 +0000 2015,2344619544,NEU,0.5162505507469177
+"['$', 'ngg', 'national', 'grid', 'plc', 'lowered', 'to', 'neutral', 'at', 'credit', 'suisse', '(', 'ngg', ')', 'URL']",Fri May 30 17:30:46 +0000 2014,1837301804,NEU,0.9553253650665283
+"['$', 'ngg', ':', 'stock', 'watch', ':', 'national', 'grid', 'transco', ',', 'plc', '(', 'nyse', ':', 'ngg', '):', 'URL']",Tue Apr 14 14:55:03 +0000 2015,2341445778,NEU,0.9650889039039612
+"['national', 'grid', 'plc', '(', 'adr', ')', ""'"", 's', 'overweight', 'rating', 'reiterated', 'at', 'barclays', '.', '$', '76.00', 'pt', '.', 'URL', '$', 'ngg', 'ngg']",Fri Nov 07 20:34:28 +0000 2014,68559732,NEU,0.9085959792137146
+"['2013', 'wrap-up', 'and', 'trading', 'set', 'review', '-', 'part', 'iii', 'URL', '$', 'aapl', 'apple', '$', 'bp', '$', 'cnw', '$', 'csco', '$', 'csx', '$', 'cvx', '$', 'goog', '$', 'hpq', '$', 'ibm', '$', 'intc', '$', 'ngg']",Wed Jan 01 10:52:20 +0000 2014,23059499,NEU,0.9261444211006165
+"['national', 'grid', 'plc', 'stock', 'rating', 'reaffirmed', 'by', 'rbc', 'capital', '$', 'ngg', 'URL']",Fri May 30 22:33:22 +0000 2014,2181281054,NEU,0.8268944025039673
+"['$', 'ngg', 'received', 'a', 'new', 'alert', '.', 'find', 'out', 'why', 'at', 'URL', 'stocks', 'daytrading', 'trading', 'mkt', 'nyse', 'nasdaq', 'markets', '437']",Thu Jun 19 22:14:52 +0000 2014,39546678,NEU,0.9602808356285095
+"['national', 'grid', 'plc', 'shares', 'gap', 'down', 'to', '$', '71.68', '$', 'ngg', 'URL']",Sun Nov 22 04:07:00 +0000 2015,2920258887,NEU,0.5190983414649963
+"['national', 'grid', 'plc', 'rating', 'reiterated', 'by', 'jpmorgan', 'chase', '&', 'co', '.', '$', 'ngg', 'URL']",Sat Nov 14 01:06:39 +0000 2015,2525892205,NEU,0.8771993517875671
+"['national', 'grid', 'plc', 'downgraded', 'to', '“', 'neutral', '”', 'at', 'zacks', '$', 'ngg', 'URL']",Tue Jul 08 14:34:56 +0000 2014,2525892205,NEU,0.9396657943725586
+"['national', 'grid', 'plc', '$', 'adr', 'short', 'interest', 'down', '43.4', '%', 'in', 'march', '$', 'ngg', 'URL']",Mon Apr 28 06:23:48 +0000 2014,61661638,NEG,0.657437801361084
+"['$', 'ngg', ':', 'national', 'grid', 'plc', '(', 'nyse', ':', 'ngg', ')', 'given', 'consensus', 'recommendation', '…', ':', 'URL']",Wed Dec 23 09:20:02 +0000 2015,2344619544,NEU,0.9259281158447266
+"['national', 'grid', 'plc', 'upgraded', 'by', 'zacks', 'to', 'hold', '.', 'URL', '$', 'ngg', 'ngg']",Tue May 05 00:45:33 +0000 2015,68559732,NEU,0.6965442895889282
+"['$', 'ngg', 'new', 'contract', 'for', 'entergy', ',', 'shares', 'down', 'URL']",Wed May 21 05:05:04 +0000 2014,1837301804,NEU,0.8821479082107544
+"['rt', 'AT_USER', 'peep', 'my', 'new', 'track', 'noway', '[', 'prod', '.', 'by', 'AT_USER', ']', 'via', 'soundcloud', 'AT_USER', 'music', 'rt', 'thr', '$', 'xg', '$', 'ngg', '$', 'wd', '!', '!', '!', 'URL']",Tue Jan 28 02:17:53 +0000 2014,362869656,NEU,0.9391631484031677
+"['national', 'grid', 'plc', 'stock', 'rating', 'reaffirmed', 'by', 'morgan', 'stanley', '$', 'ngg', 'URL']",Mon Dec 08 21:23:36 +0000 2014,61661638,NEU,0.8589211702346802
+"['*', 'review', '*', 'how', 'to', 'make', 'money', 'in', 'stocks', ':', 'URL', '$', 'oil', '$', 'taxi', '$', 'uso', '$', 'xom', '$', 'exxi', '$', 'sfy', '$', 'gsk', '$', 'apc', '$', 'ngg', '$', 'ery']",Wed Dec 24 07:24:34 +0000 2014,2185372855,NEU,0.9426055550575256
+"['$', 'ngg', ':', 'national', 'grid', 'plc', 'receives', '$', '76.00', 'consensus', 'target', 'price', 'from', '…', ':', 'URL']",Sun Oct 11 13:26:02 +0000 2015,2881595931,NEU,0.9567425847053528
+"['$', 'ngg', 'stock', 'message', 'board', 'updated', 'sunday', ',', 'february', '8', ',', '2015', '08:59', ':', '24', 'am', '$', 'smh', '$', 'fb', '$', 'ebay', '$', 'jnj', 'URL']",Sun Feb 08 14:53:35 +0000 2015,1833020461,NEU,0.9359812140464783
+"['$', 'ngg', '3', 'things', 'that', 'say', 'national', 'grid', 'plc', 'URL']",Thu Jul 31 22:31:47 +0000 2014,2659766617,NEU,0.9723790287971497
+"['gtn', 'home', 'depot', ',', 'inc', '.', 'dividend', 'URL', '$', 'gtn', '$', 'wmt', '$', 'adro', '$', 'ngg', 'gtn', 'finance', 'pennystocks']",Tue May 26 04:38:07 +0000 2015,386787305,NEU,0.9679315686225891
+"['rt', 'AT_USER', '13.1', '%', 'edge', 'for', '5', 'june', 'utilities', 'showing', 'highest', 'yield', 'and', 'lowest', 'price', 'URL', '$', 'bep', '$', 'cnp', '$', 'cpl', '$', 'je', '$', 'ngg', '$', 'ok', '…']",Sat Jun 06 11:38:42 +0000 2015,2385944899,NEU,0.8092833757400513

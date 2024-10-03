@@ -1,0 +1,82 @@
+text,created_at,user_id_str,sentiment,score
+"['(', 'free', 'video', '):', '5', '-', 'steps', 'to', 'his', 'first', 'million', 'trading', 'URL', 'pennystocks', 'trading', '$', 'cpwr', '$', 'rex', '$', 'aya.ca']",Tue Oct 14 19:53:28 +0000 2014,2569229846,NEU,0.9026529788970947
+"['rex', 'american', 'resources', 'corp', '.', 'director', 'sells', '$', '1,188', ',', '107', 'in', 'stock', '$', 'rex', 'URL']",Mon Aug 18 17:33:46 +0000 2014,61661638,NEU,0.9526947736740112
+"['10', '+', 'sentiment', 'shifted', 'stocks', ':', '$', 'rex', '$', 'gdx', '$', 'ign', '$', 'cmg', '$', 'isis', '$', 'gdxj', '$', 'quad', '$', 'tvix', '$', 'tkmr', '$', 'icpt']",Wed Aug 27 21:00:04 +0000 2014,1454276396,NEU,0.9190355539321899
+"['$', 'rex', '-', 'corvex', 'management', 'lp', '-', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Tue Jun 16 11:03:11 +0000 2015,1627066812,NEU,0.9715097546577454
+"['$', 'rex', 'upstream', 'news', 'rex', 'URL']",Fri Apr 11 22:59:03 +0000 2014,2341348136,NEU,0.9636974930763245
+"['$', 'rex', '-', 'franklin', 'resources', ',', 'inc', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Fri Nov 06 14:07:03 +0000 2015,1627066812,NEU,0.9752817749977112
+"['$', 'rex', '-', 'statement', 'of', 'changes', 'in', 'beneficial', 'ownership', '(', '4', ')', 'URL']",Wed Apr 23 15:46:06 +0000 2014,1530720770,NEU,0.9178897142410278
+"['$', 'rex', ':', 'insider', 'trading', 'alert', '-', 'udr', ',', 'flex', 'and', 'rex', 'traded', 'by', 'insiders', 'URL', 'URL']",Thu Aug 28 11:44:06 +0000 2014,1727425886,NEU,0.9773792028427124
+"['$', 'rex', '-', 'credit', 'suisse', 'securities', '(', 'eur', ')', 'ltd', 'form', '8.5', '(', 'ept', '/', 'non-ri', ')', 'rexam', 'plc', 'URL']",Wed Feb 18 11:11:01 +0000 2015,1627066812,NEU,0.9760092496871948
+"['rexam', 'plc', 'receives', '“', 'bb', '+', '”', 'credit', 'rating', 'from', 'morningstar', '$', 'rex', 'URL']",Wed Feb 18 13:57:26 +0000 2015,2348716116,NEU,0.651432454586029
+"['$', 'rex', '-', 'bank', 'of', 'new', 'york', 'mellon', 'corp', '.', '(', 'the', ')', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Fri Jun 19 14:05:02 +0000 2015,1627066812,NEU,0.9722222685813904
+"['$', 'rex', ':', 'rex', 'american', 'resources', '(', 'rex', ')', 'marked', 'as', 'a', 'dead', 'cat', 'bounce', 'stock', 'URL', 'URL']",Tue Aug 26 17:44:18 +0000 2014,2344020043,NEG,0.7492470741271973
+"['$', 'rex', ':', 'ln', 'eu', 'antitrust', 'regulators', 'set', 'to', 'approve', 'ball', ',', 'rexam', 'deal', 'rexam', 'plc', 'URL', 'stoxx', '600']",Thu Dec 10 23:22:26 +0000 2015,2878469108,NEU,0.9173600077629089
+"['$', 'rex', '65.81', 'looks', 'great', 'for', 'adding', 'to', 'our', 'position', '.', 'eventually', 'the', 'market', 'will', 'have', 'to', 'play', 'catch', 'up', 'for', '$', 'rex', 'and', '$', 'peix', 'undervalued']",Thu Dec 04 15:20:03 +0000 2014,1149877135,POS,0.9694879651069641
+"['$', 'rex', '-', 'bank', 'of', 'new', 'york', 'mellon', 'corp', '.', '(', 'the', ')', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Fri Jul 10 14:09:03 +0000 2015,1627066812,NEU,0.9722222685813904
+"['network', 'changes', 'at', '$', 'rex', 'already', 'paying', 'off', '?', 'improved', 'loads', 'for', 'sep', '/', 'oct', '-', '2014', '.', 'earlier', 'analysis', ':', 'URL', 'URL']",Wed Dec 03 00:17:57 +0000 2014,16112625,POS,0.9267476201057434
+"['$', 'rex', '-', 'franklin', 'resources', ',', 'inc', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Fri Mar 20 13:26:03 +0000 2015,1627066812,NEU,0.9752817749977112
+"['$', 'rex', '-', 'deutsche', 'bank', 'ag', 'form', '8.5', '(', 'ept', '/', 'ri', ')', 'rexam', 'plc', 'URL']",Mon Jul 20 10:17:02 +0000 2015,1627066812,NEU,0.9742520451545715
+"['$', 'rex', '-', 'old', 'mutual', 'plc', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Tue Apr 07 14:21:06 +0000 2015,1627066812,NEU,0.9747427701950073
+"['$', 'rex', '-', 'state', 'street', 'global', 'advisors', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Tue Apr 07 13:04:08 +0000 2015,1627066812,NEU,0.9738483428955078
+"['$', 'rex', '-', 'rexam', 'plc', 'blocklisting', 'interim', 'review', 'URL']",Thu Sep 18 11:35:02 +0000 2014,1627066812,NEU,0.9736594557762146
+"['$', 'rex', '-', 'quarterly', 'report', '(', '10', '-', 'q', ')', 'URL']",Fri Dec 05 13:45:42 +0000 2014,2554107798,NEU,0.9729905724525452
+"['$', 'rex', '-', 'credit', 'suisse', 'securities', '(', 'eur', ')', 'ltd', 'form', '8.5', '(', 'ept', '/', 'non-ri', ')', 'rexam', 'plc', 'URL']",Fri Oct 30 11:44:19 +0000 2015,1627066812,NEU,0.9760092496871948
+"['$', 'rex', '-', 'marathon', 'asset', 'manag', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Mon Aug 03 10:52:01 +0000 2015,1627066812,NEU,0.9763335585594177
+"['$', 'rex', '-', 'corvex', 'management', 'lp', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Mon Oct 12 13:15:18 +0000 2015,1627066812,NEU,0.9717033505439758
+"['$', 'rex', '-', 'barclays', 'plc', 'form', '8.5', '(', 'ept', '/', 'non-ri', ')', '-', 'rexam', 'plc', 'URL']",Wed Aug 26 10:48:01 +0000 2015,1627066812,NEU,0.9755588173866272
+"['$', 'rex', '-', 'rexam', 'plc', 'final', 'results', 'URL']",Thu Feb 20 07:04:21 +0000 2014,1627066812,NEU,0.9687886238098145
+"['$', 'rex', '-', 'old', 'mutual', 'plc', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Tue Mar 03 15:26:05 +0000 2015,1627066812,NEU,0.9747427701950073
+"['$', 'rex', '-', 'ascend', 'capital', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Tue Aug 18 06:01:33 +0000 2015,1627066812,NEU,0.9723570346832275
+"['$', 'rex', '-', 'goldmansachs', 'international', 'form', '8.5', '(', 'ept', '/', 'non-ri', ')', 'URL']",Tue Aug 18 10:21:04 +0000 2015,1627066812,NEU,0.971413254737854
+"['$', 'rex', '-', 'alliancebernstein', 'lp', 'form', '8.3', '-', '[', 'rexam', 'plc', ']', 'URL']",Tue Oct 13 14:00:35 +0000 2015,1627066812,NEU,0.9730379581451416
+"['rexam', ""plc's"", 'neutral', 'rating', 'reiterated', 'at', 'credit', 'suisse', '.', 'URL', '$', 'rex', 'rex']",Tue Jul 29 07:08:54 +0000 2014,68559732,NEU,0.9105952382087708
+"['$', 'rex', ':', 'insider', 'trading', 'alert', '-', 'rex', ',', 'cien', 'and', 'pfpt', 'traded', 'by', 'insiders', 'URL', 'URL']",Tue Jul 29 19:44:05 +0000 2014,525176943,NEU,0.9758468866348267
+"['$', 'rex', '-', 'polaris', 'capital', 'management', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Wed Nov 25 07:01:04 +0000 2015,1627066812,NEU,0.9747428894042969
+"['$', 'rex', '-', 'rexam', 'plc', 'holding', '(', 's', ')', 'in', 'company', 'URL']",Fri May 15 10:46:03 +0000 2015,1627066812,NEU,0.9737087488174438
+"['$', 'rex', '-', 'northern', 'trust', 'corporation', 'form', '8.3', '-', 'ball', 'corporation', 'URL']",Thu Nov 12 14:13:04 +0000 2015,1627066812,NEU,0.9712125062942505
+"['$', 'rex', '-', 'state', 'street', 'global', 'advisors', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Thu Nov 12 14:15:05 +0000 2015,1627066812,NEU,0.9738483428955078
+"['$', 'rex', '-', 'barclays', 'plc', 'form', '8.5', '(', 'ept', '/', 'non-ri', ')', '-', 'rexam', 'plc', 'amendment', 'to', 'sales', 'URL']",Thu Nov 12 13:01:05 +0000 2015,1627066812,NEU,0.9723995327949524
+"['$', 'rex', 'rex', '/', 'rexam', 'plc', '(', 'gb', ')', '.', 'positive', 'score', '+', '3', '.', 'signal', '(', '+', '2', ')', ',', 'correlation', '(', '+', '1', ')', '.', 'URL', 'stocks', 'stockaction']",Thu Sep 10 15:26:59 +0000 2015,2854509063,NEU,0.9272385239601135
+"['$', 'rex', '-', 'rexam', 'plc', 'rule', '2.10', 'announcement', 'URL']",Mon Nov 23 17:20:03 +0000 2015,1627066812,NEU,0.9706253409385681
+"['$', 'rex', '-', 'barclays', 'plc', 'form', '8.5', '(', 'ept', '/', 'non-ri', ')', '-', 'rexam', 'plc', 'URL']",Wed May 13 10:52:02 +0000 2015,1627066812,NEU,0.9755588173866272
+"['$', 'rex', '-', 'highfields', 'capital', 'management', 'lp', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Wed May 13 13:51:04 +0000 2015,1627066812,NEU,0.975126326084137
+"['$', 'rex', '-', 'invesco', 'limited', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Thu May 14 13:55:12 +0000 2015,1627066812,NEU,0.9666769504547119
+"['swn', 'southwestern', 'energy', 'co', '.', 'volume', 'click', 'here', '->', 'URL', 'trending', '$', 'swn', '$', 'swn', '$', 'rex', '$', 'sbux', 'swn', 'tradeideas', 'investing']",Mon May 04 06:00:05 +0000 2015,1833020461,NEU,0.9632781147956848
+"['$', 'rex', '-', 'barclays', 'plc', 'form', '8.5', '(', 'ept', '/', 'non-ri', ')', '-', 'rexam', 'plc', '-', 'amendment', 'URL']",Fri Feb 13 17:38:07 +0000 2015,1627066812,NEU,0.976250171661377
+"['$', 'rex', '-', 'bank', 'of', 'new', 'york', 'mellon', 'corp', '.', '(', 'the', ')', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Wed Feb 25 15:24:01 +0000 2015,1627066812,NEU,0.9722222685813904
+"['$', 'rex', '-', 'credit', 'suisse', 'securities', '(', 'eur', ')', 'ltd', 'form', '8.5', '(', 'ept', '/', 'ri', ')', '-', 'rexam', 'plc', 'URL']",Fri Jun 12 10:47:02 +0000 2015,1627066812,NEU,0.9752839207649231
+"['$', 'rex', '-', 'lazard', 'asset', 'management', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Tue Sep 01 13:14:01 +0000 2015,1627066812,NEU,0.9745814204216003
+"['sept', 'corn', 'down', 'to', '$', '4.15', '-', 'this', 'is', 'a', 'far', 'better', 'scenario', 'than', 'march', 'when', 'corn', '/', 'ethanol', 'prices', 'rose', 'together', '$', 'peix', '$', 'rex']",Tue Jul 01 12:46:58 +0000 2014,532240590,POS,0.7473602890968323
+"['$', 'rex', '-', 'credit', 'suisse', 'securities', '(', 'eur', ')', 'ltd', 'form', '8.5', '(', 'ept', '/', 'ri', ')', '-', 'rexam', 'plc', 'URL']",Tue Nov 03 12:23:02 +0000 2015,1627066812,NEU,0.9752839207649231
+"['$', 'rex', '-', 'lazard', 'asset', 'management', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Mon Feb 23 13:43:02 +0000 2015,1627066812,NEU,0.9745814204216003
+"['this', 'supertraders', 'subscription', 'service', 'changed', 'my', 'financial', 'life', 'forever', '!', 'URL', '$', 'df', '$', 'rex', '$', 'spxu', '$', 'eix', '$', 'pvh', '$', 'zbra']",Wed Aug 13 08:46:25 +0000 2014,2694667118,POS,0.9743183255195618
+"['$', 'rex', '-', 'credit', 'suisse', 'securities', '(', 'eur', ')', 'ltd', 'form', '8.5', '(', 'ept', '/', 'non-ri', ')', 'rexam', 'plc', 'URL']",Tue Feb 24 10:28:01 +0000 2015,1627066812,NEU,0.9760092496871948
+"['$', 'rex', '-', 'bank', 'of', 'america', 'merrill', 'lynch', 'form', '8.5', '(', 'ept', '/', 'ri', ')', 'URL']",Thu Feb 12 11:43:02 +0000 2015,1627066812,NEU,0.970106840133667
+"['$', 'rex', '-', 'credit', 'suisse', 'securities', '(', 'usa', ')', 'llc', 'form', '8.5', '(', 'ept', '/', 'non-ri', ')', '-', 'rexam', 'plc', 'URL']",Tue May 05 11:15:05 +0000 2015,1627066812,NEU,0.9765207171440125
+"['$', 'rex', 'leading', 'ethanol', 'company', ',', 'rex', 'american', 'resources', ',', 'to', 'report', 'q1', 'results', 'and', 'host', 'conference', 'call', 'an', '..', 'URL']",Wed May 21 14:00:58 +0000 2014,946421838,NEU,0.9590256810188293
+"['$', 'rex', 'general', 'partner', 'of', 'summit', 'midstream', 'partners', ',', 'lp', 'announces', 'closing', 'of', '...', 'URL']",Wed Jan 29 00:14:41 +0000 2014,1835448685,NEU,0.9717065095901489
+"['$', 'rex', '-', 'blackrock', 'group', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Mon Jul 13 14:08:01 +0000 2015,1627066812,NEU,0.9722483158111572
+"['$', 'rex', '-', 'lazard', 'asset', 'management', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Tue Jul 14 11:25:01 +0000 2015,1627066812,NEU,0.9745814204216003
+"['$', 'rex', '-', 'deutsche', 'bank', 'ag', 'form', '8.5', '(', 'ept', '/', 'ri', ')', 'rexam', 'plc', 'URL']",Thu Apr 02 10:40:02 +0000 2015,1627066812,NEU,0.9742520451545715
+"['$', 'rex', ':', 'ln', 'ball', 'vows', 'to', 'overcome', 'eu', 'commission', 'objections', 'to', 'rexam', 'deal', 'rexam', 'plc', 'URL', 'stoxx', '600']",Thu Oct 01 22:20:41 +0000 2015,2878469108,NEU,0.8442790508270264
+"['$', 'rex', '-', 'bank', 'of', 'new', 'york', 'mellon', 'corp', '.', '(', 'the', ')', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Thu Jul 23 13:47:01 +0000 2015,1627066812,NEU,0.9722222685813904
+"['$', 'rex', '-', 'deutsche', 'bank', 'ag', 'form', '8.5', '(', 'ept', '/', 'ri', ')', 'rexam', 'plc', 'URL']",Wed Jul 15 09:34:01 +0000 2015,1627066812,NEU,0.9742520451545715
+"['$', 'rex', '-', 'credit', 'suisse', 'securities', '(', 'eur', ')', 'ltd', 'form', '8.5', '(', 'ept', '/', 'non-ri', ')', '-', 'rexam', 'plc', 'URL']",Wed Mar 25 11:38:03 +0000 2015,1627066812,NEU,0.9761330485343933
+"['$', 'rex', '-', 'rexam', 'plc', 'half', 'yearly', 'report', 'URL']",Thu Jul 30 06:02:16 +0000 2015,1627066812,NEU,0.9690919518470764
+"['rex', 'american', 'resources', 'corp', 'insider', 'gary', 'gordon', 'cope', 'buys', '$', '1,838', 'in', '$', 'rex', 'URL']",Sat Apr 18 02:24:58 +0000 2015,68559732,NEU,0.9450634121894836
+"['this', 'guy', 'is', 'making', 'millions', '!', 'watch', 'this', 'video', 'proof', 'here', 'at', 'URL', '..', '$', 'rev', '$', 'rex', '$', 'rexr', '$', 'rf']",Mon Mar 30 18:07:35 +0000 2015,2799908841,POS,0.8536086082458496
+"['$', 'rex', '-', 'magnetar', 'financial', '(', 'uk', ')', 'llp', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Fri Mar 06 15:16:02 +0000 2015,1627066812,NEU,0.9733466506004333
+"['federal', 'signal', 'corp', '.', '(', 'fss', ')', 'leads', 'small-cap', 'stars', 'consumer', 'goods', 'sector', 'for', 'november', '5', '$', 'sqbg', '$', 'prmw', '$', 'rex', '$', 'cscd', '$', 'fss', 'URL']",Wed Nov 05 21:54:10 +0000 2014,217011425,NEU,0.9139426350593567
+"['rt', 'if', 'you', 'think', ""today's"", 'stocks', '(', '$', 'bdev', ',', '$', 'vod', ',', '$', 'sn', '.', ',', '$', 'rsa', ',', '$', 'hl', '.', ',', '$', 'c21', ',', '$', 'wos', ',', '$', 'rex', ',', '$', 'uu', ')', 'are', 'going', 'to', 'go', 'brksup']",Sun Jun 15 15:05:21 +0000 2014,473760147,NEU,0.959602415561676
+"['rexam', 'expands', 'into', 'saudi', 'arabia', 'URL', '$', 'rex', '$', 'ko', '$', 'pep']",Fri Feb 14 06:25:03 +0000 2014,102325185,NEU,0.9602841138839722
+"['$', 'rex', '-', 'marshall', 'wace', 'llp', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Tue Jun 09 14:01:11 +0000 2015,1627066812,NEU,0.9740756750106812
+"['$', 'rex', ':', 'ln', 'rexam', 'plc', 'stock', 'rating', 'reaffirmed', 'by', 'credit', 'suisse', '(', 'rex', ')', 'rexam', 'plc', 'URL', 'stoxx', '600']",Mon Jan 19 15:32:48 +0000 2015,2878469108,NEU,0.8832221627235413
+"['$', 'rex', '-', 'bank', 'of', 'america', 'merrill', 'lynch', 'form', '8.5', '(', 'ept', '/', 'ri', ')', 'URL']",Thu Nov 19 11:45:13 +0000 2015,1627066812,NEU,0.970106840133667
+"['$', 'rex', '-', 'the', 'vanguard', 'group', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Thu May 28 13:21:04 +0000 2015,1627066812,NEU,0.9714445471763611
+"['orex', 'tsxv', '$', 'rex', 'closes', 'non-brokered', 'private', 'placement', 'URL', 'gold']",Tue Jan 20 22:00:36 +0000 2015,475644434,NEU,0.9575594663619995
+"['rex', 'american', 'resources', 'corp', 'receives', 'consensus', 'rating', 'of', '“', 'strong', 'buy', '”', 'from', 'brokerages', '$', 'rex', 'URL', 'acn']",Mon Nov 16 15:06:31 +0000 2015,52210566,POS,0.5727015733718872
+"['$', 'rex', '-', 'elliott', 'capital', 'advisors', ',', 'l', '.', 'p', 'form', '8.3', '-', 'ball', 'corp', 'URL']",Fri Nov 20 15:16:06 +0000 2015,1627066812,NEU,0.9741267561912537
+"['$', 'rex', '-', 'old', 'mutual', 'plc', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Mon Sep 14 11:51:03 +0000 2015,1627066812,NEU,0.9747427701950073
+"['$', 'rex', '-', 'grantham', ',', 'mayo', ',', 'van', 'otterloo', 'llc', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Wed Nov 18 15:24:03 +0000 2015,1627066812,NEU,0.9737381339073181
+"['$', 'rex', '-', 'state', 'street', 'global', 'advisors', 'form', '8.3', '-', 'rexam', 'plc', 'URL']",Wed Nov 18 13:23:03 +0000 2015,1627066812,NEU,0.9738483428955078

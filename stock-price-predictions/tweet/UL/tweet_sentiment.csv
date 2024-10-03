@@ -1,0 +1,93 @@
+text,created_at,user_id_str,sentiment,score
+"['rt', 'AT_USER', 'AT_USER', '/', '/', 'hdp', 'a', '$', 'ul', 'a', '$', 'ul']",Tue Aug 26 22:35:23 +0000 2014,2484695800,NEU,0.9752805233001709
+"['$', 'googl', '$', 'ul', '$', 'lyb', 'URL']",Sat Feb 28 21:40:47 +0000 2015,2810017692,NEU,0.9599940180778503
+"['what', 'do', 'you', 'think', 'about', 'URL', 'equity', 'linkedfa', 'debt', '$', 'ul', '$', 'ibm']",Fri Feb 20 23:45:50 +0000 2015,2810017692,NEU,0.9772167205810547
+"['$', 'ul', ':', 'new', 'sec', 'filing', 'for', 'ul', ':', 'form', '6', '-', 'k', ',', 'no', '.', '00011916', '38-15-', '000020', 'URL', 'URL']",Tue Jan 06 15:19:02 +0000 2015,2341446434,NEU,0.9783268570899963
+"['huge', 'variation', ':', 'unibail-rodamco', '$', 'ul.pa', '228.60', 'down', '-4.35', '%', '9:25', 'am', 'URL', 'stocks']",Mon Jun 29 08:15:06 +0000 2015,3154096965,NEU,0.8755886554718018
+"['hello', 'from', 'james', '$', 'vale', '$', 'mon', '$', 'ul', '$', 'twou', 'nasdaq', '.', 'take', 'a', 'look', 'at', 'URL']",Thu Feb 19 21:15:54 +0000 2015,2810017692,NEU,0.9494659900665283
+"['$', 'ul', ':', 'company', 'shares', 'of', 'unilever', 'plc', '(', 'nyse', ':', 'ul', ')', 'rally', '0.72', '%', ':', 'URL']",Mon Dec 21 02:26:17 +0000 2015,2344619544,NEU,0.6501141786575317
+"['rt', 'AT_USER', '$', 'ul', 'received', 'a', 'new', 'alert', '.', 'see', 'why', 'at', 'URL', 'stocks', 'markets', 'daytrading', '14']",Wed May 06 03:51:33 +0000 2015,61127928,NEU,0.9689676761627197
+"['unibail-rodamco', 'se', ':', '23', '(', '-0.43', '%', ')', 'URL', '$', 'ul.as', 'unibailrodamco', 'sentiment', 'stock', 'analysis', 'bigdata']",Thu Sep 18 23:01:40 +0000 2014,948361897,NEU,0.9652948379516602
+"['how', 'will', 'a', 'recession', 'in', 'brazil', 'impact', 'colgate-palmolive', '?', 'URL', 'by', 'trefis', 'team', '$', 'cl', '$', 'pg', '$', 'ul']",Wed Mar 11 16:57:14 +0000 2015,67683728,NEU,0.9631884098052979
+"['why', ""unilever's"", 'recent', 'sale', 'might', 'not', 'be', 'wrong', 'for', 'compan', '-', 'URL', '$', 'ul', 'economics', 'trading', 'mkt']",Thu May 22 20:00:58 +0000 2014,1059243763,NEU,0.9249788522720337
+"['$', 'ul', 'unilever', 'plc', '(', 'adr', ')', 'sees', 'large', 'increase', 'in', 'short', 'interest', '(', 'ul', ')', 'URL']",Tue May 13 18:46:42 +0000 2014,1727390972,POS,0.6231974363327026
+"['$', 'ul', 'no', 'growth', 'for', 'unilever', 'plc', 'this', 'year', 'URL']",Tue May 13 19:31:03 +0000 2014,1727390972,NEG,0.9351110458374023
+"['URL', '<--', 'take', 'your', 'trading', 'to', 'the', 'next', 'level', '!', 'trading', 'dvd', 'you', 'cannot', 'live', 'without', '!', '$', 'mrkt', '$', 'keyw', '$', 'ul', '$', 'slx', '$', 'fix']",Mon Jul 20 06:03:07 +0000 2015,3115846596,POS,0.9659428596496582
+"['rt', 'AT_USER', 'canales', 'inutil', 'perro', 'culiao', 'de', 'a', '$', 'ul', 'a', '$', 'ul', 'andate', 'luego', 'maricon', 'sin', 'sangre']",Mon Jul 27 00:35:34 +0000 2015,3366365561,NEU,0.9740246534347534
+"['$', 'px', '$', 'lyb', '$', 'vale', '$', 'ul', 'URL']",Thu Mar 19 12:08:02 +0000 2015,3088825001,NEU,0.9639051556587219
+"['rt', 'AT_USER', 'back', 'to', 'business', 'with', 'our', 'market', 'moving', 'news', 'china', 'economy', 'stocks', 'europe', '$', 'ul', 'earnings', '-', '-', 'URL']",Wed Jan 22 11:57:09 +0000 2014,1613814944,NEU,0.954734206199646
+"['rt', 'AT_USER', 'back', 'to', 'business', 'with', 'our', 'market', 'moving', 'news', 'china', 'economy', 'stocks', 'europe', '$', 'ul', 'earnings', '-', '-', 'URL']",Wed Jan 22 06:24:48 +0000 2014,2198025169,NEU,0.954734206199646
+"['rt', 'AT_USER', 'back', 'to', 'business', 'with', 'our', 'market', 'moving', 'news', 'china', 'economy', 'stocks', 'europe', '$', 'ul', 'earnings', '-', '-', 'URL']",Wed Jan 22 15:06:20 +0000 2014,1864304527,NEU,0.954734206199646
+"['rt', 'AT_USER', 'back', 'to', 'business', 'with', 'our', 'market', 'moving', 'news', 'china', 'economy', 'stocks', 'europe', '$', 'ul', 'earnings', '-', '-', 'URL']",Wed Jan 22 09:31:12 +0000 2014,1677703368,NEU,0.954734206199646
+"['rt', 'AT_USER', 'back', 'to', 'business', 'with', 'our', 'market', 'moving', 'news', 'china', 'economy', 'stocks', 'europe', '$', 'ul', 'earnings', '-', '-', 'URL']",Wed Jan 22 09:36:45 +0000 2014,1636230488,NEU,0.954734206199646
+"['emerging', 'markets', 'will', 'continue', 'to', 'lead', 'procter', '&', ""gamble's"", 'growth', ',', 'beauty', 'has', 'a', 'moderate', '...', 'URL', 'by', 'trefis', 'team', '$', 'pg', '$', 'cl', '$', 'ul']",Wed Jan 22 17:04:19 +0000 2014,67683728,POS,0.6121997237205505
+"['rt', 'AT_USER', 'back', 'to', 'business', 'with', 'our', 'market', 'moving', 'news', 'china', 'economy', 'stocks', 'europe', '$', 'ul', 'earnings', '-', '-', 'URL']",Wed Jan 22 05:35:20 +0000 2014,1860363079,NEU,0.954734206199646
+"['rt', 'AT_USER', 'back', 'to', 'business', 'with', 'our', 'market', 'moving', 'news', 'china', 'economy', 'stocks', 'europe', '$', 'ul', 'earnings', '-', '-', 'URL']",Wed Jan 22 18:06:59 +0000 2014,1696966892,NEU,0.954734206199646
+"['rt', 'AT_USER', 'back', 'to', 'business', 'with', 'our', 'market', 'moving', 'news', 'china', 'economy', 'stocks', 'europe', '$', 'ul', 'earnings', '-', '-', 'URL']",Wed Jan 22 13:21:51 +0000 2014,1915398908,NEU,0.954734206199646
+"['rt', 'AT_USER', 'back', 'to', 'business', 'with', 'our', 'market', 'moving', 'news', 'china', 'economy', 'stocks', 'europe', '$', 'ul', 'earnings', '-', '-', 'URL']",Wed Jan 22 08:33:20 +0000 2014,1105845379,NEU,0.954734206199646
+"['rt', 'AT_USER', 'back', 'to', 'business', 'with', 'our', 'market', 'moving', 'news', 'china', 'economy', 'stocks', 'europe', '$', 'ul', 'earnings', '-', '-', 'URL']",Wed Jan 22 08:55:32 +0000 2014,1703892469,NEU,0.954734206199646
+"['rt', 'AT_USER', 'back', 'to', 'business', 'with', 'our', 'market', 'moving', 'news', 'china', 'economy', 'stocks', 'europe', '$', 'ul', 'earnings', '-', '-', 'URL']",Wed Jan 22 07:16:22 +0000 2014,1662380144,NEU,0.954734206199646
+"['$', 'ul', '-', 'stock', 'market', 'today', ':', 'a', 'buyout', 'for', 'a-b', 'inbev', 'and', 'a', 'solid', 'quarter', 'for', 'uni', '...', '->', 'URL', 'stock', 'stocks', 'stockaction']",Wed Jan 22 07:36:37 +0000 2014,300706809,POS,0.8178445100784302
+"['rt', 'AT_USER', 'back', 'to', 'business', 'with', 'our', 'market', 'moving', 'news', 'china', 'economy', 'stocks', 'europe', '$', 'ul', 'earnings', '-', '-', 'URL']",Wed Jan 22 03:31:27 +0000 2014,1623879169,NEU,0.954734206199646
+"['$', 'ul', '-', 'jordans', 'wraps', 'up', '£', '50m', 'dorset', 'cereals', 'deal', '->', 'URL', 'stock', 'stocks', 'stockaction']",Wed Jun 04 18:32:19 +0000 2014,2180886595,NEU,0.9516052603721619
+"['stocks', 'going', 'ex-dividend', 'tomorrow', '(', '5/7', '):', '$', 'pfe', '$', 'wmt', '$', 'met', '$', 'ul', '$', 'ba', '$', 'bp', '$', 'wfc', '$', 'ibm']",Tue May 06 14:25:43 +0000 2014,34035933,NEU,0.9692187905311584
+"['$', 'ul', 'real-life', 'investing', ':', 'quindell', 'URL']",Tue May 06 14:35:59 +0000 2014,2473738396,NEU,0.9710871577262878
+"['AT_USER', '$', 'lv', 'lado', '$', 'ul']",Thu Jun 26 06:01:24 +0000 2014,171913887,NEU,0.9686564207077026
+"['deontem', 'deubom', 'loshermanos', '@', 'gama', '-', '$', 'ul', 'URL']",Mon Oct 12 01:52:40 +0000 2015,102754468,NEU,0.9713858962059021
+"['rt', 'AT_USER', 'why', 'and', 'how', 'you', 'can', 'profit', 'investing', 'in', ""africa's"", '1.1', 'billion', 'consumers', 'URL', '…', '$', 'cl', '$', 'ko', '$', 'un', '$', 'ul']",Mon Aug 10 01:14:09 +0000 2015,3240287871,NEU,0.8403353095054626
+"['tell', 'AT_USER', 'AT_USER', 'to', 'drop', 'the', 'lawsuit', 'against', 'sustainable', 'food', 'company', 'AT_USER', 'URL', '$', 'ul']",Thu Dec 11 00:58:37 +0000 2014,321720422,NEU,0.6436593532562256
+"['tell', 'AT_USER', 'AT_USER', 'to', 'drop', 'the', 'lawsuit', 'against', 'sustainable', 'food', 'company', 'AT_USER', 'URL', '$', 'ul']",Thu Dec 11 20:00:03 +0000 2014,36735836,NEU,0.6436593532562256
+"['new', 'highs', 'for', 'today', 'stocks', 'URL', '$', 'ul', '$', 'sxl', '$', 'pcrx']",Sun Jun 29 13:50:02 +0000 2014,121370906,POS,0.6724157333374023
+"['$', 'ul', '-', 'what', '’', 's', 'next', 'for', 'bae', 'systems', 'plc', '?', '->', 'URL', 'stock', 'stocks', 'stockaction']",Wed Feb 19 09:47:30 +0000 2014,2180886595,NEU,0.9730216860771179
+"['$', 'ul', '10', 'richest', 'world', 'cup', 'athletes', 'URL']",Wed Jun 11 13:08:08 +0000 2014,1729115834,NEU,0.9465280771255493
+"['unilever', 'plc', 'given', 'a', '+', 'credit', 'rating', 'by', 'morningstar', '$', 'ul', 'URL']",Tue Aug 18 12:42:14 +0000 2015,1979190776,POS,0.7694353461265564
+"['unilever', 'downgraded', 'by', 'societe', 'generale', 'to', 'hold', '.', 'URL', '$', 'ul', 'ul']",Thu Jan 30 19:00:19 +0000 2014,68559732,NEU,0.9229094386100769
+"['$', 'ul', 'why', ""i'm"", 'invested', 'in', 'unilever', 'URL']",Wed May 07 00:56:44 +0000 2014,2473753198,NEU,0.9459590911865234
+"['tell', 'AT_USER', 'AT_USER', 'to', 'drop', 'the', 'lawsuit', 'against', 'sustainable', 'food', 'company', 'AT_USER', 'URL', '$', 'ul']",Wed Dec 10 18:29:06 +0000 2014,2269393526,NEU,0.6436593532562256
+"['tell', 'AT_USER', 'AT_USER', 'to', 'drop', 'the', 'lawsuit', 'against', 'sustainable', 'food', 'company', 'AT_USER', 'URL', '$', 'ul']",Wed Dec 10 16:34:57 +0000 2014,91875480,NEU,0.6436593532562256
+"['tell', 'AT_USER', 'AT_USER', 'to', 'drop', 'the', 'lawsuit', 'against', 'sustainable', 'food', 'company', 'AT_USER', 'URL', '$', 'ul']",Wed Dec 10 16:00:31 +0000 2014,222835717,NEU,0.6436593532562256
+"['tell', 'AT_USER', 'AT_USER', 'to', 'drop', 'the', 'lawsuit', 'against', 'sustainable', 'food', 'company', 'AT_USER', 'URL', '$', 'ul']",Wed Dec 10 16:08:15 +0000 2014,32995001,NEU,0.6436593532562256
+"['procter', '&', 'gamble', ':', 'it', 'is', 'time', 'for', 'some', 'new', 'blood', 'URL', '…', '$', 'brk', '.', 'a', '$', 'brk', '.', 'b', '$', 'henky', '$', 'ul', '$', 'pg']",Wed Apr 15 03:35:30 +0000 2015,935242836,NEU,0.9578794240951538
+"['$', 'ul', 'morrisons', 'to', 'hire', 'former', 'te', 'URL']",Tue Jul 29 13:46:39 +0000 2014,2659738434,NEU,0.9734470844268799
+"['$', 'ul', 'received', 'a', 'new', 'alert', '.', 'find', 'out', 'why', 'at', 'URL', 'stocks', 'daytrading', 'trading', 'mkt', 'nyse', 'nasda', '…', 'URL']",Wed Sep 16 00:21:53 +0000 2015,2863026998,NEU,0.971183717250824
+"['tell', 'AT_USER', 'AT_USER', 'to', 'drop', 'the', 'lawsuit', 'against', 'sustainable', 'food', 'company', 'AT_USER', 'URL', '$', 'ul']",Tue Jan 13 18:46:37 +0000 2015,2722240736,NEU,0.6436593532562256
+"['big', 'gaps', ':', 'URL', '$', 'cci', ',', '$', 'ebay', ',', '$', 'beav', ',', '$', 'joy', ',', '$', 'alk', ',', '$', 'jci', ',', '$', 'xlnx', ',', '$', 'dfs', ',', '$', 'sndk', ',', '$', 'nvo', ',', '$', 'chkp', ',', '$', 'nvs', ',', '$', 'ul', ',', '$', 'emr', ',', '$', 'cp']",Thu Jan 22 14:35:46 +0000 2015,49605610,NEU,0.8960307240486145
+"['visa', ',', 'unilever', 'and', 'nxp', 'semi', 'are', 'superior', 'stocks', 'says', 'covestor', 'portfolio', 'manager', ':', 'URL', 'via', 'AT_USER', '$', 'v', '$', 'ul', '$', 'nxpi']",Thu Nov 12 13:37:14 +0000 2015,15599095,POS,0.703911304473877
+"['supongo', 'a', '$', 'ul', 'a', '$', 'ul', 'mañana', 'va', 'a', 'bajar', 'las', 'entradas', 'para', 'ir', 'a', 'despedir', 'a', 'pepe', 'rojas', 'y', 'no', 'se', 'va', 'a', 'aprovechar', 'del', 'sentimiento', 'azul', 'x', 'el', 'capitan', '.']",Fri Dec 04 18:39:20 +0000 2015,1694552766,NEU,0.9674819111824036
+"['unilever', 'plc', 'rating', 'reiterated', 'by', 'liberum', 'capital', '$', 'ul', 'URL']",Mon Jan 12 21:33:24 +0000 2015,2181281054,NEU,0.7730951309204102
+"['estée', 'q', 'stands', 'out', 'for', 'strong', 'growth', 'globally', 'ex', 'china', '.', 'beauty', 'category', 'up', 'healthy', '4-5', '%', ',', 'strong', 'even', 'in', 'ems', '.', '$', 'el', 'growth', 'there', '+', '31', '%', '$', 'pg', '$', 'ul']",Mon Nov 02 17:54:57 +0000 2015,24590532,POS,0.9527487754821777
+"['rio', '$', 'ul', 'soluçoes', 'cadastrais', '*', 'credito', 'consiguinado', '*', 'credito', 'pesoal', '*', 'compr', 'd', 'edividas', '*', 'refinanciamento', 'de', '...', 'URL']",Mon Jul 07 19:51:52 +0000 2014,709519682,NEU,0.9716911911964417
+"['$', 'jnj', 'news', ':', '""', 'what', 'have', 'we', 'really', 'lost', '?', '$', 'jnj', '$', 'ul', '$', 'arcp', '$', 'bbl', '…', '""', 'URL', 'board', 'view', ':', 'URL']",Tue Oct 21 02:59:48 +0000 2014,1923926642,NEU,0.7180424332618713
+"['$', 'ul', 'method', 'is', 'the', 'new', 'green', 'giant', 'in', 'chicago', 'URL']",Sun Apr 20 22:51:04 +0000 2014,1729115834,POS,0.5905213356018066
+"['$', 'ul', 'received', 'a', 'new', 'alert', '.', 'find', 'out', 'why', 'at', 'URL', 'stocks', 'daytrading', 'trading', 'mkt', 'nyse', 'nasdaq', 'markets', '685']",Wed Jul 30 20:54:50 +0000 2014,39546678,NEU,0.9647136926651001
+"['unilever', 'plc', '$', 'adr', '$', 'ul', 'declares', 'quarterly', 'dividend', 'of', '$', '0.38', 'URL']",Wed Jul 30 13:18:23 +0000 2014,2525892205,NEU,0.9428859949111938
+"['check', 'this', 'financialadvice', '$', 'ul', 'URL']",Mon Feb 23 10:48:44 +0000 2015,2810017692,NEU,0.9741867184638977
+"['check', 'this', '$', 'ul', '$', 'ibm', '$', 'msft', 'equity', '401k', 'gdp', 'boomer', 'URL']",Mon Feb 23 14:59:44 +0000 2015,2810017692,NEU,0.9644820690155029
+"['$', 'ul', 'received', 'a', 'new', 'alert', '.', 'see', 'why', 'at', 'URL', 'stocks', 'markets', 'daytrading', '4']",Tue May 05 02:10:00 +0000 2015,39546678,NEU,0.960373044013977
+"['$', 'cl', ',', '$', 'kmb', ',', '$', 'pg', ',', '$', 'ul', 'head', 'to', 'head', 'benchmark', 'on', 'esg', 'data', ',', 'aka', 'sustainability', 'disclosures.URL']",Mon Aug 25 16:44:06 +0000 2014,18596021,NEU,0.957793653011322
+"['$', 'ul', '-', 'hindustan', 'unilever', 'q3', 'sales', 'growth', 'slows', ',', 'no', 'immediate', 'recovery', '->', 'URL', 'stock', 'stocks', 'stockaction']",Mon Jan 27 11:30:45 +0000 2014,153395860,NEG,0.7468770742416382
+"['$', 'ul', 'how', 'strong', 'are', 'unilever', 'plchs', 'div', 'URL']",Mon Jun 30 20:02:12 +0000 2014,2484872148,POS,0.6204856634140015
+"['$', 'ul', ':', 'in', 'karachi', ',', 'the', 'taliban', 'digs', 'in', 'for', 'the', 'long', 'haul', 'URL']",Fri May 16 03:29:06 +0000 2014,2358944184,NEU,0.9693171381950378
+"['$', 'ul', 'butter', 'is', 'now', 'winning', 'the', 'fat', 'wars', 'URL']",Tue Jan 21 20:01:17 +0000 2014,1849605206,NEU,0.6514219641685486
+"['rt', 'AT_USER', 'back', 'to', 'business', 'with', 'our', 'market', 'moving', 'news', 'china', 'economy', 'stocks', 'europe', '$', 'ul', 'earnings', '-', '-', 'URL']",Tue Jan 21 14:19:10 +0000 2014,1669777567,NEU,0.954734206199646
+"['rt', 'AT_USER', 'back', 'to', 'business', 'with', 'our', 'market', 'moving', 'news', 'china', 'economy', 'stocks', 'europe', '$', 'ul', 'earnings', '-', '-', 'URL']",Tue Jan 21 17:11:12 +0000 2014,1703157325,NEU,0.954734206199646
+"['$', 'ul', '-', 'european', 'stocks', 'rebound', 'on', 'china', 'liquidity', 'boost', '->', 'URL', 'stock', 'stocks', 'stockaction']",Tue Jan 21 18:36:15 +0000 2014,300706809,NEU,0.6662969589233398
+"['$', 'ul', 'unilever', 'buys', 'out', 'rights', 'of', ""co-founder's"", 'family', 'trusts', 'URL']",Tue May 20 10:16:42 +0000 2014,1729115834,NEU,0.9534667134284973
+"['$', 'ibm', '$', 'ul', '$', 'qcom', 'linkedfa', 'taxes', 'new', 'info', 'URL']",Sat Mar 14 22:12:48 +0000 2015,2810017692,NEU,0.9722715020179749
+"['unibail', 'rodamco', ':', '-', 'rodamco', 'se', ':', 'avis', 'aux', 'détenteurs', ""d'ora"", 'suite', 'à', ""l'assembl"", '...', 'URL', '$', 'ul']",Fri Apr 17 15:41:02 +0000 2015,1953776653,NEU,0.9767501950263977
+"['$', 'ul', ':', 'zacks', 'rating', 'on', 'unilever', 'plc', ':', 'URL']",Thu Jul 30 05:02:04 +0000 2015,2342215530,NEU,0.9630051851272583
+"['clayton', ':', 'ul', '44.94', 'unilever', 'plc', '$', 'ul', 'added', 'to', 'my', 'watch', 'list', '.', 'URL']",Fri Oct 16 17:33:40 +0000 2015,376367767,NEU,0.7848727107048035
+"['unibail', 'rodamco', ':', 'hausse', 'de', '6,3', '%', 'du', 'chiffre', ""d'affaires"", 'au', 't1', 'URL', '$', 'ul']",Mon Apr 20 18:48:03 +0000 2015,1953776653,NEU,0.9729421734809875
+"['unilever', 'plc', '’', 's', '“', 'sell', '”', 'rating', 'reaffirmed', 'at', 'liberum', 'capital', '$', 'ul', 'URL']",Mon Mar 30 17:35:31 +0000 2015,2743641378,NEU,0.9653835892677307
+"['hello', ',', 'it', 'is', 'james', '.', 'i', 'just', 'finished', 'URL', 'liquidity', '$', 'aan', '$', 'ul']",Fri Mar 06 11:13:09 +0000 2015,2810017692,NEU,0.9217001795768738
+"['rt', 'AT_USER', 'AT_USER', 'your', 'tweet', 'about', '$', 'ul', 'had', 'a', 'sentiment', 'of', '5', 'and', 'was', 'featured', 'on', 'market', 'parse', '.', 'URL']",Thu Apr 16 20:43:41 +0000 2015,233993719,NEU,0.9183802008628845
+"['$', 'ul', 'british', 'reporting', 'rule', 'change', 'exposes', 'transatlantic', 'cultural', 'gap', 'URL']",Sun Jan 05 08:39:14 +0000 2014,1923869994,NEG,0.5266537070274353
+"['staples', 'proving', 'real', 'port', 'in', 'storm', '.', 'despite', 'em', 'macro', 'fears', ',', 'many', 'seeing', 'accelerating', 'trends', '$', 'ko', '$', 'pep', '$', 'pm', '$', 'kmb', '$', 'ul', 'reckitt', 'sabmiller']",Wed Oct 21 12:02:34 +0000 2015,24590532,POS,0.7673976421356201
+"['potential', 'unilever', '$', 'ul', 'trade', 'has', '3.94', '%', 'downside', 'protection', '(', 'URL', ')']",Tue Jun 24 19:53:31 +0000 2014,36102165,NEU,0.9307078123092651
+"['consumer', 'goods', 'sector', ':', 'upgrades', ':', '$', 'gm', '$', 'tsn', '$', 'icon', '$', 'mo', '$', 'tap', '$', 'ul', '$', 'bud', '$', 'pcar', '$', 'sjm', '$', 'alsn', 'URL', 'stockpicks', 'daytrading', 'markets']",Sun Feb 08 13:01:42 +0000 2015,954921476,NEU,0.8073252439498901
+"['rt', 'AT_USER', 'swiss', 'deal', '-', 'november', 'gold', 'referendum', 'failed', ':', 'was', 'there', 'a', 'deal', '?', 'URL', '$', 'fxe', '$', 'euo', '$', 'fxf', '$', 'ero', '$', 'drr', '$', 'eufx', '$', 'ul', '…']",Tue Jan 27 11:42:31 +0000 2015,2385944899,NEU,0.5198580622673035
+"['unilever', 'plc', '’', 's', '“', 'underweight', '”', 'rating', 'reaffirmed', 'at', 'jpmorgan', 'chase', '&', 'co', '.', '$', 'ul', 'URL']",Tue Jan 27 18:11:31 +0000 2015,1979190776,NEU,0.9521006941795349
+"['outlook', 'for', 'august', '2014', 'URL', '$', 'jnj', '$', 'mdt', '$', 'cvx', '$', 'rci', '$', 'bns', '$', 'cni', '$', 'nsc', '$', 'pg', '$', 'ul']",Fri Aug 01 18:01:36 +0000 2014,1512267163,NEU,0.9724189639091492
+"['short', 'interest', 'in', 'unilever', 'plc', 'grows', 'by', '56.6', '%', '$', 'ul', 'URL']",Tue May 26 07:56:33 +0000 2015,1979190776,POS,0.653191328048706
+"['$', 'ul', 'URL']",Mon Sep 14 20:57:18 +0000 2015,297848618,NEU,0.9475162625312805
+"['danone', 'turns', 'milk', 'into', 'a', 'steady', 'stream', 'of', 'dividends', 'URL', '$', 'nsrgy', '$', 'ul', '$', 'un', '$', 'danoy']",Wed Nov 18 19:27:52 +0000 2015,203865381,NEU,0.9051716923713684
