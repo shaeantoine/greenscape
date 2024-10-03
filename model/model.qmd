@@ -249,3 +249,34 @@ mcmc_areas(
         plot.title = element_text(face="bold", size = 18, hjust = 0.5),
         text = element_text(family = "Ubuntu"))
 ```
+
+```{r}
+posterior_samples = as_draws_df(model_HCC)
+
+color_scheme_set(c(lightorange, orange, orange, orange, orange,lightorange))
+
+mcmc_areas(
+    posterior_samples,
+    #pars = c("b_bb_z_score", "b_rsi", "b_sentiment_number", "b_linear_combination_sentiment", "ar[1]"),
+    pars = c("b_rsi"),
+    prob = 0.95,
+    prob_outer = 1,
+    point_est = "mean"
+  ) + 
+  geom_vline(xintercept=0, color="black", linetype=2) +
+  labs(x="Estimate",
+     y="Predictor", 
+     title=str_wrap("Posterior Distributions with 95% Equal-Tailed Credible Intervals",40)) +
+  scale_y_discrete(labels = function(x) str_wrap(gsub("_", " ", 
+                                                      gsub("b_", "", x)), 
+                                                 width = 10)) +
+  theme(plot.background = element_rect(fill = "#ffffff", linewidth = 0),
+        legend.background = element_rect(fill = "#ffffff", linewidth = 0),
+        panel.border = element_rect(colour = "black", fill=NA),
+        legend.box.background = element_rect(colour = "black"),
+        axis.title = element_text(face="bold", size=16),
+        axis.text = element_text(size = 11),
+        legend.text = element_text(size = 12),
+        plot.title = element_text(face="bold", size = 18, hjust = 0.5),
+        text = element_text(family = "Ubuntu"))
+```
