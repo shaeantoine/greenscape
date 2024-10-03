@@ -119,7 +119,7 @@ print("downloaded")
 
 children = []
 company_id = None
-for id in range(len(shorted_tweets)):
+for id in range(1):#len(shorted_tweets)):
     pid = os.fork()
     if pid == 0:
         company_id = id
@@ -136,7 +136,7 @@ else:
 
     tweet_df = pd.DataFrame()
 
-    company = shorted_tweets[company_id]
+    company = shorted_tweets[company_id][0]
     for day_f in glob(f"stock-price-predictions/tweet/{company}/*"):
         data = []
         with open(day_f, 'r') as f:
@@ -149,3 +149,4 @@ else:
     tweet_df = pd.concat([tweet_df, sentiment_df], axis=1)
 
     print(company + "-----------\n"+ tweet_df)
+    tweet_df.to_csv(f"stock-price-predictions/sentiments/{company}.csv")
