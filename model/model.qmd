@@ -85,6 +85,8 @@ colnames(autocor) = c("Estimate", "SE", "l95", "u95", "$\\mathbf{\\hat{R}}$", "B
 
 # Fix row names
 fixed_effects = fixed_effects[rownames(fixed_effects) != "Intercept", ]
+
+rownames(fixed_effects) = c("Bollinger Bands", "RSI", "Apple Sentiment", "Market Sentiment")
 rownames(autocor) = c("AR(1)", "AR(2)", "AR(3)", "AR(4)", "AR(5)")
 
 combined_table = rbind(fixed_effects, autocor)
@@ -280,3 +282,5 @@ mcmc_areas(
         plot.title = element_text(face="bold", size = 18, hjust = 0.5),
         text = element_text(family = "Ubuntu"))
 ```
+
+
