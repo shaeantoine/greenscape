@@ -96,9 +96,14 @@ num_tweets = {
 
 shorted_tweets = []
 
-for comp, tweets in num_tweets.items():
-    if tweets > 200 and tweets not in ["AAPL", "FB", "GOOG"]:
-        shorted_tweets.append((comp, tweets))
+
+shorted_tweets = [
+    (company, num)
+    for company, num in num_tweets.items()
+    if len([f for f in glob(f"stock-price-predictions/tweet/{company}/*.csv")]) == 0
+]
+
+print(shorted_tweets)
 
 print("shortened")
 
