@@ -146,10 +146,9 @@ else:
             for line in f:
                 data.append(json.loads(line))
         line_tweet_df = pd.DataFrame(data)
-        print(line_tweet_df)
         tweet_df = pd.concat([tweet_df, line_tweet_df])
 
-    print(tweet_df)
+    print("Analysing sentiment")
 
     sentiment_df = pd.DataFrame(
         analyze_sentiment(tweet_df["text"]), columns=["sentiment", "score"]
