@@ -1,0 +1,80 @@
+text,created_at,user_id_str,sentiment,score
+"['abb', 'abb', 'ltd', '.', 'stock', 'message', 'board', 'URL', '$', 'abb', '$', 'mo', '$', 'sune', '$', 'lqd', 'abb', 'pennystocks', 'stockmarket']",Sat Jun 20 10:32:05 +0000 2015,1850041968,NEU,0.9743621349334717
+"['abb', '$', 'abb', 'trading', 'near', '$', '23.14', 'resistance', 'level', '(', 'URL', ')']",Thu Jun 11 17:00:30 +0000 2015,36102165,NEU,0.9656273722648621
+"['rt', 'AT_USER', 'our', 'program', 'for', 'profitable', 'organic', 'growth', 'has', 'successfully', 'created', 'healthy', 'order', 'momentum', 'across', 'all', 'regions', '-', 'us', '$', 'abb', 'URL']",Wed Oct 22 07:10:34 +0000 2014,963782653,POS,0.9774489998817444
+"['rt', 'AT_USER', 'rt', 'AT_USER', '$', 'abb', 'doubles', 'solar', 'inverter', 'installed', 'base', 'in', 'india', 'to', '2gw', 'in', 'just', '5', 'months', 'URL', 'URL']",Fri Sep 04 10:51:23 +0000 2015,498433543,NEU,0.8105782866477966
+"['zacks', 'reiterates', '“', 'neutral', '”', 'rating', 'for', 'abb', 'ltd', '$', 'abb', 'URL']",Fri Jul 04 21:07:15 +0000 2014,2525892205,NEU,0.9586027264595032
+"['abb', 'ltd', 'upgraded', 'by', 'zacks', 'to', 'hold', '.', 'URL', '$', 'abb', 'abb']",Thu Apr 24 18:34:35 +0000 2014,68559732,NEU,0.6628705263137817
+"['abb', 'ltd', 'upgraded', 'at', 'rbc', 'capital', '$', 'abb', 'URL']",Wed Feb 11 14:09:09 +0000 2015,61661638,NEU,0.6836767792701721
+"['URL', 'stock_tracker', ':', 'abb', 'news', 'abb', 'ltd', '20.84', '$', 'abb', 'applied', ':', 'stock_tracker', 'URL', 'URL']",Wed Feb 11 04:01:44 +0000 2015,1286058860,NEU,0.9766954779624939
+"['rt', 'AT_USER', '$', 'abb', 'microgrid', 'to', 'boost', 'renewable', 'wind', 'energy', 'in', 'remote', 'communities', 'of', 'northern', 'kenya', ':', 'URL', 'URL']",Wed Sep 02 20:27:03 +0000 2015,2462871036,NEU,0.7303048968315125
+"['abb', 'ltd', '$', 'abb', 'rating', 'increased', 'to', 'outperform', 'at', 'rbc', 'capital', 'URL']",Fri Dec 11 19:52:29 +0000 2015,1979190776,POS,0.6604264974594116
+"['$', 'abb', ':', 'robert', 'w', '.', 'baird', 'lowers', 'rating', 'to', 'neutral', 'from', 'outperform', ',', 'price', 'target', 'to', '$', '28', 'from', '$', '30', 'URL']",Sun Apr 13 19:22:34 +0000 2014,1923869994,NEU,0.9532425403594971
+"['abb', 'ltd', 'upgraded', 'by', 'citigroup', 'inc', '.', 'to', 'buy', '.', 'URL', '$', 'abb', 'abb']",Tue Mar 04 12:16:00 +0000 2014,992182100,NEU,0.6708476543426514
+"['$', 'abb', ':', 'abb', 'receives', '$', '22.00', 'consensus', 'price', 'target', 'from', 'brokerages', '…', ':', 'URL']",Thu Oct 08 22:45:04 +0000 2015,2881595931,NEU,0.9294209480285645
+"['$', 'abb', 'another', 'winning', 'trade', '...', 'called', 'this', 'one', 'on', '07/31']",Wed Aug 05 14:56:25 +0000 2015,1731802255,POS,0.9450923204421997
+"['$', 'abb', 'abb', 'ltd', '.', '(', 'adr', ')', '(', 'nyse', ':', 'abb', ')', 'high', 'voltage', 'business', 'underperforms', 'URL']",Wed May 14 05:20:34 +0000 2014,1676299297,NEU,0.6624045968055725
+"['€', '$', 'abb', '#', '1', '#', '#', '1', '<', 'rqz', '(', '€', '.', 'vxvvzg', '.', 'tet', '?', 'ur', '.', 'hegwyewwwwwwywywwwwwwyweyeyeeyeeeeyeeeeeeeeeeeeeyeyeyye', 'ku']",Tue Dec 02 09:16:15 +0000 2014,1241503345,NEU,0.9298685193061829
+"['$', 'abb', 'received', 'a', 'new', 'alert', '.', 'find', 'out', 'why', 'at', 'URL', 'stocks', 'daytrading', 'trading', 'mkt', 'nyse', 'nasdaq', 'markets', '300']",Wed Jul 29 13:45:56 +0000 2015,39546678,NEU,0.9593378901481628
+"['rt', 'AT_USER', 'factory', 'robots', 'seen', 'boosting', 'employment', ',', 'not', 'killing', 'jobs', 'URL', 'ibdblogs', 'via', 'AT_USER', '$', 'tsla', '$', 'abb', '…']",Tue Oct 06 10:26:44 +0000 2015,187426749,NEU,0.6762237548828125
+"['factory', 'robots', 'seen', 'boosting', 'employment', ',', 'not', 'killing', 'jobs', 'URL', 'ibdblogs', 'via', 'AT_USER', '$', 'tsla', '$', 'abb', '$', 'adep']",Tue Oct 06 01:26:54 +0000 2015,204982635,NEU,0.6115513443946838
+"['xlb', 'energy', 'select', 'sector', 'spdr', 'summary', 'URL', '$', 'xlb', '$', 'abb', '$', 'cmg', '$', 'tlt', 'xlb', 'tradeideas', 'tradeideas']",Thu Oct 08 07:50:04 +0000 2015,2181373892,NEU,0.9766368269920349
+"['$', 'abb', '3', 'electronics', 'stocks', 'dragging', 'the', 'industry', 'down', 'URL']",Tue Jun 03 03:11:07 +0000 2014,1729135326,NEG,0.9670243263244629
+"['after', 'a', 'strong', 'run', ',', 'advanced', 'energy', 'industries', 'still', 'controversial', 'URL', '$', 'abb', '$', 'mksi', '$', 'aeis']",Tue Feb 11 18:58:49 +0000 2014,23059499,NEU,0.9144501686096191
+"['$', 'abb', 'shining', 'stocks', ':', 'united', 'technologies', 'corporation', '(', 'nyse', ':', 'utx', ')', ',', '3m', 'co', '(', 'nyse', '...', 'URL']",Tue May 06 02:55:34 +0000 2014,1729135326,NEU,0.7334298491477966
+"['$', 'abb', 'received', 'a', 'new', 'alert', '.', 'find', 'out', 'why', 'at', 'URL', 'stocks', 'daytrading', 'trading', 'mkt', 'nyse', 'nasdaq', 'markets', '62']",Fri Aug 21 12:09:52 +0000 2015,39546678,NEU,0.9617407917976379
+"['$', 'abb', 'siemens', 'chief', 'unveils', 'overhaul', ',', ""won't"", 'be', 'forced', 'into', 'alstom', 'bid', 'URL']",Wed May 07 23:15:43 +0000 2014,1729135326,NEU,0.867339551448822
+"['rt', 'AT_USER', 'microsoft', 'teams', 'up', 'with', '$', 'abb', 'to', 'launch', 'new', 'electric', 'car', 'charging', 'platform', 'URL', 'ev', 'evcharging']",Thu Oct 22 18:52:58 +0000 2015,3073730500,POS,0.5910468697547913
+"['advanced', 'energy', 'industries', 'steps', 'back', 'on', 'softer', 'demand', 'URL', '$', 'abb', '$', 'mksi', '$', 'smtgy', '$', 'aeis']",Fri May 09 13:30:03 +0000 2014,201296379,NEU,0.9151324033737183
+"['$', 'jpm', '$', 'abb', ':', 'meet', 'europe', '’', 's', 'best', 'activist', 'investor', ':', 'URL']",Thu Aug 27 15:07:02 +0000 2015,2344619544,POS,0.571901261806488
+"['rt', 'AT_USER', 'rt', 'AT_USER', 'the', 'control', 'room', 'of', 'the', 'future', ',', 'now', 'available', 'from', '$', 'abb', ':', 'URL', 'URL']",Thu Aug 27 17:04:57 +0000 2015,3230911924,NEU,0.8921789526939392
+"['$', 'abb', '-', 'directv', ',', 'weathernation', 'ink', 'deal', '->', 'URL', 'stock', 'stocks', 'stockaction']",Mon Apr 07 21:08:12 +0000 2014,404613701,NEU,0.7152007222175598
+"['csco', 'cisco', 'systems', ',', 'inc', '.', 'market', 'cap', 'URL', '$', 'csco', '$', 'xbi', '$', 'nvax', '$', 'abb', 'csco', 'pennystocks', 'stockmarket']",Thu Jun 04 04:34:33 +0000 2015,1833020461,NEU,0.9096212387084961
+"['invest', 'in', 'global', 'infrastructure', 'URL', '$', 'abb', '$', 'cbi', '$', 'cat', '$', 'pxr']",Thu Nov 12 11:13:41 +0000 2015,23059499,NEU,0.890505850315094
+"['abb', 'gapped', 'up', '+0.22', '$', 'abb', 'last', 'price', '18.81', 'day', 'high', '18.83', 'day', 'low', '18.81', 'change', '+0.30', 'volume', '121,956', 'today', '31', 'st', 'URL']",Thu Dec 03 15:11:19 +0000 2015,2181346825,NEU,0.9459457397460938
+"['rt', 'AT_USER', '$', 'abb', 'unveils', 'intelligent', 'voice-activated', 'smarthome', 'system', 'at', 'ifa', '15', ':', 'URL', 'URL']",Thu Sep 10 13:02:33 +0000 2015,449535152,POS,0.6368460059165955
+"['rt', 'AT_USER', '$', 'abb', 'energizes', 'first', 'phase', 'of', 'india', '’', 's', 'most', 'advanced', 'uhvdc', 'power', 'link', ':', 'URL', 'URL']",Mon Sep 28 15:15:04 +0000 2015,249172858,NEU,0.5401672720909119
+"['leahanne', ':', 'volume', 'alert', '-', 'abb', '17.26', 'abb', 'ltd', '$', 'abb', 'hit', 'a', 'high', 'URL']",Mon Sep 28 15:53:35 +0000 2015,2579477766,NEU,0.7300661206245422
+"['$', 'abb', 'volume', 'coming', 'in', '.', 'would', 'like', 'to', 'see', 'a', 'break', 'above', '$', '23.40', '.', 'URL']",Thu Jul 17 14:46:16 +0000 2014,302349992,NEU,0.880926251411438
+"['$', 'abb', ':', 'brokerage', 'firm', 'rating', 'and', 'target', 'on', 'abb', 'ltd', '(', 'adr', '):', 'URL']",Tue Feb 03 11:26:04 +0000 2015,2342763212,NEU,0.962169349193573
+"['$', 'abb', ':', '2014-07-', '30', ':', 'abb', ',', 'renewable', 'algal', 'energy', 'collaborate', 'to', 'commercialize', 'a', '...', 'URL', 'URL']",Fri Aug 01 22:55:52 +0000 2014,1729148222,NEU,0.7445316314697266
+"['street', 'downgrades', ':', '$', 'cce', '$', 'meru', '$', 'abb', '$', 'arg', '$', 'crh', '$', 'rtec', '$', 'ogxi', '$', 'tsn', '$', 'ssi']",Tue Apr 29 12:54:03 +0000 2014,34389648,NEU,0.5824769139289856
+"['abb', 'ltd', '$', 'abb', 'downgraded', 'by', 'zacks', 'investment', 'research', 'URL']",Tue Dec 22 19:45:50 +0000 2015,1979190776,NEU,0.7213706970214844
+"['saudi', 'arabia', 'to', 'boost', 'power', 'capacity', 'to', '91', 'gw', 'in', '2020', ',', 'awarding', '$', '78m', 'contract', 'to', '$', 'abb', 'for', 'transformer', 'construction', '.', 'URL']",Wed Jul 09 18:02:01 +0000 2014,2263452746,NEU,0.617516279220581
+"['$', 'abb', '-', 'abb', 'transformers', 'to', 'power', 'saudi', 'arabia', '->', 'URL', 'stock', 'stocks', 'stockaction']",Wed Jul 09 05:21:10 +0000 2014,300706809,NEU,0.968097984790802
+"['rt', 'AT_USER', '$', 'abb', 'to', 'cut', 'downtime', 'for', 'ecuador', '’', 's', 'AT_USER', 'state', 'oil', 'company', ':', 'URL', 'URL']",Wed Sep 09 07:42:06 +0000 2015,1352841367,NEU,0.9591453075408936
+"['$', 'abb', 'received', 'a', 'new', 'alert', '.', 'find', 'out', 'why', 'at', 'URL', 'stocks', 'daytrading', 'trading', 'mkt', 'nyse', 'nasdaq', 'markets', '83']",Fri Apr 11 11:28:26 +0000 2014,39546678,NEU,0.9614952802658081
+"['$', 'abb', 'bookies', 'caught', 'cold', 'as', 'government', 'tackles', 'crack', 'cocaine', 'of', 'gambling', 'URL']",Thu Mar 06 05:27:50 +0000 2014,1923869994,NEU,0.5300818681716919
+"['$', 'abb', ':', 'chelsea', 'counsel', 'company', 'decreases', 'position', 'in', 'abb', 'ltd', '(', 'abb', '):', 'URL']",Fri Dec 25 06:37:02 +0000 2015,2344619544,NEU,0.8141523599624634
+"['ranks', '1', 'with', 'over', '80', '%', 'in', 'alert', 'gains', 'today', '.', 'click', 'here', 'URL', '..', '$', 'abb', '$', 'abbv', '$', 'abc']",Mon Nov 02 02:08:27 +0000 2015,2730855593,POS,0.7545244097709656
+"['rt', 'AT_USER', '$', 'abb', 'unveils', 'intelligent', 'voice-activated', 'smarthome', 'system', 'at', 'ifa', '15', ':', 'URL', 'URL']",Mon Sep 07 15:32:32 +0000 2015,16156014,POS,0.6368460059165955
+"['abb', 'ltd', '$', 'abb', 'receives', '“', 'sell', '”', 'rating', 'from', 'jpmorgan', 'chase', '&', 'co', '.', 'URL']",Mon Dec 14 14:27:33 +0000 2015,2525892205,NEU,0.9445084929466248
+"['storm', 'ahead', 'sailors', '!', '$', 'abb', 'sees', '""', 'rough', 'seas', '""', 'in', 'china', 'but', 'plans', 'to', 'stay', 'on', 'course', 'with', 'pricing', 'structure', '.', 'URL']",Wed Jun 24 17:04:00 +0000 2015,2263452746,NEU,0.9333643317222595
+"['$', 'bbep', 'stock', 'price', 'updated', 'sunday', ',', 'may', '3', ',', '2015', '12:11', ':', '20', 'pm', '$', 'smh', '$', 'abb', '$', 'act', '$', 'gdx', 'URL']",Mon May 04 05:01:42 +0000 2015,2197054086,NEU,0.959307849407196
+"['$', 'abb', ':', 'investment', 'analysts', ""'"", 'recent', 'ratings', 'changes', 'for', 'abb', '(', 'abb', '):', 'URL']",Fri Feb 13 08:11:03 +0000 2015,2342215530,NEU,0.9648386240005493
+"['abb', 'ltd', '’', 's', 'neutral', 'rating', 'reaffirmed', 'at', 'zacks', '$', 'abb', 'URL']",Tue Jul 08 11:53:27 +0000 2014,2181281054,NEU,0.90607088804245
+"['rt', 'AT_USER', '$', 'abb', 'unveils', 'intelligent', 'voice-activated', 'smarthome', 'system', 'at', 'ifa', '15', ':', 'URL', 'URL']",Tue Sep 08 08:56:36 +0000 2015,219230222,POS,0.6368460059165955
+"['rt', 'AT_USER', 'icymi', ':', '$', 'abb', 'energizes', 'first', 'phase', 'of', 'india', '’', 's', 'most', 'advanced', 'uhvdc', 'power', 'link', ':', 'URL', 'URL']",Wed Sep 30 16:21:05 +0000 2015,1165119078,NEU,0.5942749977111816
+"['abb', 'stärker', 'sitt', 'engagemang', 'för', 'indiens', 'ekonomiska', 'utveckling', '$', 'abb', 'URL']",Wed Nov 04 13:08:51 +0000 2015,438816954,NEU,0.9691910147666931
+"['rt', 'AT_USER', 'bringing', 'the', 'smarthome', 'to', 'china', ':', '$', 'abb', 'and', 'AT_USER', 'join', 'forces', ':', 'URL', 'cc', '/', 'AT_USER', 'URL']",Mon Jul 13 15:22:07 +0000 2015,1721638344,POS,0.6424540877342224
+"['reminder', '-', '$', 'abb', 'goes', 'ex-dividend', 'soon', '$', 'inxx', 'dividends', 'URL']",Wed Jul 22 15:00:15 +0000 2015,2497045194,NEU,0.9731497168540955
+"['abb', 'abb', 'ltd', '.', 'eod', 'data', 'URL', '$', 'abb', '$', 'fro', '$', 'juno', '$', 'prta', 'abb', 'finance', 'finance']",Wed Jul 22 13:31:38 +0000 2015,1850041968,NEU,0.9741514325141907
+"['$', 'abb', 'fairchild', 'explores', '3d', 'motio', 'URL']",Sun May 18 00:09:04 +0000 2014,2541111333,NEU,0.9659799933433533
+"['$', 'abb', ':', 'analyst', 'rating', 'update', 'on', 'abb', 'ltd', ':', 'URL']",Fri Aug 07 08:05:03 +0000 2015,2344619544,NEU,0.9635347723960876
+"['$', 'abb', 'emerson', 'to', 'divest', 'connectivity', 'solutions', 'biz', 'URL']",Mon May 19 22:13:13 +0000 2014,1676299297,NEU,0.9554782509803772
+"['abb', 'completes', 'canadian', 'hvdc', 'station', 'upgrade', 'URL', '$', 'abb']",Mon Dec 08 15:18:36 +0000 2014,15296897,NEU,0.9461354613304138
+"['abb', '$', 'abb', 'showing', 'bearish', 'technicals', 'with', 'resistance', 'at', '$', '23.02', '(', 'URL', ')']",Mon Sep 15 15:45:30 +0000 2014,36102165,NEU,0.9334679841995239
+"['unusual', '$', 'flow', ':', '$', 'abb', '/', '0.14', '/', '-1.90', '%', '.', 'URL']",Mon Jul 06 13:54:59 +0000 2015,1339912453,NEU,0.9430514574050903
+"['how', '$', 'abb', 'helped', 'an', 'air-purifying', 'building', 'open', 'in', 'time', 'for', 'AT_USER', 'expo', '2015', 'URL', 'URL']",Tue Oct 27 10:50:34 +0000 2015,51801586,NEU,0.4998725950717926
+"['rt', 'AT_USER', 'allt', 'om', 'capital', 'markets', 'day', '2014', 'där', 'abb', 'presenterar', 'strategin', 'för', '2015-2020', '.', 'abbcmd', '$', 'abb', 'URL', 'URL']",Tue Sep 09 06:57:47 +0000 2014,17580609,NEU,0.9734284281730652
+"['$', 'abb', '-', '7:45', 'am', 'abb', 'ltd', 'misses', 'by', '$', '0.08', ',', 'reports', 'revs', 'in-line', ';', 'confirms', '2011-2', '...', '->', 'URL', 'stock', 'stocks', 'stockaction']",Fri Feb 14 01:51:38 +0000 2014,300706809,NEU,0.9149507880210876
+"['abb', '$', 'abb', 'releases', 'quarterly', 'earnings', ',', 'misses', 'estimates', 'by', '$', '0.08', 'eps', 'URL']",Fri Feb 14 14:56:31 +0000 2014,1979190776,NEG,0.5431814193725586
+"['upgraded', ':', '$', 'abb', '$', 'rnr', '$', 'bsmx', '$', 'gm', '$', 're', '$', 'slab', '$', 'bce', '$', 'nsm', '$', 'pwr', '$', 'bmr', '$', 'vmc', '$', 'affx', '$', 'axs', '$', 's', '$', 'dnkn', 'URL', 'trader', 'swingtrading', 'mkt', 'dow']",Sun Feb 08 09:00:07 +0000 2015,1168269721,NEU,0.9549629092216492
+"['rt', 'AT_USER', 'rt', 'AT_USER', '$', 'abb', 'is', 'marking', 'our', 'commitment', 'to', 'the', 'us', 'w', '/', 'the', 'start', 'of', 'robot', 'manufacturing', 'in', 'auburn', 'hills', '-', 'us', 'URL']",Wed May 20 13:45:24 +0000 2015,473326628,POS,0.7066301107406616
+"['rt', 'AT_USER', 'a', 'shift', 'in', 'the', ""world's"", 'energy', 'mix', ':', '$', 'abb', 'and', 'the', 'rise', 'of', 'solar', 'URL', 'URL']",Sat Sep 12 20:09:10 +0000 2015,1207772251,NEU,0.9353660941123962
+"['morningstar', 'gives', 'a', 'credit', 'rating', 'to', 'abb', '$', 'abb', 'URL']",Thu Nov 19 11:09:01 +0000 2015,61661638,NEU,0.9118413925170898
+"['$', 'ntap', '$', 'abb', ':', 'new', 'stock', 'downgrades', ':', 'net', 'app', 'inc', '(', 'nasdaq', ':', 'ntap', ')', ',', 'abb', 'ltd', '…', ':', 'URL']",Wed Sep 23 14:01:05 +0000 2015,2342215530,NEU,0.9424321055412292
+"['rt', 'AT_USER', 'micro', 'in', 'size', ',', 'macro', 'in', 'benefits', ':', 'a', 'look', 'at', 'how', '$', 'abb', 'is', 'leveraging', 'microgrids', ':', 'URL', 'URL']",Wed Nov 11 15:26:38 +0000 2015,1257205855,NEU,0.8712477087974548
+"['abb', 'ltd', '.', 'downgrade', 'by', 'jp', 'morgan', '(', 'ranked', '33rd', ')', 'to', 'underweight', '$', 'abb', 'abb', 'URL']",Tue Sep 22 11:30:21 +0000 2015,926793032,NEU,0.9595882296562195
+"['$', 'abb', ':', 'abb', 'sees', 'large', 'volume', 'increase', '(', 'abb', '):', 'URL']",Tue Sep 22 04:31:03 +0000 2015,2341445778,POS,0.8359010219573975
+"['rt', 'AT_USER', 'dvn', 'devon', 'energy', 'corp', '.', 'day', 'low', 'URL', '$', 'dvn', '$', 'abb', '$', 'tsla', '$', 'cxrx', 'dvn', 'invest', 'stocks']",Fri Nov 20 11:48:59 +0000 2015,2159322464,NEU,0.9601746201515198

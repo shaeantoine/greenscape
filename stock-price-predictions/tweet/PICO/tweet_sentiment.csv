@@ -1,0 +1,18 @@
+text,created_at,user_id_str,sentiment,score
+"['$', 'pico', 'thestreet', 'downgrades', 'pico', 'holdings', 'to', 'sell', '(', 'pico', ')', 'URL']",Wed May 14 09:51:47 +0000 2014,1729162460,NEU,0.9330593943595886
+"['$', 'pico', ':', 'pico', 'holdings', 'inc', 'stock', 'downgraded', '(', 'pico', ')', 'URL']",Tue May 13 16:08:08 +0000 2014,1728756842,NEU,0.7237673401832581
+"['5', 'financial', 'stocks', 'with', 'the', 'worst', 'monthly', 'performance', 'this', 'month', ':', '$', 'gnw', '$', 'asps', '$', 'ryn', '$', 'pico', '$', 'wac']",Tue Nov 25 21:19:13 +0000 2014,2600389056,NEG,0.9748232960700989
+"['$', 'pico', '-', 'pico', 'holdings', 'inc', '/', 'new', 'files', 'sec', 'form', '10', '-', 'q', ',', 'quarterly', 'report', '->', 'URL', 'stock', 'stocks', 'stockaction']",Mon May 12 10:30:11 +0000 2014,153395860,NEU,0.960603654384613
+"['whats', 'happening', 'with', '$', 'egt', '$', 'pico', '$', 'ntri', '$', 'ibm', 'must', 'see', 'URL']",Tue Feb 11 03:06:22 +0000 2014,2335178851,NEU,0.9765884876251221
+"['pico', 'holdings', ',', 'inc', '.', 'announces', 'results', 'for', 'the', 'second', 'quarter', 'and', 'first', 'six', 'months', 'of', '2015', '$', 'pico', 'URL']",Mon Aug 10 20:06:09 +0000 2015,438816954,NEU,0.9456289410591125
+"['central', 'square', 'management', 'urges', '$', 'pico', 'to', 'explore', 'asset', 'sale', 'opportunities', 'URL', '$', 'ucp']",Mon Aug 10 15:27:51 +0000 2015,3307116874,NEU,0.8910659551620483
+"['$', 'pico', ""investor's"", 'alert', '-', 'microvision', ',', 'inc', '.', '(', 'nasdaq', ':', 'mvis', ')', ',', 'chinanet', 'online', 'holdings', '...', 'URL']",Thu Feb 27 13:18:13 +0000 2014,2340352555,NEU,0.9598175883293152
+"['$', 'pico', 'del', 'taco', 'holdings', ',', 'inc', '.', 'completes', '$', '260', 'million', 'debt', 'refinance', 'URL']",Wed Apr 30 05:36:05 +0000 2014,1835448685,NEU,0.9441945552825928
+"['$', 'pico', 'pico', 'holdings', ',', 'inc', '.', 'annou', 'URL']",Thu Jul 31 10:47:55 +0000 2014,2492403350,NEU,0.9704994559288025
+"['$', 'pico', 'pico', 'holdings', 'inc', '/', 'new', 'files', 'sec', 'form', '10', '-', 'q', ',', 'quarterly', 'report', 'URL']",Mon Aug 11 22:08:38 +0000 2014,2715037566,NEU,0.9648206233978271
+"['$', 'pico', 'pico', 'holdings', 'inc', '/', 'new', 'files', 'sec', 'form', '8', '-', 'k', ',', 'submission', 'of', 'matters', 't', 'URL']",Wed May 21 15:22:10 +0000 2014,2539189684,NEU,0.9751819968223572
+"['pico', 'holdings', 'fail', 'say', 'on', 'pay', 'vote', 'after', '55', '%', 'of', 'shareholders', 'vote', 'against', '$', 'pico', 'URL']",Mon Jul 13 11:24:16 +0000 2015,1541639509,NEG,0.947200357913971
+"['$', 'pico', 'pico', 'holdings', 'inc', '/', 'new', 'files', 'sec', 'form', '8', '-', 'k', ',', 'submission', 'of', 'matters', 't', 'URL']",Tue May 20 14:44:22 +0000 2014,2539177539,NEU,0.9751819968223572
+"['russell', '2000', 'recent', 'market', 'exit', '17', ':', 'covered', '$', 'pico', 'short', 'for', 'a', '8.00', '%', 'gain', 'in', '17', 'days', '.', 'pico', 'forex', 'trading', 'stocks']",Fri Feb 06 08:10:07 +0000 2015,1648349564,NEU,0.8926150798797607
+"['$', 'pico', '-', 'statement', 'of', 'changes', 'in', 'beneficial', 'ownership', '(', '4', ')', 'URL']",Thu Jul 24 16:10:11 +0000 2014,2554107798,NEU,0.8926486968994141
+"['$', 'pico', ':', 'pico', 'holdings', 'inc', 'insider', 'trading', 'update', ':', 'URL']",Tue Jan 27 15:46:05 +0000 2015,2881595931,NEU,0.9621838927268982

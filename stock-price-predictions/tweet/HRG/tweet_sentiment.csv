@@ -1,0 +1,36 @@
+text,created_at,user_id_str,sentiment,score
+"['harbinger', 'group', 'to', 'release', 'earnings', 'on', 'friday', '.', '$', 'hrg', 'URL']",Thu May 07 05:08:37 +0000 2015,61661638,NEU,0.9716652035713196
+"['$', 'hrg', 'harbinger', 'group', 'inc', '.', 'files', 'sec', 'form', '8', '-', 'k', ',', 'regulation', 'fd', 'dis', 'URL']",Thu Aug 28 23:27:58 +0000 2014,2747067710,NEU,0.9791054129600525
+"['a', 'bullish', 'moving', 'out', 'of', 'oversold', 'has', 'occurred', 'at', '11:30', 'am', 'nov', '06', 'at', '$', '13.11', 'on', 'hrg', 'group', 'inc', '(', 'hrg', ')', '$', 'hrg']",Fri Nov 06 17:00:17 +0000 2015,206820388,NEU,0.8062210083007812
+"['$', 'hrg', 'harbinger', 'group', 'inc', '.', 'files', 'sec', 'form', '8', '-', 'k', ',', 'regulation', 'fd', 'disclosure', 'URL']",Tue Apr 15 09:56:44 +0000 2014,2294792486,NEU,0.9787890911102295
+"['new', 'sec', 'filing', 'for', '$', 'hrg', 'filed', 'a', 'moment', 'ago', ':', 'URL', 'URL']",Fri Jul 10 21:29:04 +0000 2015,2343018775,NEU,0.9765991568565369
+"['thomas', 'williams', 'a', '.', ',', 'evp', '&', 'cfo', 'of', 'harbinger', 'group', 'i', 'sells', '$', '694,734', 'worth', 'of', '$', 'hrg', '-', 'form', '4', 'insidertrading', '-', 'URL']",Tue Dec 02 23:05:08 +0000 2014,2274875012,NEU,0.9707713723182678
+"['$', 'hrg', 'hrg', 'group', ',', 'inc', '.', 'announces', 'sale', 'of', 'certain', 'assets', 'at', 'compass', 'subsidiary', 'URL']",Fri Oct 09 12:10:38 +0000 2015,2397975692,NEU,0.9641326665878296
+"['rt', 'AT_USER', 'harbinger', 'group', '$', 'hrg', 'ceo', 'philip', 'falcone', 'to', 'resign', 'URL']",Tue Nov 25 14:39:29 +0000 2014,121158213,NEU,0.6148709058761597
+"['leading', 'tweets', 'regarding', '$', 'hrg', 'on', '05/12', '/', '2014', 'URL']",Mon May 12 02:15:04 +0000 2014,2165508127,NEU,0.9739970564842224
+"['$', 'hrg', '-', 'harbinger', 'group', 'inc', '.', 'reports', 'second', 'quarter', 'fiscal', '2014', 'results', '->', 'URL', 'stock', 'stocks', 'stockaction']",Mon May 12 12:42:30 +0000 2014,403276334,NEU,0.969885528087616
+"['couple', 'of', 'stocks', 'to', 'watch', '$', 'hrg', '$', 'idsa', '$', 'airm', '$', 'mrk', 'check', 'out', 'URL']",Wed Jan 22 15:45:10 +0000 2014,2298614672,NEU,0.9490240812301636
+"['this', 'service', 'made', '20,000', '%', 'gains', 'in', 'the', 'last', 'month', '!', 'subscribe', 'here', 'URL', '..', '$', 'hrc', '$', 'hrg', '$', 'hrl']",Mon Oct 12 09:13:24 +0000 2015,2730855593,POS,0.9393283724784851
+"['$', 'hrg', 'harbinger', 'group', 'delivers', 'letter', 'to', 'the', 'board', 'of', 'central', 'garden', '&', 'pet', 'company', 'URL']",Tue Jun 10 08:34:18 +0000 2014,2397975692,NEU,0.9766085147857666
+"['are', 'you', 'holding', '$', 'drco', '$', 'hrg', '$', 'angi', '$', 'spy', ""i'm"", 'loving', 'URL']",Thu Jan 30 03:22:40 +0000 2014,2264419428,POS,0.9662604928016663
+"['$', 'hrg', 'primus', 'telecommunications', '(', 'ptgi', ')', 'news', ':', 'ptgi', 'holdings', 'inc', ':', 'phil', ""falcone's"", '...', 'URL']",Wed Mar 19 15:10:07 +0000 2014,2332311294,NEU,0.9707775115966797
+"['harbinger', 'group', 'inc', 'director', 'just', 'picked', 'up', '5,743', 'shares', 'URL', '$', 'hrg']",Wed Nov 25 19:06:45 +0000 2015,2616445050,NEU,0.9508920311927795
+"['$', 'hrg', 'new', 'york', '(', 'ap', ')', '—', 'a', 'look', 'at', 'the', '10', 'biggest', 'volume', 'gainers', 'on', 'new', 'york', 'stock', '...', 'URL']",Mon Mar 10 22:44:06 +0000 2014,2332311294,NEU,0.864480197429657
+"['march', '14', 'short', 'sale', 'list', ':', 'URL', '$', 'db', '$', 'rev', '$', 'cas', '$', 'hrg', '$', 'gy', '$', 'swy', '$', 'imax', '$', 'cht', '$', 'rtec', '$', 'joe', '$', 'pay', '$', 'gm', '$', 'oas', '-', 'best', 'entry', 'for', 'rev', '&', 'cas']",Sat Mar 15 23:24:55 +0000 2014,259059584,POS,0.8540223240852356
+"['$', 'hrg', 'harbinger', '’', 's', 'falcone', 'wasted', 'assets', 'in', 'bailout', ',', 'investor', 'says', 'URL']",Thu Mar 27 03:34:33 +0000 2014,1676338525,NEG,0.868647038936615
+"['$', 'hrg', 'up', '1.0', '%', 'to', '12.45', 'bullish', 'at', 'a', 'cycle', 'trough', 'stocks', 'markets', 'trading', 'URL']",Thu May 14 17:31:07 +0000 2015,214577856,NEU,0.9118203520774841
+"['$', 'hrg', 'harbinger', 'group', 'inc', '.', 'files', 'sec', 'form', '8', '-', 'k', ',', 'regulation', 'fd', 'disclosure', 'URL']",Mon Apr 28 23:48:40 +0000 2014,2470163999,NEU,0.9787890911102295
+"['$', 'hrg', 'harbinger', 'group', 'inc', '.', 'files', 'sec', 'form', '8', '-', 'k', ',', 'regulation', 'fd', 'disclosur', 'URL']",Thu Jul 31 16:39:30 +0000 2014,2669800440,NEU,0.9786452054977417
+"['$', 'hrg', '-', 'lightsquared', 'to', 'borrow', '$', '74', 'million', 'more', 'in', 'bankruptcy', '->', 'URL', 'stock', 'stocks', 'stockaction']",Fri Apr 11 01:10:01 +0000 2014,409065420,NEU,0.7210268974304199
+"['$', 'hrg', '8:', '38', 'am', 'harbinger', 'is', 'exercising', 'its', 'option', 'to', 'convert', 'issued', 'and', 'outstanding', 'shares', 'of', 'series', 'a', 'participating', 'convertible', 'preferred', '...']",Sat May 10 03:25:33 +0000 2014,1912328479,NEU,0.9355803728103638
+"['largest', 'household', 'and', 'personal', 'products', 'assets', '1', '.', '$', 'pg', '2', '.', '$', 'hrg', '3', '.', '$', 'kmb', 'full', 'chart', ':', 'URL', 'cml']",Sun Apr 05 15:35:54 +0000 2015,2796938558,NEU,0.9700703620910645
+"['$', 'hrg', 'harbinger', 'group', 'inc', 'files', 'form', '8', '-', 'k', '(', 'events', 'or', 'changes', 'between', 'quarterly', 'repor', '..', 'URL']",Thu Feb 06 22:27:44 +0000 2014,946452482,NEU,0.9793943762779236
+"['$', 'hrg', 'hrg', 'group', ',', 'inc', '.', 'announces', 'pricing', 'of', 'its', 'add-on', '$', '100', 'million', 'senior', 'secured', 'notes', 'offering', 'URL']",Fri Apr 10 11:33:43 +0000 2015,2397975692,NEU,0.9313015937805176
+"['rt', 'AT_USER', 'ceo', 'i', '$', 'hrg', 'melder', 'at', 'cfo', 'tar', 'permisjon', '.', 'i', 'neste', 'øyeblikk', 'kjøper', 'han', 'aksjer', 'for', '1,5', 'mnok', '.', 'hmm', '.']",Mon Feb 24 18:17:53 +0000 2014,76774834,NEU,0.9487147331237793
+"['ceo', 'i', '$', 'hrg', 'melder', 'at', 'cfo', 'tar', 'permisjon', '.', 'i', 'neste', 'øyeblikk', 'kjøper', 'han', 'aksjer', 'for', '1,5', 'mnok', '.', 'hmm', '.']",Mon Feb 24 16:19:31 +0000 2014,1384003952,NEU,0.9530144929885864
+"['salus', 'changes', 'mind', 'about', 'new', 'bid', 'for', 'radioshack', 'URL', 'AT_USER', 'cerberus', 'AT_USER', '$', 'hrg', '$', 'rsh', 'chapter', '11', 'bankruptcy']",Mon Mar 30 17:38:33 +0000 2015,2180688258,NEU,0.9592145085334778
+"['hogg', 'robinson', 'group', 'plc', 'stock', 'rating', 'reaffirmed', 'by', 'investec', '$', 'hrg', 'URL']",Fri Feb 14 20:07:39 +0000 2014,565538332,NEU,0.8482608199119568
+"['$', 'hrg', '-', 'current', 'report', 'filing', '(8', '-', 'k', ')', 'URL']",Fri Feb 06 14:52:11 +0000 2015,2554107798,NEU,0.9771645665168762
+"['$', 'hrg', '-', 'amended', 'statement', 'of', 'ownership', '(', 'sc', '13g', '/', 'a', ')', 'URL']",Tue Jan 27 16:46:11 +0000 2015,2554107798,NEU,0.9767183661460876
+"['$', 'hrg', 'harbinger', 'group', 'director', 'david', 'm', '.', 'maura', 'sells', '275725', 'shares', '(', 'hrg', ')', 'URL']",Wed Mar 12 03:27:06 +0000 2014,1676338525,NEU,0.9652226567268372
+"['$', 'hrg', '-', 'hrg', 'group', ',', 'inc', '.', 'reports', 'fourth', 'quarter', 'and', 'fiscal', 'year', '2015', 'results', 'URL']",Fri Nov 20 13:32:03 +0000 2015,831258415,NEU,0.972165048122406
