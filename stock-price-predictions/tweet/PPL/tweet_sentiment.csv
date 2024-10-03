@@ -1,0 +1,163 @@
+text,created_at,user_id_str,sentiment,score
+"['$', '71,000', 'in', 'one', 'trade', '!', '!', 'by', 'follwing', 'their', 'signals', 'more', 'info', 'here', 'URL', '..', '$', 'powr', '$', 'ppg', '$', 'ppl']",Thu May 07 02:30:03 +0000 2015,2799908841,POS,0.522293210029602
+"['ppl', 'ppl', 'corp', '.', 'financials', 'click', 'here', '->', 'URL', 'trending', '$', 'ppl', '$', 'srpt', '$', 'pmcb', '$', 'bcm', '.', 'v', 'ppl', 'share', 'investing']",Thu May 07 11:58:04 +0000 2015,2181390564,NEU,0.9605677127838135
+"['ppl', 'insider', 'gregory', 'dudkin', 'sells', '$', '1,032', ',', '760', 'in', '$', 'ppl', 'URL']",Thu Jan 08 10:09:15 +0000 2015,68559732,NEU,0.9685620069503784
+"['$', 'ppl', 'institutional', 'ownership', 'up', '5.04', '%', 'q', '/', 'q', ',', 'with', '13,936', ',', '700', 'net', 'purchase', 'URL', 'URL']",Thu Jun 18 19:59:02 +0000 2015,2343862982,NEU,0.7598314881324768
+"['$', 'ppl', 'ppl', 'corp', 'files', 'sec', 'form', '8', '-', 'k', ',', 'other', 'events', 'URL']",Wed Mar 05 11:35:01 +0000 2014,1849605206,NEU,0.9764949083328247
+"['$', 'ppl', ':', 'ppl', 'corporation', '(', 'nyse', ':p', 'pl', ')', 'shares', 'given', '$', '35.833', 'pt', ':', 'URL']",Fri Nov 06 17:42:11 +0000 2015,2344619544,NEU,0.9722913503646851
+"['$', 'ppl', 'seeking', 'the', 'next', 'stock', 'like', '$', 'cinf', '$', 'itw', '$', 'pcln', 'nasdaq', 'URL']",Tue Apr 15 14:05:04 +0000 2014,2473735203,NEU,0.9066761136054993
+"['kbc', 'group', 'acquires', '144,205', 'shares', 'of', 'ppl', 'corp', '$', 'ppl', 'URL']",Mon Dec 21 10:23:47 +0000 2015,2920258887,NEU,0.9231997132301331
+"['ppl', 'corp', 'downgraded', 'by', 'zacks', 'investment', 'research', 'to', 'hold', '.', 'URL', '$', 'ppl', 'ppl']",Mon Dec 28 18:30:28 +0000 2015,992182100,NEU,0.8013803362846375
+"['bad', 'invesments', 'like', 'got', 'you', 'down', '$', 'ppl', '$', 'xec', '$', 'ice', '$', 'bwp', 'try', 'this', 'URL']",Wed Apr 23 09:46:35 +0000 2014,2457110553,NEG,0.8978694081306458
+"['gm', '$', 'eqlb', 'ppl', ""'"", '$', 'eqlb', '$', 'ppl', 'URL']",Thu Sep 03 06:35:44 +0000 2015,43304435,NEU,0.9704571962356567
+"['4', 'downtrends', 'turning', 'with', 'bullish', 'engulfing', 'patterns', 'URL', '$', 'unp', '$', 'cvc', '$', 'pah', '$', 'ppl', 'URL']",Thu Dec 10 00:26:55 +0000 2015,2344531388,NEU,0.962921679019928
+"['should', 'you', 'hold', 'or', 'add', 'to', '$', 'ppl', '$', 'mcsa', '$', 'kr', '$', 'rax', 'i', 'suggest', 'URL']",Thu Jul 03 01:11:00 +0000 2014,2540793621,NEU,0.9721742868423462
+"['$', 'ppl', ':', 'moody', '&', '39', ';', 's', 'downgrades', 'ppl', 'energy', 'supply', 'to', 'baa', '3', 'with', 'negative', 'outlook', 'on', '...', 'URL']",Thu Jul 03 08:41:24 +0000 2014,1727425886,NEG,0.936759352684021
+"['largest', 'utilities', 'return', 'on', 'equity', '1', ':', '$', 'ppl', '2', ':', '$', 'nee', '3', ':', '$', 'peg', 'chart', ':', 'URL', 'URL']",Fri May 01 14:12:44 +0000 2015,2796938558,NEU,0.9376319646835327
+"['find', 'out', 'the', 'latest', 'on', '$', 'dte', '$', 'cfn', '$', 'ppl', '$', 'blox', 'goto', 'URL']",Wed Jul 02 18:49:18 +0000 2014,2486076768,NEU,0.9696865677833557
+"['$', 'ppl', ':', 'why', 'millennium', 'management', 'ups', 'position', 'in', 'ppl', 'corporation', 'URL']",Wed Jul 02 15:41:28 +0000 2014,2344147800,NEU,0.9736953973770142
+"['$', 'ppl', 'ppl', 'corporation', '(', 'nyse', ':p', 'pl', '):', 'massive', 'insider', 'selling', 'URL']",Tue Apr 22 20:53:33 +0000 2014,1704137960,NEU,0.9153580069541931
+"['earnings', 'news', 'on', '$', 'aap', '$', 'ppl', '$', 'aep', '$', 'cadx', 'nasdaq', 'URL']",Fri Jul 04 22:13:07 +0000 2014,2461999339,NEU,0.9684791564941406
+"['top', 'performing', 'stocks', 'today', '$', 'fmc', '$', 'ppl', '$', 'cvi', '$', 'df', 'wealthmanagement', 'URL']",Mon Apr 14 13:14:42 +0000 2014,2473716057,POS,0.507336437702179
+"['$', 'ppl', 'may', 'block', 'trade', ':', '114', 'trade', '.', '~', '$', '0.4', 'mm', 'notional', 'value', '.']",Mon Apr 14 13:47:01 +0000 2014,241241262,NEU,0.7339584827423096
+"['bad', 'invesments', 'like', 'got', 'you', 'down', '$', 'ppl', '$', 'tso', '$', 'psa', '$', 'bwp', 'research', 'URL']",Sun Apr 13 07:31:33 +0000 2014,2388714269,NEG,0.9533092975616455
+"['price', 'action', 'alert', '$', 'ppl', '-', 'ppl', 'stocks', 'intraday', '~', 'via', 'alerttrade']",Wed Mar 18 14:48:42 +0000 2015,121158213,NEU,0.9755032658576965
+"['insider', 'selling', ':', 'robert', 'a', '.', 'symons', 'unloads', '7,287', 'shares', 'of', 'ppl', 'stock', '$', 'ppl', 'URL']",Fri Sep 19 13:04:24 +0000 2014,2525892205,NEU,0.9738232493400574
+"['rt', 'AT_USER', 'top', 'picks', 'of', 'jeff', 'young', 'AT_USER', '-', 'pembina', 'pipeline', '$', 'ppl.to', ',', 'westjet', '$', 'wja.to', 'and', 'baytex', 'energy', '$', 'bte.to']",Mon Apr 06 14:56:21 +0000 2015,445902563,NEU,0.8308009505271912
+"['$', 'ppl', 'institutional', 'ownership', 'up', '5.03', '%', 'q', '/', 'q', ',', 'with', '13,936', ',', '700', 'net', 'purchase', 'URL', 'URL']",Fri Oct 09 00:21:02 +0000 2015,2343862982,NEU,0.7661519050598145
+"['etrm', 'enteromedics', 'inc', '.', 'news', 'URL', '$', 'etrm', '$', 'lmt', '$', 'ppl', '$', 'dwti', 'etrm', 'stock', 'stockmarket']",Sun Aug 02 10:37:37 +0000 2015,2233924628,NEU,0.9635583758354187
+"['are', 'you', 'considering', 'buying', '$', 'ges', '$', 'ppl', '$', 'clx', '$', 'csiq', 'wealthmanagement', 'URL']",Thu May 22 21:40:05 +0000 2014,2539189073,NEU,0.9616780281066895
+"['$', 'ppl', '.', 't', '$', 'pba', 'hitting', 'new', 'high', 'on', 'a', 'down', 'day', '!']",Thu Jan 23 19:01:57 +0000 2014,635911619,POS,0.5418683886528015
+"['$', 'ppl', 'ppl', 'energyplus', 'president', 'retires', 'from', 'our', 'stock', 'news', 'alerts', 'app']",Sat Mar 28 22:01:41 +0000 2015,2356524462,NEU,0.9335120320320129
+"['this', 'weeks', 'stocks', 'you', 'should', 'watch', '$', 'ppl', '$', 'unm', '$', 'mgm', '$', 'usd', 'financialnews', 'URL']",Tue Dec 02 09:09:20 +0000 2014,2723773446,NEU,0.9478716254234314
+"['$', 'cern', 'top', 'performing', 'stocks', 'today', '$', 'cyt', '$', 'ppl', '$', 'usd', 'give', 'it', 'a', 'try', 'URL']",Mon May 12 17:05:23 +0000 2014,2535209847,POS,0.8221110105514526
+"['todays', 'movers', 'to', 'research', '$', 'bms', '$', 'trgp', '$', 'ppl', '$', 'spy', 'check', 'out', 'URL']",Sat Jan 25 10:55:14 +0000 2014,2294744127,NEU,0.9764629006385803
+"['looking', 'for', 'winners', 'like', '$', 'ppl', '$', 'ompi', '$', 'pcc', '$', 'fxy', 'check', 'out', 'URL']",Sat Jan 25 07:50:01 +0000 2014,2251962043,NEU,0.8839935064315796
+"['ppl', '$', 'ppl', 'showing', 'bullish', 'technicals', '(', 'URL', ')']",Thu Oct 08 13:30:29 +0000 2015,36102165,NEU,0.958706259727478
+"['this', 'weeks', 'stocks', 'to', 'watch', '$', 'tech', '$', 'ppl', '$', 'hes', '$', 'slw', 'goto', 'URL']",Tue Feb 11 18:28:27 +0000 2014,2232112484,NEU,0.9476831555366516
+"['$', 'ppl', 'ppl', 'corp', 'files', 'sec', 'form', '10', '-', 'q', ',', 'quarterly', 'report', 'URL']",Tue May 06 12:19:40 +0000 2014,2447689521,NEU,0.9757935404777527
+"['ppl', 'announces', 'earnings', '.', '$', '0.80', 'eps', '.', 'beats', 'estimates', '.', '$', '1.22', 'b', 'revenue', '.', 'URL', '$', 'ppl', 'ppl']",Thu May 01 13:04:56 +0000 2014,61661638,POS,0.7382155656814575
+"['$', 'ppl', '-', '1:46', 'am', 'ppl', 'corp', 'and', 'riverstone', 'holdings', 'announce', 'a', 'definitive', 'agreeme', '...', '->', 'URL', 'stock', 'stocks', 'stockaction']",Tue Jun 10 10:36:06 +0000 2014,300706809,NEU,0.9187747240066528
+"['$', 'ppl', 'ppl', 'to', 'spin', 'off', 'some', 'u', '.', 's', '.', 'power', 'plants', 'into', 'new', 'firm', 'with', 'fund', 'URL']",Tue Jun 10 13:55:04 +0000 2014,2342339550,NEU,0.963301956653595
+"['are', 'you', 'bullish', 'on', 'these', 'stocks', '$', 'ppl', '$', 'amtd', '$', 'cr', '$', 'csiq', 'goto', 'URL']",Tue Jun 10 01:51:15 +0000 2014,2463606266,NEU,0.9526489973068237
+"['$', 'ppl', 'united', 'states', ':', 'portage', 'biotech', 'inc', '.', 'declares', 'acquisition', 'of', '54', '%', 'equity', 'in', '...', 'URL']",Tue Jan 07 21:02:34 +0000 2014,1912316977,NEU,0.9249351620674133
+"['get', 'more', 'info', 'on', '$', 'ppl', '$', 'xec', '$', 'fcx', '$', 'an', '$', 'exas', 'i', 'suggest', 'URL']",Thu Feb 20 22:44:43 +0000 2014,2246295033,NEU,0.9656067490577698
+"['active', 'calls', ':', '$', 'gib', 'feb', '36', '&', 'mar', '38', ',', '$', 't.ca', 'may', '38', ',', '$', 'cg.ca', 'jul', '6', ',', '$', 'thi.ca', 'apr', '64', '&', '62', ',', '$', 'fm.ca', 'feb', '20', '&', 'mar', '22', ',', '$', 'ppl.ca', 'feb', '38', '&', 'apr', '41']",Thu Feb 20 17:38:10 +0000 2014,374513131,NEU,0.9731802940368652
+"['$', 'ppl', 'is', 'rated', 'buy', ',', '6.7', '%', 'upside', 'by', 'wall', 'street', 'analysts', 'based', 'on', 'average', 'ratings', '/', 'targets', 'URL', 'URL']",Mon Aug 10 03:26:02 +0000 2015,2344623210,NEU,0.8894925713539124
+"['avoid', 'mistakes', 'like', '$', 'trip', '$', 'mdrx', '$', 'ppl', '$', 'grpn', 'nse', 'URL']",Fri May 30 06:44:53 +0000 2014,2540793621,NEU,0.8070600628852844
+"['$', 'ppl', ':', 'asx', '08:33', 'am', 'strong', 'fy15', 'results', 'outperforming', 'prospectus', 'forecasts', 'URL']",Thu Aug 27 23:15:10 +0000 2015,64445277,POS,0.8668795824050903
+"['$', 'dpz', 'free', 'research', 'on', '$', 'tech', '$', 'ppl', '$', 'gain', 'view', 'now', 'URL']",Tue Dec 16 01:53:25 +0000 2014,2746308374,NEU,0.9499863982200623
+"['$', 'ppl.to', 'pembina', 'pipeline', 'corporation', 'increases', 'size', 'of', 'preferred', 'share', 'offering', '..', 'URL']",Tue Sep 02 16:41:07 +0000 2014,946421838,NEU,0.8976321220397949
+"['here', 'are', 'some', 'stocks', 'to', 'watch', '$', 'drq', '$', 'ppl', '$', 'data', '$', 'tur', 'goto', 'URL']",Sat May 31 20:35:19 +0000 2014,2485737242,NEU,0.947913408279419
+"['are', 'you', 'putting', 'your', 'money', 'in', '$', 'ftr', '$', 'ppl', '$', 'xec', '$', 'abx', 'personalfinance', 'URL']",Sat May 31 18:25:08 +0000 2014,2488738512,NEU,0.9749771952629089
+"['are', 'you', 'selling', '$', 'ppl', '$', 'sfd', '$', 'duk', '$', 'tol', '$', 'acas', 'must', 'see', 'URL']",Wed Feb 26 05:31:55 +0000 2014,2265955699,NEU,0.9627379179000854
+"[""ppl's"", 'buy', 'rating', 'reiterated', 'at', 'bank', 'of', 'america', '.', '$', '36.00', 'pt', '.', 'URL', '$', 'ppl', 'ppl']",Wed Jun 11 12:32:39 +0000 2014,68559732,NEU,0.8928849101066589
+"['$', 'ppl', 'ppls', 'united', 'kingdom', 'subsidiaries', 'accept', 'ofgems', 'cost', 'of', 'equity', 'decision', 'URL']",Mon Feb 17 20:38:09 +0000 2014,1923869994,NEU,0.9693460464477539
+"['do', 'you', 'need', 'stock', 'research', 'on', '$', 'ppl', '$', 'wcrx', '$', 'mxim', '$', 'qlys', 'singedinvestor', 'URL']",Wed May 07 18:23:41 +0000 2014,2454760775,NEU,0.9764091372489929
+"['$', 'cern', 'get', 'the', 'latest', 'on', '$', 'beam', '$', 'ppl', '$', 'clf', 'goto', 'URL']",Wed Dec 17 17:14:20 +0000 2014,2746315832,NEU,0.9628304243087769
+"['$', 'ecig', 'short', 'squeeze', 'due', 'on', 'ftd', '.', '5x', 'gain', 'potential', '$', 'f', '$', 'wft', '$', 'ppl', 'URL', 'URL', 'URL']",Fri Dec 26 04:57:40 +0000 2014,287966215,NEU,0.720099925994873
+"['earnings', 'news', 'on', '$', 'drq', '$', 'ppl', '$', 'cvi', '$', 'fxy', 'personalfinance', 'URL']",Wed Jul 16 06:25:42 +0000 2014,2538091107,NEU,0.9713199734687805
+"['this', 'weeks', 'stocks', 'you', 'should', 'watch', '$', 'ppl', '$', 'drc', '$', 'mgm', '$', 'pcln', 'research', 'URL']",Fri Jul 11 09:14:27 +0000 2014,2489385782,NEU,0.9322305917739868
+"['$', 'expd', 'stock', 'market', 'reports', 'on', 'stocks', 'like', '$', 'fl', '$', 'ppl', '$', 'rt', 'stockmarket', 'URL']",Fri Jul 18 12:03:31 +0000 2014,2714866247,NEU,0.9746683835983276
+"['awesome', 'stock', 'research', '$', 'nycb', '$', 'ppl', '$', 'wr', '$', 'dust', 'moneymanagement', 'URL']",Sun Aug 03 03:01:56 +0000 2014,2663622074,POS,0.9635098576545715
+"['$', 'ppl', 'stock', 'quote', 'alert', 'for', 'ppl', 'corp', '.', '(', 'nyse', ':p', 'pl', ')', 'from', 'our', 'stock', 'news', 'alerts', 'app']",Wed Jun 03 21:08:45 +0000 2015,2356524462,NEU,0.967556357383728
+"['rt', 'AT_USER', 'unusual', 'call', 'volume', 'for', 'today', 'URL', '$', 'wen', '$', 'jive', '$', 'rld', '$', 'hcn', '$', 'nuan', '$', 'ftr', '$', 'ppl', '$', 'nav', '$', 'hrtx', '$', 'vsi', '$', 'asna', '$', 'tol', 'h', '…']",Wed Jun 03 20:53:27 +0000 2015,33815837,NEU,0.961426317691803
+"['$', 'ppl', '.', 'unusual', 'call', 'activity', '...', '34k', '+', 'april', '27', ',', '2015', '36', 'calls', 'for', '0.75', '.', 'open', 'interest', 'is', '869', '.']",Tue Jan 13 19:35:47 +0000 2015,144643595,NEU,0.8616609573364258
+"['02/05', '/', '15', 'announces', 'earnings', '.', '$', '0.60', 'eps', '.', 'URL', '$', 'ppl', 'corporation', 'ppl', 'corporation']",Thu Feb 05 06:51:34 +0000 2015,61661638,NEU,0.9731393456459045
+"['stocks', 'trending', 'now', ':', 'URL', '$', 'embvf', '$', 'pfscf', '$', 'nnrx', '$', 'look', '$', 'mroif', '$', 'kxscf', '$', 'ddejf', '$', 'sutid', '$', 'wild', '$', 'addxf', '$', 'ppl', '$', 'nurpf', '~']",Thu Feb 05 18:52:22 +0000 2015,1833020461,NEU,0.9386618733406067
+"['$', 'ppl', ':', 'us', 'ppl', 'beats', '4q', 'profit', 'forecasts', 'ppl', 'corp', 'URL', 'sp500']",Thu Feb 05 15:36:35 +0000 2015,2643714854,POS,0.5842649340629578
+"['$', 'ppl', '-', 'statement', 'of', 'changes', 'in', 'beneficial', 'ownership', '(', '4', ')', 'URL']",Wed Oct 01 15:40:11 +0000 2014,2554107798,NEU,0.8915649652481079
+"['$', 'ppl', 'stock', 'quote', 'alert', 'for', 'ppl', 'corp', '.']",Tue Mar 11 20:35:39 +0000 2014,2356524462,NEU,0.9642284512519836
+"['$', 'ppl', 'free', 'research', 'on', '$', 'glw', '$', 'nlsn', '$', 'gain', 'wallstreet', 'URL']",Mon Jul 21 01:34:52 +0000 2014,2657052637,NEU,0.9466153383255005
+"['$', 'cbsh', 'get', 'research', 'on', '$', 'ub', '$', 'ppl', '$', 'rt', 'equity', 'rate_limit_exceeded']",Mon Jul 21 19:51:25 +0000 2014,2473725416,NEU,0.7408481240272522
+"['$', 'ppl', 'get', 'stock', 'market', 'reports', 'on', '$', 'cli', '$', 'idxx', '$', 'grpn', 'wealthmanagement', 'URL']",Tue Apr 01 21:34:35 +0000 2014,2270539520,NEU,0.9734835624694824
+"['$', 'ppl', 'are', 'you', 'considering', 'selling', '$', 'mdu', '$', 'xl', '$', 'cadx', 'stockmarket', 'URL']",Sat Jul 19 07:59:12 +0000 2014,2652045421,NEU,0.9749959707260132
+"['should', 'you', 'buy', ',', 'sell', 'or', 'hold', '$', 'infa', '$', 'ppl', '$', 'hrs', '$', 'nuan', 'try', 'this', 'URL']",Thu Jul 10 11:10:07 +0000 2014,2540803708,NEU,0.9703063368797302
+"['stock', 'watchlist', 'you', 'should', 'be', 'looking', 'at', '$', 'fl', '$', 'ppl', '$', 'urs', '$', 'abx', 'nse', 'URL']",Mon Apr 07 23:29:41 +0000 2014,2454741851,NEU,0.9681891798973083
+"['would', 'you', 'like', 'great', 'research', 'on', 'stocks', '$', 'ppl', '$', 'dwa', '$', 'tjx', '$', 'bwp', 'moneymanagement', 'URL']",Tue Apr 08 13:42:37 +0000 2014,2440613385,POS,0.5528518557548523
+"['$', 'ppl', 'get', 'ready', 'for', 'winter', 'advice', 'for', 'older', 'people', 'URL']",Mon Nov 23 21:07:44 +0000 2015,2397975692,NEU,0.9725309014320374
+"['$', 'ppl', '-', 'ppl', 'corp', '.', 'reports', 'operators', 'reconnect', 'unit', '2', 'at', 'ppl', 'susquehanna', '->', 'URL', 'stock', 'stocks', 'stockaction']",Tue Mar 18 10:32:01 +0000 2014,2180886595,NEU,0.9745420217514038
+"['popular', 'tweets', 'related', 'to', '$', 'ppl', '(', 'ppl', 'corp', 'symbol', 'ppl', ')', 'on', '10/31', '/', '2014', 'URL']",Fri Oct 31 07:51:07 +0000 2014,2165508127,NEU,0.9575271606445312
+"['rt', 'AT_USER', 'ppl', 'beats', 'by', '$', '0.08', ',', 'beats', 'on', 'revenue', 'URL', 'premarket', '$', 'ppl']",Thu Jul 31 11:04:49 +0000 2014,2617625346,NEU,0.9382407665252686
+"['tip', 'ishares', 'barclays', 'tips', 'bond', 'fund', 'bid', 'URL', '$', 'tip', '$', 'ppl.to', '$', 'uup', '$', 'hyg', 'tip', 'stockmarket', 'share']",Tue Dec 22 13:47:14 +0000 2015,2181326676,NEU,0.9757319092750549
+"['$', 'ppl', 'are', 'you', 'investing', 'in', '$', 'win', '$', 'btya', '$', 'grpn', 'i', 'suggest', 'URL']",Wed Apr 16 18:58:49 +0000 2014,2443592036,NEU,0.9358575940132141
+"['stock', 'watchlist', 'you', 'should', 'be', 'looking', 'at', '$', 'emr', '$', 'ppl', '$', 'ev', '$', 'csiq', 'financial', 'URL']",Wed Apr 16 06:27:52 +0000 2014,2405266809,NEU,0.9579864144325256
+"['are', 'you', 'looking', 'to', 'buy', '$', 'omc', '$', 'ppl', '$', 'dwa', '$', 'vfc', 'moneymanagement', 'URL']",Wed Apr 16 01:12:35 +0000 2014,2254621330,NEU,0.9661509990692139
+"['$', 'ppl', 'whats', 'going', 'on', 'with', '$', 'col', '$', 'emc', '$', 'cray', 'must', 'have', 'URL']",Fri Apr 11 14:51:43 +0000 2014,2436882577,NEU,0.973158061504364
+"['should', 'you', 'buy', '$', 'ftr', '$', 'ppl', '$', 'abbv', '$', 'pcln', 'must', 'have', 'URL']",Mon Jul 07 16:01:13 +0000 2014,2539181243,NEU,0.975608766078949
+"['$', 'ppl', 'do', 'you', 'think', 'you', 'should', 'hold', '$', 'cli', '$', 'hrc', '$', 'pcln', 'try', 'this', 'URL']",Mon Jul 07 08:27:51 +0000 2014,2484936042,NEU,0.9675588011741638
+"['$', 'ppl', ':', 'company', 'shares', 'of', 'ppl', 'corporation', '(', 'nyse', ':p', 'pl', ')', 'drops', 'by', '-3.05', '%', ':', 'URL']",Mon Dec 14 13:22:02 +0000 2015,2342763212,NEG,0.9114992618560791
+"['largest', 'utilities', 'return', 'on', 'assets', '1', ':', '$', 'ppl', '2', ':', '$', 'peg', '3', ':', '$', 'nee', 'chart', ':', 'URL', 'URL']",Sun May 03 20:15:37 +0000 2015,3100250551,NEU,0.9505848288536072
+"['$', 'ppl', 'new', 'sec', 'filing', 'for', 'ppl', 'corp', '(', 'nyse', ':p', 'pl', ')', 'from', 'our', 'stock', 'news', 'alerts', 'app']",Fri Jun 12 11:50:39 +0000 2015,2356524462,NEU,0.9648438096046448
+"['get', 'more', 'info', 'on', '$', 'fmc', '$', 'ppl', '$', 'cl', '$', 'aapl', 'click', 'URL']",Sun Jul 06 11:18:28 +0000 2014,2545050881,NEU,0.9541435837745667
+"['buy', 'or', 'sell', '?', '$', 'cern', '$', 'amzn', '$', 'ppl', '$', 'pcln', 'newsletter', 'URL']",Sun Jul 06 16:52:46 +0000 2014,2467939447,NEU,0.962173342704773
+"['$', 'ppl', 'is', 'it', 'breakout', 'time', 'on', '$', 'yum', '$', 'ofc', '$', 'cbm', 'investing', 'URL']",Tue Jul 01 18:58:02 +0000 2014,2494243513,NEU,0.9626138806343079
+"['$', 'ppl', 'rjs', 'power', 'holdings', 'llc', '-', '-', ""moody's"", 'assigns', 'b1', 'to', 'rjs', 'holdings', 'u', 'URL']",Tue Jul 01 16:06:33 +0000 2014,2467751886,NEU,0.9718014001846313
+"['are', 'you', 'investing', 'in', '$', 'mfa', '$', 'ppl', '$', 'col', '$', 'pcln', 'try', 'this', 'URL']",Tue Jul 08 03:26:40 +0000 2014,2540794001,NEU,0.9564997553825378
+"['$', 'lmca', 'it', 'could', 'be', 'breaktout', 'time', 'on', '$', 'endp', '$', 'ppl', '$', 'aapl', 'try', 'this', 'URL']",Tue Jul 08 05:48:12 +0000 2014,2492116386,NEU,0.9603333473205566
+"['todays', 'stocks', 'you', 'should', 'be', 'watching', '$', 'xray', '$', 'ppl', '$', 'cl', '$', 'aapl', 'view', 'now', 'URL']",Wed Apr 09 23:23:45 +0000 2014,2459782169,NEU,0.8924936056137085
+"['$', 'ppl', 'news', ':', 'mortgage', 'URL', 'mortgage', 'kentuckyutilities']",Tue Sep 29 22:32:52 +0000 2015,2273664823,NEU,0.9781746864318848
+"['52', '-', 'week', 'low', 'alert', ':', 'trading', 'today', '’', 's', 'movement', 'in', 'ppl', '$', 'ppl', 'URL']",Thu Jun 25 17:22:20 +0000 2015,2448859862,NEU,0.5930663347244263
+"['get', 'great', 'research', 'on', 'stocks', '$', 'ppl', '$', 'amty', '$', 'anac', '$', 'nue', 'goto', 'URL']",Sun Feb 09 12:09:22 +0000 2014,2330194271,POS,0.9456409811973572
+"['$', 'ppl', 'ppl', 'chairman', 'says', 'strong', 'earnings', 'in', '2013', 'underscore', 'importance', 'of', 'strategic', 'realignment', 'URL']",Wed May 21 14:46:37 +0000 2014,1704137960,POS,0.9028042554855347
+"['$', 'ppl', ':', '3', 'bullish', 'moves', 'by', 'hedge', 'fund', 'millennium', 'management', 'URL']",Wed May 21 16:42:44 +0000 2014,1728756842,NEU,0.9378291368484497
+"['$', 'ppl', 'ppl', 'corporation', '(', 'nyse', ':p', 'pl', '):', 'plans', 'to', 'sell', 'power', 'unit', 'stake', 'to', 'riverstone', '...', 'URL']",Fri Jun 06 14:35:37 +0000 2014,2342339550,NEU,0.9764466285705566
+"['lnkd', 'linkedin', 'corp', '.', 'investor', 'opinions', 'URL', '$', 'lnkd', '$', 'incy', '$', 'mtvx', '$', 'ppl', 'lnkd', 'pennystocks', 'stock']",Sat Aug 01 14:42:05 +0000 2015,2181314366,NEU,0.9664702415466309
+"['19', 'stocks', 'building', 'superior', 'long-term', 'returns', 'with', 'higher', 'dividends', 'URL', '$', 'bms', '$', 'dps', '$', 'unp', '$', 'ppl', '$', 'cme', '$', 'ago', '$', 'twx', '$', 'nu', '$', 'gas']",Fri Feb 07 17:39:17 +0000 2014,23059499,POS,0.9339183568954468
+"['ppl', 'corp', '.', ""'"", 's', 'neutral', 'rating', 'reiterated', 'at', 'zacks', '.', '$', '32.00', 'pt', '.', 'URL', '$', 'ppl', 'ppl']",Fri Feb 07 18:46:04 +0000 2014,992182100,NEU,0.9266924262046814
+"['stock', 'watchlist', 'you', 'should', 'be', 'looking', 'at', '$', 'ppl', '$', 'bax', '$', 'cnk', '$', 'cag', 'view', 'now', 'URL']",Mon Jun 30 05:05:14 +0000 2014,2493780019,NEU,0.9686465263366699
+"['do', 'you', 'need', 'stock', 'research', 'on', '$', 'agco', '$', 'anf', '$', 'ppl', '$', 'cag', 'view', 'now', 'URL']",Mon Jun 30 13:52:51 +0000 2014,2496219156,NEU,0.9675400257110596
+"['$', 'ppl', 'stock', 'quote', 'alert', 'for', 'ppl', 'corp', '.', '(', 'nyse', ':p', 'pl', ')', 'from', 'our', 'stock', 'news', 'alerts', 'app']",Wed Jul 22 21:04:53 +0000 2015,2356524462,NEU,0.967556357383728
+"['great', 'stock', 'newsletter', 'you', 'must', 'have', '$', 'ppl', '$', 'mrvl', '$', 'car', '$', 'lgnd', 'wallstreet', 'URL']",Mon Jun 09 06:30:13 +0000 2014,2493484441,POS,0.9808545112609863
+"['$', 'ppl', '-', 'ppl', 'corporation', 'reports', '2013', 'earnings', ';', 'increases', 'common', 'stock', 'dividend', '->', 'URL', 'stock', 'stocks', 'stockaction']",Thu Feb 06 14:51:20 +0000 2014,300706809,NEU,0.8545282483100891
+"['ppl.to', 'pembina', 'pipeline', 'corp', '.', 'exchange', 'URL', '$', 'ppl.to', '$', 'glw', '$', 'tqqq', '$', 'oas', 'ppl.to', 'stock', 'investing']",Fri Aug 07 04:45:08 +0000 2015,2285996066,NEU,0.9715644717216492
+"['$', 'ppl', '3', 'stocks', 'underperforming', 'today', 'in', 'the', 'utilities', 'sector', 'URL']",Tue May 20 20:22:04 +0000 2014,1704137960,NEG,0.9081816673278809
+"['pembina', 'pipeline', 'corp', 'pt', 'raised', 'to', 'c', '$', '46.00', '$', 'ppl', 'URL']",Tue May 20 17:36:05 +0000 2014,2181281054,NEU,0.9716084599494934
+"['keeping', 'my', 'eye', 'on', '$', 'nycb', '$', 'ppl', '$', 'mrvl', '$', 'tsla', 'i', 'suggest', 'URL']",Mon Dec 08 21:01:31 +0000 2014,2730047102,NEU,0.9036869406700134
+"['largest', 'utilities', 'return', 'on', 'assets', '1', '.', '$', 'ppl', '2', '.', '$', 'peg', '3', '.', '$', 'nee', 'full', 'chart', ':', 'URL', 'cml']",Fri Apr 03 23:42:36 +0000 2015,2796938558,NEU,0.9520111083984375
+"['$', 'ppl', 'insider', 'trading', 'updates', 'on', '$', 't', '$', 'sdrl', '$', 'feye', 'wallstreet', 'URL']",Sat Dec 06 11:06:43 +0000 2014,2746375363,NEU,0.9745397567749023
+"['gm', 'shom', 'ppl', ""'"", '$', 'ppl', '$', 'shom', 'URL']",Mon Sep 15 12:40:29 +0000 2014,43304435,NEU,0.9657555818557739
+"['shoud', 'you', 'sell', 'or', 'hold', 'stocks', 'like', '$', 'beam', '$', 'ppl', '$', 'gt', '$', 'csiq', 'nse', 'URL']",Wed Nov 26 17:56:01 +0000 2014,2749749612,NEU,0.9755129814147949
+"['$', 'rk', 'should', 'you', 'buy', '$', 'mfa', '$', 'ppl', '$', 'usd', 'singedinvestor', 'URL']",Wed Nov 26 11:10:57 +0000 2014,2741670441,NEU,0.9766510128974915
+"['$', 'agco', 'get', 'great', 'research', 'on', 'stocks', '$', 'xray', '$', 'ppl', '$', 'tur', 'newsletter', 'URL']",Mon May 05 17:46:30 +0000 2014,2470154303,POS,0.9746559262275696
+"['earnings', 'news', 'on', '$', 'gra', '$', 'ppl', '$', 'cli', '$', 'dust', 'overvalued', 'URL']",Sat Jun 14 12:09:17 +0000 2014,2539606611,NEU,0.9744095206260681
+"['$', 'ppl', 'wayne', 'county', 'food', 'pantry', 'receives', '$', '4500', 'from', 'ppl', 'corporation', 'URL']",Sat Jun 14 10:30:19 +0000 2014,2342339550,NEU,0.9680196046829224
+"['$', 'car', '$', 'cnp', '$', 'ppl', ':', 'bargain', 'hunters', 'plow', 'large', 'amounts', 'into', '3', 'stocks', ':', 'avis', 'budget', '…', ':', 'URL']",Tue Oct 20 12:17:10 +0000 2015,2344619544,NEU,0.9535762071609497
+"['$', 'cbyl', '$', 'ppl', ':', 'trending', 'stocks', ':', 'carbylan', 'therapeutics', ',', 'inc', '.', '(', 'nasdaq', ':', 'cbyl', '…', ':', 'URL']",Tue Oct 27 14:51:36 +0000 2015,2341445778,NEU,0.9597066640853882
+"['$', 'ppl', 'are', 'you', 'bullish', 'on', 'these', 'stocks', '$', 'sci', '$', 'vnta', '$', 'pcln', 'equity', 'URL']",Fri Jun 13 14:38:16 +0000 2014,2475417236,NEU,0.947674572467804
+"['potential', 'ppl', '$', 'ppl', 'trade', 'has', '4.33', '%', 'downside', 'protection', '(', 'URL', ')']",Fri Jun 13 12:25:56 +0000 2014,36102165,NEU,0.8581421375274658
+"['ppl', '+0.79', '%', 'stock', 'charts', '$', 'ppl', 'ppl', 'corp', '.', '(', 'nyse', ')', 'last', 'updated', ':', '10/17', '/', '2015', '21:43', ':', '46', 'ppl', 'stock', 'chart', '-', '1', 'month', 'http', 'URL']",Sun Oct 18 02:43:44 +0000 2015,2243075472,NEU,0.9652940630912781
+"['big', 'gaps', ':', 'URL', '$', 'fnsr', ',', '$', 'yy', ',', '$', 'fl', ',', '$', 'big', ',', '$', 'rmd', ',', '$', 'cien', ',', '$', 'lulu', ',', '$', 'stt', ',', '$', 'udr', ',', '$', 'gold', ',', '$', 'nem', ',', '$', 'pld', ',', '$', 'dd', ',', '$', 'ppl']",Fri Mar 06 14:37:23 +0000 2015,49605610,NEU,0.8778195977210999
+"['$', 'ppl', 'stock', 'quote', 'alert', 'for', 'ppl', 'corp', '.', '(', 'nyse', ':p', 'pl', ')', 'from', 'our', 'stock', 'news', 'alerts', 'app']",Wed Nov 05 22:06:20 +0000 2014,2356524462,NEU,0.967556357383728
+"['$', 'ppl', ':', 'ppl', 'spinning', 'off', 'montana', 'power', 'plants', 'URL']",Thu Jun 12 05:52:03 +0000 2014,2342242854,NEU,0.9678433537483215
+"['ppl', 'corp', 'receives', '“', 'buy', '”', 'rating', 'from', 'mkm', 'partners', '$', 'ppl', 'URL']",Wed Aug 12 17:51:22 +0000 2015,2920258887,NEU,0.9664174914360046
+"['$', 'ppl', 'considering', 'investing', 'in', '$', 'fnfg', '$', 'sdrl', '$', 'gogo', 'must', 'see', 'URL']",Fri May 02 22:19:05 +0000 2014,2435292847,NEU,0.915519654750824
+"['ppl', 'announces', 'quarterly', 'dividend', 'of', '$', '0.3725', '.', 'payable', 'on', '7/1', '/', '2015', '.', '4.31', '%', 'yield', '.', 'URL', '$', 'ppl', 'ppl']",Wed May 20 17:39:18 +0000 2015,61661638,NEU,0.9406185150146484
+"['$', 'ppl', '-', 'buy', 'signal', 'at', '33.93', 'on', 'may', '15', ',', '15', 'by', 'yamasuta', ',', 'free', 'algorithmic', 'trading', 'software', 'URL', 'stock', 'trading', 'trade']",Mon May 18 11:05:02 +0000 2015,2915763990,NEU,0.9532254338264465
+"['ppl', 'receives', 'sector', 'perform', 'rating', 'from', 'rbc', 'capital', '$', 'ppl', 'URL']",Tue Jun 09 15:58:25 +0000 2015,2348716116,NEU,0.9409470558166504
+"['update', ':', 'continued', 'regulated', 'expansion', 'will', 'bode', 'well', 'for', 'ppl', 'corp', '.', 'URL', '$', 'ppl']",Fri Feb 06 15:36:44 +0000 2015,203865381,POS,0.929613471031189
+"['earnings', 'news', 'on', '$', 'df', '$', 'ppl', '$', 'win', '$', 'lgnd', 'i', 'suggest', 'URL']",Wed Jul 23 03:01:45 +0000 2014,2657018046,NEU,0.9646599888801575
+"['bearish', 'or', 'bullish', 'on', 'these', 'stocks', '$', 'cpwr', '$', 'ppl', '$', 'gmt', '$', 'aapl', 'click', 'URL']",Tue Jul 22 23:38:37 +0000 2014,2657057887,NEU,0.9735225439071655
+"['$', 'ppl', 'index', 'hits', 'all-time', 'high', ',', 'again', 'URL']",Fri Apr 04 00:48:05 +0000 2014,1835525678,POS,0.7987673282623291
+"['whats', 'going', 'on', 'with', '$', 'aes', '$', 'tap', '$', 'ppl', '$', 'lgnd', 'singedinvestor', 'URL']",Fri Apr 04 04:36:32 +0000 2014,2449631543,NEU,0.9589793682098389
+"['$', 'joe', 'stocks', 'you', 'might', 'want', 'to', 'buy', '$', 'cat', '$', 'ppl', '$', 'cray', 'investing', 'rate_limit_exceeded']",Thu Jul 24 18:32:04 +0000 2014,2665818301,NEU,0.8879163861274719
+"['$', 'sivb', 'earnings', 'news', 'on', '$', 'jnpr', '$', 'ppl', '$', 'lgnd', 'visit', 'URL']",Thu Jul 24 20:01:56 +0000 2014,2719679705,NEU,0.9746978282928467
+"['price', 'action', 'alert', '$', 'ppl', '-', 'ppl', 'stocks', 'intraday', '~', 'via', 'alerttrade']",Thu Sep 24 19:56:36 +0000 2015,121158213,NEU,0.9755032658576965
+"['ddd', '3d', 'systems', 'corp', '.', 'summary', 'click', 'here', '->', 'URL', 'trending', '$', 'ddd', '$', 'ppl.to', '$', 'kr', '$', '^', 'ch16', 'ddd', 'stock', 'share']",Sun May 17 04:34:10 +0000 2015,2204135624,NEU,0.9706286787986755
+"['ppl', '$', 'ppl', 'showing', 'support', 'near', '$', '34.98', '(', 'URL', ')']",Tue Jan 20 17:25:37 +0000 2015,36102165,POS,0.5323247909545898
+"['$', 'ppl', 'ppl', 'names', 'ibm', 'senior', 'vice', 'president', 'to', 'its', 'URL']",Fri Aug 08 14:16:29 +0000 2014,2707923650,NEU,0.9757580161094666
+"['$', 'ppl', 'stock', 'quote', 'alert', 'for', 'ppl', 'corp', '.', '(', 'nyse', ':p', 'pl', ')', 'from', 'our', 'stock', 'news', 'alerts', 'app']",Fri Aug 01 20:39:26 +0000 2014,2356524462,NEU,0.967556357383728
+"['$', 'ppl', ':', 'barclays', 'lowers', 'ppl', 'price', 'target', 'to', '$', '41.00', '(', 'ppl', '):', 'URL']",Mon Feb 09 16:01:10 +0000 2015,2342763212,NEU,0.9507190585136414
+"['rt', 'AT_USER', 'after', 'hours', 'price', 'advances', ':', '$', 'arlp', '$', 'mon', '$', 'ngd', '$', 'swn', '$', 'cemp', '$', 'mnkd', '$', 'vgk', '$', 'mas', '$', 'srcl', '$', 'ctas', '$', 'bsx', '$', 'ppl', '$', 'aes', '$', 'gas', '$', 'cnp', 'URL']",Mon Feb 09 06:20:50 +0000 2015,591368817,NEU,0.8440454602241516
+"['best', 'and', 'worst', 'performers', 'for', 'the', 'week', 'in', 'the', 's', '&', 'p500', '$', 'zion', '$', 'anf', '$', 'pvh', '$', 'wynn', '$', 'urbn', '$', 'dv', '$', 'altr', '$', 'regn', '$', 'fdx', '$', 'ppl', '$', 'irm', '$', 'win', 'URL']",Sat Jun 06 12:50:12 +0000 2015,331677065,NEU,0.9371803998947144
+"['looking', 'for', 'the', 'next', '$', 'ipg', '$', 'ppl', '$', 'awi', '$', 'gain', 'click', 'URL']",Fri Jul 25 15:27:14 +0000 2014,2657024430,NEU,0.9727998971939087
+"['$', 'cam', 'are', 'you', 'thinking', 'of', 'selling', '$', 'fb', '$', 'ppl', '$', 'live', 'equity', 'URL']",Thu Jul 24 22:18:38 +0000 2014,2714885092,NEU,0.966802179813385
+"['$', 'stld', 'get', 'more', 'info', 'on', '$', 'slg', '$', 'ppl', '$', 'ign', 'visit', 'URL']",Fri Jul 25 13:02:37 +0000 2014,2714869469,NEU,0.968027651309967
+"['weekly', 'research', 'analysts', '’', 'ratings', 'updates', 'for', 'ppl', 'corp', '$', 'ppl', 'URL', 'acn']",Wed Nov 11 10:18:24 +0000 2015,52210566,NEU,0.9696319699287415
+"[""today's"", '5', 'bets', 'large', 'caps', '$', 'ppl', '$', 'kr', '$', 'luv', '$', 'hst', '$', 'bcr', 'URL']",Sat Mar 15 16:17:36 +0000 2014,85896167,NEU,0.9736257791519165
+"['are', 'you', 'bullish', 'on', 'these', 'stocks', '$', 'ppl', '$', 'mdu', '$', 'amd', '$', 'ir', 'click', 'URL']",Sat Apr 05 10:45:28 +0000 2014,2454741851,NEU,0.9520118832588196
+"['$', 'nve', 'stocks', 'to', 'watch', 'this', 'week', '$', 'nrg', '$', 'ppl', '$', 'do', 'stockmarket', 'URL']",Mon Jul 14 20:07:01 +0000 2014,2465858802,NEU,0.9488833546638489
+"['should', 'you', 'hold', 'or', 'add', 'to', '$', 'dis', '$', 'endp', '$', 'ppl', '$', 'gain', 'wealthmanagement', 'URL']",Sun Jul 13 22:49:50 +0000 2014,2494594356,NEU,0.9788434505462646
+"['14', 'sep', '2015', ':', 'downtrend', 'stocks', 'in', 'utilities', '$', 'aep', '$', 'oke', '$', 'ppl', '$', 'sre', 'URL']",Mon Sep 14 13:31:02 +0000 2015,3028556382,NEU,0.9562654495239258
+"['5', 'stocks', 'you', 'should', 'be', 'watching', '$', 'lnc', '$', 'scty', '$', 'ppl', '$', 'do', 'nse', 'URL']",Sun Jul 13 03:39:07 +0000 2014,2477500938,NEU,0.9110760688781738
+"['pembina', 'pipeline', 'corp', 'given', 'consensus', 'recommendation', 'of', '“', 'buy', '”', 'by', 'analysts', '$', 'ppl', 'URL', 'acn']",Wed Nov 18 21:53:28 +0000 2015,52210566,NEU,0.9574545621871948

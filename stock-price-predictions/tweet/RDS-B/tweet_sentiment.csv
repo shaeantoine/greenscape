@@ -1,0 +1,4 @@
+text,created_at,user_id_str,sentiment,score
+"['$', 'rds-b.us', ':', '5', 'reasons', 'why', 'you', 'should', 'buy', 'royal', 'dutch', 'shell', 'plc', ':', 'URL']",Wed Feb 25 08:21:04 +0000 2015,2344619544,NEU,0.9338607788085938
+"['top', 'stocks', 'bear', 'trade', 'ideas', ':', '$', 'nflx', '$', 'lpl', '$', 'vod', '$', 'bhi', '$', 'rds-b', '$', 'swn', '$', 'xiv', '$', 'bx', '$', 'sto', '$', 'qld', 'more', 'URL']",Thu Oct 16 15:45:51 +0000 2014,84989659,NEU,0.9363986253738403
+"['watching', '$', 'rds-b', '$', 'bwg', '$', 'pci', '$', 'rem', '$', 'ed', '&', '$', 'ori', 'today', '.']",Fri Apr 10 13:28:25 +0000 2015,2921952326,NEU,0.9677860736846924

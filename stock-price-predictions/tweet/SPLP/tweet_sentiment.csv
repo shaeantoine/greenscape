@@ -1,0 +1,9 @@
+text,created_at,user_id_str,sentiment,score
+"['steel', 'partners', ':', 'other', 'events', '(', 'form', '8', '-', 'k', ')', 'URL', '$', 'splp']",Thu Mar 26 10:04:13 +0000 2015,102325185,NEU,0.9770207405090332
+"['slio', 'shares', 'click', 'here', '->', 'URL', 'trending', '$', 'slio', '$', 'rvarf', '$', 'strz', '$', 'splp', 'slio', 'tradeideas', 'pennystocks']",Fri May 15 06:20:06 +0000 2015,2196900553,NEU,0.9596178531646729
+"['$', 'ajrd', '(', 'up', '8', '%', 'today', ')', 'and', '$', 'hnh', '(', 'up', '6', '%', 'today', ')', 'constitute', '56', '%', 'of', '$', 'splp', 'book', 'value', '.', 'naturally', ',', '$', 'splp', 'flat', 'on', '~', 'zero', 'volume', '.']",Wed Sep 09 16:55:11 +0000 2015,3392786044,NEU,0.9016503095626831
+"['$', 'splp', ',', '13g', 'filed', 'by', 'entrust', 'partners', 'l', 'l', 'c', 'URL', 'URL']",Fri Feb 13 17:56:10 +0000 2015,1109468634,NEU,0.9738720059394836
+"['$', 'splp', 'eye-catching', 'stocks', ':', 'zynga', 'inc', '(', 'nasdaq', ':', 'znga', ')', ',', 'armco', 'metals', 'holdings', '...', 'URL']",Mon May 26 17:46:40 +0000 2014,1828280114,POS,0.8110744953155518
+"['$', 'splp', 'suncoke', 'energy', ',', 'inc', '.', 'closes', 'dropdown', 'transaction', 'and', 'updates', '2014', 'guidance', 'URL']",Sat May 10 16:30:04 +0000 2014,1729133804,NEU,0.9758301973342896
+"[""don't"", 'wait', 'untill', '2016', 'to', 'realize', 'this', 'powerful', 'stock', 'alert', 'service', '!', '$', '240,000', 'gains', '!', 'URL', '..', '$', 'sph', '$', 'splp', '$', 'spn']",Tue Apr 28 10:02:32 +0000 2015,2799908841,POS,0.9536994695663452
+"['$', 'splp', 'steel', 'partners', 'holdings', 'l', '.', 'p', '.', 'files', 'sec', 'form', '8', '-', 'k', ',', 'change', 'in', 'directors', 'or', 'URL']",Sat May 03 21:18:04 +0000 2014,2443601173,NEU,0.9788289070129395

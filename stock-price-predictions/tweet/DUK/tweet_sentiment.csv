@@ -1,0 +1,213 @@
+text,created_at,user_id_str,sentiment,score
+"['$', 'duk', 'looks', 'to', 'be', 'holding', 'on', 'the', '6', 'month', 'support', 'line', 'at', '82.43', '.', 'could', 'be', 'a', 'buying', 'opportunity', 'in', 'the', 'next', 'couple', 'days', '.', 'URL']",Tue Feb 10 03:42:52 +0000 2015,318630104,POS,0.6880890130996704
+"['investors', 'buy', 'shares', 'of', 'duke', 'energy', 'corp', 'on', 'weakness', '$', 'duk', 'URL']",Tue Feb 10 00:21:05 +0000 2015,2743641378,NEU,0.7007654309272766
+"['$', 'scty', '$', 'nee', '$', 'duk', '$', 'nrg', ':', 'cloudy', 'prospects', 'for', 'rooftop', ""solar's"", 'growth', 'in', 'florida', ':', 'energy', ':', 'URL']",Tue Feb 17 00:22:02 +0000 2015,2342763212,NEU,0.9086973667144775
+"['$', 'duk', ':', 'yates', 'lloyd', 'm', 'sold', 'a', 'net', '$', '312,361', 'in', 'duke', 'energy', 'corp', '.', 'URL']",Wed Aug 27 20:10:17 +0000 2014,2564014766,NEU,0.9361205697059631
+"['abx', 'barrick', 'gold', 'corp', '.', 'current', 'price', 'URL', '$', 'abx', '$', 'bns.to', '$', 'duk', '$', 'cdrb', 'abx', 'stocks', 'tradeideas']",Thu Jun 11 10:31:42 +0000 2015,386787305,NEU,0.9737514853477478
+"['$', 'wmih', 'news', 'updated', 'thursday', ',', 'june', '11', ',', '2015', '3:11', ':', '09', 'pm', '$', 'duk', '$', 'vti', '$', 'orcl', '$', 'cat', 'URL']",Thu Jun 11 19:58:06 +0000 2015,2197054086,NEU,0.9729549288749695
+"['rt', 'AT_USER', 'swing', 'trading', 'watch-list', ':', '$', 'cldx', '$', 'duk', '$', 'ebay', '$', 'altr', '$', 'xlnx', 'URL']",Tue Jan 06 02:11:33 +0000 2015,1077087198,NEU,0.9521490931510925
+"['$', 'duk', 'pennystock', 'research', 'on', '$', 'apol', '$', 'anat', '$', 'pcln', 'research', 'URL']",Sat Aug 16 20:08:57 +0000 2014,2730065365,NEU,0.9726529121398926
+"['AT_USER', 'i', 'need', 'to', 'diversify', ',', 'a', 'few', 'months', 'ago', 'you', 'mention', '$', 'duk', 'on', 'mmwcp', ',', 'the', 'other', ""i'm"", 'looking', 'at', 'is', '$', 'dvn', '.', 'one', 'over', 'the', 'other', '?', 'both', '?']",Thu Feb 19 17:47:34 +0000 2015,117191441,NEU,0.9356729388237
+"['rt', 'URL', '$', 'duk', '-', 'buy', 'signal', 'at', '72.04', 'on', 'dec', '24', ',', '15', 'by', 'URL', 'trading', 'signals', 'robot', 'stock', 'trading', 'tra', '…']",Sat Dec 26 04:23:28 +0000 2015,3331182800,NEU,0.9750608205795288
+"['$', 'duk', 'find', 'the', 'next', 'hot', 'pennystock', '$', 'tkr', '$', 'te', '$', 'abx', 'give', 'it', 'a', 'try', 'URL']",Sun Mar 02 19:10:58 +0000 2014,2264422430,NEU,0.6726817488670349
+"['$', 'joy', 'get', 'great', 'research', 'on', 'stocks', '$', 'ce', '$', 'duk', '$', 'tur', 'wealthmanagement', 'URL']",Fri Jul 04 01:20:54 +0000 2014,2492116386,POS,0.9732236862182617
+"['$', 'duk', 'should', 'you', 'buy', '$', 'zts', '$', 'ne', '$', 'spy', 'wealthmanagement', 'URL']",Fri Jul 04 08:03:17 +0000 2014,2539180287,NEU,0.977137565612793
+"['$', 'duk', 'todays', 'movers', 'to', 'research', '$', 'incy', '$', 'ctl', '$', 'abx', 'visit', 'URL']",Thu Jul 03 02:26:21 +0000 2014,2491295516,NEU,0.9759172797203064
+"['get', 'the', 'latest', 'on', '$', 'wy', '$', 'duk', '$', 'rhi', '$', 'tur', 'visit', 'URL']",Thu Jul 03 18:02:06 +0000 2014,2535216071,NEU,0.9712740182876587
+"['duke', 'energy', ':', 'progress', 'customers', 'in', 'south', 'carolina', 'to', 'see', 'slight', 'increase', 'in', 'fuel', 'rates', 'URL', '$', 'duk', '$', 'dsm']",Thu Jul 03 09:00:11 +0000 2014,102325185,NEU,0.8162227272987366
+"['$', 'duk', 'is', 'in', 'a', 'bearish', 'trend', 'and', 'approaching', 'its', '200', '-', 'day', 'sma', 'at', '$', '77.12', '.', 'URL']",Wed Feb 18 18:58:34 +0000 2015,2732425088,NEU,0.8913803696632385
+"['duke', 'energy', 'modestly', 'higher', 'following', 'earnings', 'results', 'URL', '$', 'duk']",Wed Feb 18 14:50:02 +0000 2015,72928001,POS,0.5441285371780396
+"['$', 'duk', 'earnings', ':', '""', 'reported', 'sharply', 'lower', 'profit', 'in', '4th', 'q', '...']",Wed Feb 18 14:17:55 +0000 2015,1888644360,NEG,0.5479297041893005
+"['rt', 'AT_USER', 'what', 'duke', ""energy's"", 'earnings', 'mean', 'for', 'investors', '(', 'duk', ')', '-', 'URL', 'URL', '$', 'duk']",Wed Feb 18 16:27:30 +0000 2015,9626082,NEU,0.974346399307251
+"['duk', 'duke', 'energy', 'corp', '.', 'dividend', 'URL', '$', 'duk', '$', 'xiv', '$', 'uup', '$', 'cce', 'duk', 'invest', 'invest']",Sun Jun 28 05:38:05 +0000 2015,2181373892,NEU,0.9675782322883606
+"['$', 'duk', 'duk', '/', 'duke', 'energy', 'corp', '(', 'us', ')', '.', 'positive', 'score', '+', '3', '.', 'signal', '(', '+', '2', ')', ',', 'correlation', '(', '+', '1', ')', '.', 'URL', 'stocks', 'stockaction']",Fri May 01 21:42:17 +0000 2015,2854509063,NEU,0.8997974991798401
+"['largest', 'utilities', 'revenue', '1', ':', '$', 'exc', '2', ':', '$', 'duk', '3', ':', '$', 'so', 'chart', ':', 'URL', 'URL']",Fri May 01 17:39:08 +0000 2015,2796938558,NEU,0.9334533214569092
+"['largest', 'utilities', 'assets', '1', ':', '$', 'duk', '2', ':', '$', 'exc', '3', ':', '$', 'nee', 'chart', ':', 'URL', 'URL']",Fri May 01 08:49:53 +0000 2015,2796938558,NEU,0.9645909667015076
+"['duke', 'energy', 'ceo', 'lynn', 'j', '.', 'good', 'to', 'address', '2', '$', 'duk', 'URL']",Tue Aug 26 21:01:10 +0000 2014,2747078162,POS,0.9526578783988953
+"['rt', 'AT_USER', '$', 'duk', 'looks', 'attractive', '(', 'rated', '7.5', 'as', 'price', 'is', 'down', 'to', '82.23', ')', '.', 'price', 'vs', 'ratings', 'chart', ':', 'URL']",Wed Feb 11 16:44:44 +0000 2015,2150927341,POS,0.888547956943512
+"['dgc.to', 'detour', 'gold', 'corp', '.', 'financials', 'URL', '$', 'dgc.to', '$', 'uco', '$', 'duk', '$', 't.to', 'dgc.to', 'pennystocks', 'share']",Sun Jun 21 13:35:07 +0000 2015,386787305,NEU,0.9742108583450317
+"['gld', 'spdr', 'gold', 'trust', 'shares', 'market', 'cap', 'URL', '$', 'gld', '$', 'bbby', '$', 'duk', '$', 'nvo', 'gld', 'invest', 'nasdaq', 'bosocial']",Sun Jun 21 13:39:48 +0000 2015,2863026998,NEU,0.9723502993583679
+"['duke', 'energy', ':', 'assigned', 'patent', 'URL', '$', 'duk']",Thu Aug 21 11:10:16 +0000 2014,102325185,NEU,0.973874568939209
+"['rt', 'AT_USER', '20', 'defensive', 'dividend', 'growth', 'stocks', 'with', 'potential', 'to', 'create', 'values', 'in', 'the', 'future', '-', 'URL', '-', '$', 'tlp', '$', 'duk', '$', '…']",Wed Sep 02 18:08:21 +0000 2015,425755677,POS,0.540034294128418
+"['did', 'you', 'lose', 'money', 'on', '$', 'xlnx', '$', 'duk', '$', 'hcp', '$', 'ci', 'nasdaq', 'URL']",Wed Jul 02 19:37:35 +0000 2014,2494594356,NEU,0.654857337474823
+"['$', 'duk', 'are', 'you', 'looking', 'for', 'winners', 'like', '$', 'expe', '$', 'tk', '$', 'aapl', 'financial', 'URL']",Wed Jul 02 19:51:20 +0000 2014,2483741744,NEU,0.7822280526161194
+"['$', 'gdi', 'are', 'you', 'hanging', 'on', 'to', '$', 'cie', '$', 'duk', '$', 'grpn', 'visit', 'URL']",Wed Jul 02 06:19:28 +0000 2014,2487376068,NEU,0.9734877347946167
+"['target', 'hit', 'on', 'the', '$', 'duk', 'short', 'for', '2.4', '%', 'gain', '..', 'that', 'melt-up', 'in', '$', 'spx', 'today', 'put', 'our', 'quant', 'picks', 'up', '57', '%', 'for', 'the', 'year', 'URL']",Tue Mar 04 19:36:11 +0000 2014,1667954222,NEU,0.741187334060669
+"['$', 'duk', 'received', 'a', 'new', 'alert', '.', 'find', 'out', 'why', 'at', 'URL', 'stocks', 'daytrading', 'trading', 'mkt', 'nyse', 'nasdaq', 'markets', '165']",Fri Jul 17 13:22:15 +0000 2015,39546678,NEU,0.9583724141120911
+"['largest', 'utilities', 'revenue', '1', '.', '$', 'exc', '2', '.', '$', 'duk', '3', '.', '$', 'so', 'full', 'chart', ':', 'URL', 'cml']",Wed Apr 08 20:50:00 +0000 2015,2796938558,NEU,0.9333714842796326
+"['regretting', 'your', 'investment', 'in', '$', 'nbr', '$', 'duk', '$', 'kmt', '$', 'pcln', 'view', 'now', 'URL']",Thu Jun 05 21:37:43 +0000 2014,2539180637,NEG,0.9445315003395081
+"['5', 'stocks', 'to', 'watch', '$', 'duk', '$', 'png', '$', 'lsi', '$', 'qqq', 'got', 'to', 'see', 'URL']",Thu Jan 23 01:58:30 +0000 2014,2252564720,NEU,0.960426926612854
+"['$', 'duk', 'small-cap', 'stocks', 'making', '52', '-', 'wk', 'highs', '$', 'hig', '$', 'anat', '$', 'dust', 'money', 'URL']",Tue Dec 02 01:03:00 +0000 2014,2729359135,POS,0.5450743436813354
+"['would', 'you', 'like', 'great', 'research', 'on', 'stocks', '$', 'alb', '$', 'sbac', '$', 'duk', '$', 'rt', 'stock', 'URL']",Tue Nov 25 11:05:45 +0000 2014,2723802206,POS,0.6975379586219788
+"['ashs', 'deutsche', 'x-trackers', 'harvest', 'csi', '500', 'china', 'a-shares', 'small', 'cap', 'etf', 'news', 'URL', '$', 'ashs', '$', 'duk', '$', 'biod', '$', 'xlk', 'ashs', 'stock', '…']",Sat Jul 11 01:33:05 +0000 2015,2196900553,NEU,0.9765441417694092
+"['aapl', 'apple', ',', 'inc', '.', 'news', 'URL', '$', 'aapl', '$', 'duk', '$', 'xlv', '$', 'ea', 'aapl', 'nasdaq', 'stock', 'bosocial', 'URL']",Sat Jul 11 12:33:50 +0000 2015,2863026998,NEU,0.9576493501663208
+"[""i'm"", 'checking', 'out', '$', 'duk', 'URL']",Mon Aug 03 23:54:23 +0000 2015,2944118763,NEU,0.9633331894874573
+"['$', 'shld', 'stocks', 'you', 'might', 'want', 'to', 'buy', '$', 'mygn', '$', 'duk', '$', 'rax', 'visit', 'URL']",Wed Jun 04 12:07:41 +0000 2014,2492564641,NEU,0.9489908218383789
+"['$', 'duk', ':', 'duke', 'energy', 'shareholders', 'sue', 'over', 'coal', 'ash', 'oversight', 'URL']",Fri May 23 19:22:35 +0000 2014,1923869994,NEU,0.8756168484687805
+"['$', 'duk', 'duke', 'energy', ',', 'epa', 'sign', 'dan', 'river', 'cleanup', 'deal', 'URL']",Fri May 23 14:21:10 +0000 2014,1704147314,NEU,0.9688368439674377
+"['$', 'duk', ':', 'duke', 'energy', 'corp', 'receives', 'average', 'recommendation', 'of', '“', 'hold', '…', ':', 'URL']",Thu Oct 08 16:17:05 +0000 2015,2342763212,NEU,0.9606166481971741
+"['$', 'fe', '$', '34', 'pt', 'consensus', ',', '$', '29', 'top', 'analyst', 'pt', ',', '$', 'eix', '$', 'duk', '$', 'aes', 'promising', 'URL', 'URL']",Tue Jun 03 17:31:30 +0000 2014,1237240938,POS,0.7961795926094055
+"['bullish', 'on', 'these', 'stocks', '$', 'csbk', '$', 'duk', '$', 'opay', '$', 'logi', 'view', 'now', 'URL']",Fri Jan 31 13:17:37 +0000 2014,2264426239,NEU,0.722896158695221
+"['$', 'duk', 'looking', 'for', 'the', 'next', '$', 'bwa', '$', 'isrg', '$', 'live', 'view', 'now', 'URL']",Wed Apr 30 21:54:46 +0000 2014,2473760362,NEU,0.9707056283950806
+"['what', 'i', 'have', 'learned', 'from', ""exelon's"", 'deal', '-', 'URL', '$', 'duk', 'headlines', 'stock', 'economics']",Wed Apr 30 23:30:50 +0000 2014,1059243763,NEU,0.9039942026138306
+"['could', 'be', 'breaktout', 'time', 'on', '$', 'splk', '$', 'duk', '$', 'ctas', '$', 'ci', 'wealthmanagement', 'URL']",Thu May 01 14:14:31 +0000 2014,2483735434,NEU,0.9759105443954468
+"['60m', '$', 'duk', 'upper', 'trendline', 'pressure', '72.410', 'futures', 'stocks', '08:00', ':', '02', 'pm', 'URL', 'signals', 'based', '...', 'URL']",Thu Jun 19 00:03:24 +0000 2014,241235809,NEU,0.9760416150093079
+"['$', 'cvx', '$', 't', '$', 'gis', '$', 'spy', '$', 'ko', '$', 'duk', '$', 'qqq', 'conservative', 'stocks', 'to', 'buy', 'URL']",Thu Jun 19 14:14:42 +0000 2014,109200080,NEU,0.9748074412345886
+"['$', 'duk', '5:45', 'pm', 'duke', 'energy', ',', 'u', '.', 's', '.', 'fish', 'and', 'wildlife', 'service', ',', '2', 'state', 'agencies', 'sign', 'natural', 'resources', 'agreement', 'related', 'to', 'dan', 'river', 'incident', '...']",Tue Jun 10 07:21:10 +0000 2014,2344665324,NEU,0.9601513147354126
+"['are', 'you', 'buying', '$', 'upl', '$', 'duk', '$', 'hst', '$', 'aapl', 'overvalued', 'URL']",Thu Feb 20 00:36:40 +0000 2014,2323906809,NEU,0.9685941934585571
+"['10', 'aug', '2015', ':', 'uptrend', 'stocks', 'in', 'utilities', '$', 'aee', '$', 'aep', '$', 'dte', '$', 'duk', '$', 'ed', '$', 'eix', '$', 'nee', '$', 'so', '$', 'te', '$', 'xel', 'URL']",Mon Aug 10 13:20:43 +0000 2015,3028556382,NEU,0.9082759022712708
+"['$', 'duk', 'keeping', 'this', 'name', 'too', '+1.73', '%']",Fri Oct 23 13:55:05 +0000 2015,110539278,NEU,0.8634399771690369
+"['$', 'duk', 'earning', 'to', 'watch', 'on', 'tuesday', ':', 'the', 'coca-cola', 'company', '(', 'nyse', ':', 'ko', ')', ',', 'duke', '...', 'URL']",Tue Feb 18 11:27:04 +0000 2014,1910908514,NEU,0.8208990097045898
+"['$', 'duk', '-', 'duke', 'energy', 'announces', 'complete', 'ash', 'excavation', 'at', 'w', '.', 's', '.', 'lee', 'steam', 'station', 'URL']",Thu Dec 18 18:02:21 +0000 2014,2554107798,NEU,0.9570291042327881
+"['$', 'cvs', ',', '$', 'ggp', ',', '$', 'lh', ',', '$', 'sons', ',', '$', 'acc', ',', '$', 'duk', ',', '$', 'bik', ',', '$', 'ctrp', ',', '$', 'udr', ',', '$', 'ks', ',', 'bullish', ',', 'buy', 'signal', ',', 'stocks', 'investing']",Fri Sep 05 18:55:58 +0000 2014,1328696240,NEU,0.9307578802108765
+"['buy', '$', 'de', '87.80', ',', 'short', '$', 'duk', '80.62', ',', 'sell', '$', 'gild', '100.41', ',', 'sell', '$', 'myl', '53.56', '.', 'more', 'stock', 'tips', '&', 'details', 'at', ':', 'URL']",Tue Dec 16 21:33:46 +0000 2014,481695746,NEU,0.9663282036781311
+"['$', 'duk', ':', '[', '$', '$', ']', 'blackstone', ',', 'others', 'bid', 'for', 'dukes', 'midwest', 'power', 'plants', 'URL']",Sat May 31 18:01:37 +0000 2014,1849605206,NEU,0.9651528596878052
+"['are', 'you', 'selling', '$', 'ppl', '$', 'sfd', '$', 'duk', '$', 'tol', '$', 'acas', 'must', 'see', 'URL']",Wed Feb 26 05:31:55 +0000 2014,2265955699,NEU,0.9627379179000854
+"['top', 'performing', 'stocks', 'today', '$', 'slm', '$', 'duk', '$', 'pfg', '$', 'dust', 'equity', 'URL']",Sat Jun 28 23:19:05 +0000 2014,2478851857,POS,0.5150964856147766
+"['rt', 'AT_USER', 'bullish', 'on', 'these', 'stocks', '$', 'xlnx', '$', 'duk', '$', 'eei', '$', 'arg', '$', 'live', 'nse', 'URL']",Fri Feb 21 22:17:31 +0000 2014,430194383,NEU,0.7643059492111206
+"['$', 'duk', 'time', 'warner', 'buys', 'fiber', 'optic', 'network', 'for', '$', '600m', 'URL']",Mon Jan 06 21:31:24 +0000 2014,1728602022,NEU,0.8563039898872375
+"['$', 'duk', 'duke', 'energy', 'to', 'exit', 'midwest', 'commercial', 'generation', 'business', 'URL']",Mon Feb 17 20:07:04 +0000 2014,1849605206,NEU,0.9602739810943604
+"['$', 'duk', 'are', 'you', 'hanging', 'on', 'to', '$', 'hst', '$', 'ctl', '$', 'feye', 'economy', 'URL']",Fri Jun 27 18:06:21 +0000 2014,2538131633,NEU,0.9674054980278015
+"['stocks', 'on', 'URL', 'with', 'spike', 'in', 'news', 'coverage', ':', '$', 'duk', '$', 'mdlz', '$', 'aol', '$', 'se', '$', 'pg']",Wed May 07 14:17:19 +0000 2014,591455277,NEU,0.7660593390464783
+"['$', 'so', '$', 'exe', '$', 'aep', '$', 'duk', ':', 'repurposing', 'of', 'doe', 'loans', 'could', 'give', 'nuclear', 'power', 'industry', 'a', '...', 'URL', 'URL']",Wed Dec 10 07:55:04 +0000 2014,2881595931,NEU,0.9365363121032715
+"['intc', 'intel', 'corp', '.', '52wk', 'high', 'URL', '$', 'intc', '$', 'xlv', '$', 'fit', '$', 'duk', 'intc', 'stock', 'nasdaq']",Sat Jul 04 19:40:04 +0000 2015,2181357950,NEU,0.8839093446731567
+"['great', 'stock', 'newsletter', 'you', 'must', 'have', '$', 'clh', '$', 'asbc', '$', 'duk', '$', 'feye', 'give', 'it', 'a', 'try', 'URL']",Wed Dec 17 14:39:09 +0000 2014,2748212001,POS,0.9845651388168335
+"['$', 'duk', 'great', 'stock', 'newsletter', 'on', '$', 'hst', '$', 'bms', '$', 'do', 'view', 'now', 'URL']",Wed Dec 17 11:20:16 +0000 2014,2741718526,POS,0.9886263012886047
+"['insiders', 'selling', ':', '$', 'rcl', '$', 'byd', '$', 'fltx', '$', 'mth', '$', 'rubi', '$', 'smg', '$', 'a', '$', 'xec', '$', 'rok', '$', 'cyn', '$', 'fngn', '$', 'lnc', '$', 'faf', '$', 'duk', '$', 'advs', 'URL', 'swingtrading', 'spy']",Sun Mar 01 23:30:08 +0000 2015,1168269721,NEU,0.9713847637176514
+"['rt', 'AT_USER', '$', 'duk', 'chart', ':', 'call', '.', 'URL']",Mon Mar 02 12:24:34 +0000 2015,729090452,NEU,0.9776981472969055
+"['$', 'vz', 'some', 'stocks', 'to', 'watch', '$', 'nbl', '$', 'duk', '$', 'usd', 'overvalued', 'URL']",Wed Jul 16 17:57:19 +0000 2014,2465900504,NEU,0.9602885246276855
+"['$', 'duk', 'best', 'pennystock', 'research', '$', 'aa', '$', 'rax', '$', 'epzm', 'give', 'it', 'a', 'try', 'URL']",Tue Jul 15 23:34:51 +0000 2014,2493645145,POS,0.9197339415550232
+"['$', 'duk', 'stocks', 'you', 'might', 'want', 'to', 'sell', '$', 'arg', '$', 'rax', '$', 'goog', 'try', 'this', 'rate_limit_exceeded']",Wed Jul 16 00:12:50 +0000 2014,2473375303,NEU,0.9077813029289246
+"['rt', 'AT_USER', 'duke', 'energy', ',', 'denr', 'court', 'fight', 'over', '$', '25m', 'fine', 'set', 'for', 'tuesday', ',', 'unless', 'foes', 'settle', 'coal', 'ash', 'dispute', '.', '$', 'duk', 'coalash', 'URL']",Tue Sep 29 15:23:32 +0000 2015,17949481,NEU,0.855719268321991
+"['$', 'duk', '-', 'southern', 'company', ':', 'a', 'defensive', 'utility', 'stock', '->', 'URL', 'stock', 'stocks', 'stockaction']",Thu Jul 10 22:47:19 +0000 2014,2180886595,NEU,0.9744569659233093
+"['are', 'you', 'thinking', 'of', 'investing', 'in', '$', 'clr', '$', 'duk', '$', 'zion', '$', 'nuan', 'stock', 'URL']",Tue Apr 08 22:06:30 +0000 2014,2388695343,NEU,0.9581828117370605
+"['bearish', 'on', 'these', 'stocks', '$', 'duk', '$', 'awh', '$', 'twtc', '$', 'slw', 'try', 'this', 'URL']",Mon Mar 17 14:08:07 +0000 2014,2307728279,NEU,0.9552741646766663
+"['looking', 'for', 'the', 'next', 'performer', 'like', '$', 'duk', '$', 'pnc', '$', 'jah', '$', 'feye', 'view', 'now', 'URL']",Mon Mar 17 11:32:40 +0000 2014,2323899717,NEU,0.960308313369751
+"['rt', 'seekingalpha', ':', 'use', 'short-term', 'volatility', 'for', 'long-term', 'gains', 'URL', '$', 'd', '$', 'duk', '$', 'hcn', '$', 'hcp', '$', 'so', '$', 'vtr']",Fri Nov 13 09:57:59 +0000 2015,9555372,NEU,0.8993316888809204
+"['$', 'duk', 'duke', 'energy', 'seeks', 'to', 'keep', 'records', 'from', 'regulators', 'URL']",Fri Mar 28 19:31:10 +0000 2014,1849605206,NEU,0.969739556312561
+"['duke', 'energy', '$', 'duk', 'showing', 'bullish', 'technicals', 'with', 'resistance', 'at', '$', '71.25', '(', 'URL', ')']",Fri Mar 28 15:55:00 +0000 2014,36102165,NEU,0.9592684507369995
+"['$', 'duk', 'duke', 'energy', 'says', 'its', 'work', 'on', 'n', '.', 'c', '.', 'coal', 'ash', 'manag', 'URL']",Sun Aug 03 10:44:07 +0000 2014,2691790238,NEU,0.9706034064292908
+"['price', 'target', 'alert', ':', 'trading', 'the', 'zacks', 'price', 'target', 'change', 'for', 'duke', 'energy', '$', 'duk', 'URL']",Wed Jun 03 17:06:14 +0000 2015,2448859862,NEU,0.9728652238845825
+"['duke', 'energy', 'pleads', 'guilty', 'to', 'coal', 'ash', 'violations', '$', 'duk', 'URL']",Fri May 15 06:10:32 +0000 2015,22240649,NEG,0.7260845303535461
+"['$', 'sndk', 'get', 'the', 'latest', 'on', '$', 'jpm', '$', 'duk', '$', 'spy', 'nasdaq', 'URL']",Mon Jul 21 18:07:38 +0000 2014,2663514175,NEU,0.9631373882293701
+"['$', 'duk', 'duke', 'energy', 'florida', 'employees', 'energize', 'students', 'during', 'the', 'great', 'american', 'teach-in', 'in', 'tampa', 'bay', 'URL']",Thu Nov 12 19:28:56 +0000 2015,2397975692,POS,0.9189440011978149
+"['$', 'duk', 'duke', 'energy', 'realigns', 'organization', 'and', 'senior', 'rol', 'URL']",Sat Jul 26 14:00:18 +0000 2014,2663652001,NEU,0.9675607085227966
+"['should', 'you', 'buy', ',', 'sell', 'or', 'hold', '$', 'hsh', '$', 'odfl', '$', 'duk', '$', 'ir', 'investing', 'rate_limit_exceeded']",Sat Mar 29 10:42:49 +0000 2014,2398366615,NEU,0.9270836710929871
+"['$', 'duk', 'stocks', 'you', 'might', 'want', 'to', 'sell', '$', 'cci', '$', 'mkl', '$', 'lgnd', 'goto', 'rate_limit_exceeded']",Thu Jul 10 19:35:12 +0000 2014,2494078045,NEU,0.9283339977264404
+"['awesome', 'stock', 'research', 'on', '$', 'hca', '$', 'two', '$', 'duk', '$', 'slw', 'research', 'URL']",Tue Apr 08 07:11:39 +0000 2014,2433833751,POS,0.9830290675163269
+"['$', 'duk', 'nc', 'sides', 'with', 'duke', 'in', 'appeal', 'of', 'coal', 'ash', 'ruling', 'URL']",Tue Apr 08 16:33:37 +0000 2014,2329688863,NEU,0.9623149037361145
+"['$', 'duk', 'received', 'a', 'new', 'alert', '.', 'find', 'out', 'why', 'at', 'URL', 'stocks', 'daytrading', 'trading', 'mkt', 'nyse', 'nasdaq', 'markets', '18']",Tue Apr 08 08:37:35 +0000 2014,39546678,NEU,0.9611560702323914
+"['$', 'plug', '$', 'cpst', '$', 'bldp', '$', 'zbb', '$', 'duk', '$', 'fcel', 'are', 'fuel', 'cells', 'the', 'answer', 'to', 'coal', 'power', 'plant', 'co2', 'capture', '?', 'URL']",Wed Apr 30 16:10:50 +0000 2014,494917657,NEU,0.9486727118492126
+"['commodities', 'today', ':', 'utility', 'mergers', 'and', 'acquisitions', 'to', 'pick', 'up', 'URL', '$', 'duk', '$', 'exc', '$', 'pom', '$', 'scg', '$', 'wr']",Wed Apr 30 17:27:00 +0000 2014,23059499,NEU,0.965567946434021
+"['$', 'duk', 'age', 'of', 'renewables', 'is', 'dawning', ',', 'and', 'these', 'are', 'the', 'stocks', 'to', 'benefit', 'URL']",Thu Mar 27 19:37:16 +0000 2014,1923869994,POS,0.784172773361206
+"['this', 'weeks', 'stocks', 'you', 'should', 'watch', '$', 'duk', '$', 'ben', '$', 'dd', '$', 'gain', 'investing', 'URL']",Thu Mar 27 07:17:26 +0000 2014,2423255693,NEU,0.9371141195297241
+"['$', 'duk', 'federal', 'grand', 'jury', 'looks', 'into', 'duke', 'energy', 'spill', 'URL']",Tue Mar 18 16:35:14 +0000 2014,1910908514,NEU,0.9741539359092712
+"['$', 'duk', ':', 'duke', 'energy', 'to', 'add', '13', 'mw', 'of', 'pv', 'on', 'military', 'base', ':', 'URL']",Fri Jan 23 06:36:03 +0000 2015,2881595931,NEU,0.9579920172691345
+"['$', 'duk', '-', 'statement', 'of', 'changes', 'in', 'beneficial', 'ownership', '(', '4', ')', 'URL']",Tue Oct 07 20:13:25 +0000 2014,2554107798,NEU,0.915575385093689
+"['stocks', 'you', 'might', 'want', 'to', 'sell', '$', 'petm', '$', 'duk', '$', 'pbct', '$', 'gain', 'stock', 'URL']",Sat Aug 02 00:23:49 +0000 2014,2657018154,NEU,0.9725238084793091
+"['$', 'duk', 'duke', 'energy', 'delivers', 'facts', 'and', 'URL']",Tue Apr 29 16:17:04 +0000 2014,2475996825,NEU,0.6013895273208618
+"['rt', 'AT_USER', 'duke', 'energy', 'q3', 'eps', '$', '1.47', 'adj', '.', 'vs', '.', '$', '1.51', 'est', '.', ';', 'q3', 'revs', '.', '$', '6.483', 'b', 'vs', '.', '$', '6.874', 'b', 'est', '.', '•', '$', 'duk']",Thu Nov 05 12:40:34 +0000 2015,57849762,NEU,0.9776002764701843
+"['duke', 'energy', 'corporation', 'valuation', '–', 'november', '2015', 'update', '$', 'duk', 'URL', 'investing', 'valueinvesting']",Thu Nov 05 22:19:36 +0000 2015,57715740,NEU,0.9726434350013733
+"['ftc', 'approves', 'duke', ""energy's"", 'proposed', 'deal', 'for', 'piedmont', 'natural', 'gas', 'URL', '$', 'duk', '$', 'pny']",Tue Dec 22 16:26:03 +0000 2015,2999671493,POS,0.6749510765075684
+"['$', 'duk', ':', 'market', 'update', '(', 'nyse', ':d', 'uk', '):', 'federal', 'trade', 'commission', 'grants', '…', ':', 'URL']",Tue Dec 22 16:06:02 +0000 2015,2344619544,NEU,0.980076014995575
+"['are', 'you', 'considering', 'buying', '$', 'duk', '$', 'cprt', '$', 'twx', '$', 'goog', 'personalfinance', 'URL']",Tue Apr 15 23:02:13 +0000 2014,2425442905,NEU,0.931986391544342
+"['are', 'you', 'thinking', 'of', 'investing', 'in', '$', 'sbux', '$', 'lnkd', '$', 'duk', '$', 'cbm', 'nasdaq', 'URL']",Wed Apr 16 13:39:15 +0000 2014,2454746973,NEU,0.9492946267127991
+"['$', 'duk', 'is', 'rated', 'buy', ',', '14.7', '%', 'upside', 'by', 'wall', 'street', 'analysts', 'based', 'on', 'average', 'ratings', '/', 'targets', 'URL', 'URL']",Tue Sep 08 22:57:02 +0000 2015,2344623210,NEU,0.8935695290565491
+"['are', 'you', 'thinking', 'of', 'selling', '$', 'mpc', '$', 'duk', '$', 'luk', '$', 'amzn', 'click', 'URL']",Sun Apr 27 19:23:54 +0000 2014,2394347755,NEU,0.9623494744300842
+"['are', 'you', 'looking', 'to', 'buy', '$', 'pcar', '$', 'duk', '$', 'el', '$', 'ign', 'nasdaq', 'URL']",Sun Apr 27 12:53:51 +0000 2014,2483723440,NEU,0.9626708626747131
+"['couple', 'of', 'stocks', 'you', 'should', 'watch', '$', 'sbux', '$', 'slm', '$', 'duk', '$', 'sso', 'must', 'see', 'URL']",Sun Apr 27 00:11:05 +0000 2014,2440613399,NEU,0.8340166807174683
+"['$', 'duk', 'total', 'of', '3,700', 'personnel', 'aiding', 'duke', 'energy', 'power', 'restoration', 'efforts', 'URL']",Sat Mar 08 00:18:10 +0000 2014,1910908514,NEU,0.8063609600067139
+"['$', 'duk', 'here', 'are', 'some', 'stocks', 'to', 'watch', '$', 'cbst', '$', 'holx', '$', 'opk', 'investing', 'rate_limit_exceeded']",Mon Jul 07 11:27:00 +0000 2014,2488782716,NEU,0.900026798248291
+"['get', 'research', 'on', '$', 'hun', '$', 'duk', '$', 'fii', '$', 'gogo', 'give', 'it', 'a', 'try', 'rate_limit_exceeded']",Mon Jul 07 14:30:28 +0000 2014,2476115330,NEU,0.9161722660064697
+"['$', 'act', 'are', 'you', 'looking', 'to', 'buy', '$', 'mas', '$', 'duk', '$', 'chtp', 'worth', 'a', 'look', 'URL']",Mon Jul 07 15:57:39 +0000 2014,2539624552,NEU,0.9610744714736938
+"['$', 'duk', '5', '%', 'yield', 'corning', 'enters', 'into', 'a', '25', '-', 'year', 'power', 'purchase', 'agreement', 'for', 'solar', '-', 'generated', 'electricity', 'produced', 'by', 'duke', 'energy', 'renewables']",Mon Dec 14 13:37:34 +0000 2015,30246985,NEU,0.9113516211509705
+"['get', 'research', 'on', '$', 'kos', '$', 'duk', '$', 'gmcr', '$', 'chtp', 'personalfinance', 'URL']",Sun Apr 20 17:10:04 +0000 2014,2486334827,NEU,0.9686086177825928
+"['the', '""', '60', 'minutes', '""', 'expose', 'on', 'duke', ""energy's"", 'handling', 'of', 'its', 'coal', 'ash', 'deposits', 'is', 'very', 'negative', 'and', 'damaging', '.', '$', 'duk', 'pollution', 'northcarolina']",Sun Jun 14 23:37:36 +0000 2015,613698737,NEG,0.9746744632720947
+"['27/10', '/', '14', 'long', 'watch', 'list', 'part', '1', '$', 'abbv', '$', 'adp', '$', 'aee', '$', 'aep', '$', 'agio', '$', 'all', '$', 'brx', '$', 'chd', '$', 'chrw', '$', 'cube', '$', 'dte', '$', 'duk', '$', 'ed', '$', 'etr', '$', 'faf', '$', 'fb', '$', 'fisv']",Sun Oct 26 18:17:22 +0000 2014,891259472,NEU,0.9661529064178467
+"['$', 'gpw', '.', 'v', '-', '3', 'p', '/', 'e', ',', 'insider', 'buying', 'and', 'a', 'stock', 'repurchase', 'program', 'underway', '.', '740', '%', 'upside', '$', 'ebay', '$', 'vlo', '$', 'duk', 'investors', 'read', 'URL']",Mon Jan 05 07:48:32 +0000 2015,287966215,NEU,0.8520973920822144
+"['$', 'duk', ':', 'ubs', 'cuts', 'to', 'neutral']",Mon Jan 05 18:35:37 +0000 2015,72928001,NEU,0.9587966799736023
+"['$', 'duk', 'bto', 'oct', '14', '$', '75', 'cs', '@', '.', '45']",Tue Aug 12 14:11:19 +0000 2014,384717221,NEU,0.964703381061554
+"['find', 'the', 'next', 'hot', 'pennystock', '$', 'tco', '$', 'duk', '$', 'vfc', '$', 'usd', 'economy', 'URL']",Mon Apr 21 17:18:39 +0000 2014,2459808419,NEU,0.9120942950248718
+"['would', 'you', 'like', 'great', 'research', 'on', 'stocks', '$', 'mas', '$', 'duk', '$', 'ulta', '$', 'blox', 'newsletter', 'URL']",Tue Jul 01 08:24:00 +0000 2014,2478070507,POS,0.7140463590621948
+"['stock', 'market', 'reports', 'you', 'need', 'on', '$', 'nuan', '$', 'duk', '$', 'neu', '$', 'rt', 'click', 'URL']",Tue Jul 08 03:18:58 +0000 2014,2473447291,NEU,0.9627213478088379
+"['$', 'duk', '-', 'midday', 'movers', ':', 'blackberry', ',', 'ford', 'motor', ',', 'shire', '&', 'more', '->', 'URL', 'stock', 'stocks', 'stockaction']",Tue Jul 08 17:17:25 +0000 2014,2180886595,NEU,0.9480045437812805
+"['AT_USER', '$', 'duk', 'is', 'reporting', 'earnings', 'for', 'q3', '2015', 'on', '11/05', '/', '15', '–', 'URL']",Tue Nov 03 16:49:22 +0000 2015,601422914,NEU,0.9752833247184753
+"['get', 'the', 'latest', 'on', '$', 'tcb', '$', 'duk', '$', 'ben', '$', 'abx', 'liquidity', 'URL']",Thu Apr 10 18:45:34 +0000 2014,2398353954,NEU,0.9676056504249573
+"['duk', 'top', 'news', '-', 'sep', '30th', ',', '2015', '$', 'duk', 'URL']",Wed Sep 30 17:46:45 +0000 2015,3121098012,NEU,0.9546635746955872
+"['are', 'you', 'thinking', 'of', 'investing', 'in', '$', 'amg', '$', 'aon', '$', 'duk', '$', 'goog', 'overvalued', 'URL']",Mon Apr 28 05:54:59 +0000 2014,2441910903,NEU,0.9425143599510193
+"['$', 'duk', 'duke', 'energy', 'awards', 'grant', 'to', 'ab', 'tech', 'URL']",Thu Apr 17 08:59:07 +0000 2014,1836998802,NEU,0.863029420375824
+"['$', 'duk', ':', 'duke', 'energy', 'corp', 'analyst', 'rating', 'update', ':', 'URL']",Thu Feb 12 14:08:03 +0000 2015,2342215530,NEU,0.9691821932792664
+"['AT_USER', 'since', 'your', 'tweet', 'was', 'sent', '$', 'duk', 'has', 'dropped', '-1.638', '%', '.', 'see', 'your', 'featured', 'tweet', 'on', 'market', 'parse', 'URL']",Tue May 05 20:02:06 +0000 2015,3182322139,NEG,0.6377909779548645
+"['duke', 'energy', ':', 'u', '.', 's', '.', 'epa', 'serving', 'as', 'on-scene', 'coordinator', 'in', 'emergency', 'response', 'to', 'ohio', 'river', 'oil', 'spill', '(', 'ky', ',', 'oh', ')', 'URL', '$', 'duk']",Fri Aug 22 21:35:05 +0000 2014,102325185,NEU,0.9736639857292175
+"['rxmd', 'progressive', 'care', ',', 'inc', '.', 'company', 'info', 'URL', '$', 'rxmd', '$', 'ibm', '$', 'eem', '$', 'duk', 'rxmd', 'stocks', 'finance']",Thu Jun 25 21:43:38 +0000 2015,1850041968,NEU,0.9637100100517273
+"['suntrust', 'reiterates', 'neutral', 'rating', 'for', 'duke', 'energy', 'corp', '$', 'duk', 'URL']",Sat May 02 17:56:47 +0000 2015,1979190776,NEU,0.9378861784934998
+"['$', 'duk', 'duke', 'energy', 'completes', 'plugging', 'of', 'pipe', 'to', 'halt', 'release', 'to', 'dan', 'river', 'URL']",Sun Feb 09 00:18:05 +0000 2014,2329848740,NEU,0.9231685400009155
+"['$', 'duk', ""it's"", 'becoming', 'affordable', 'in', 'the', 'triangle', '—', 'and', 'it', 'scares', 'duke', 'energy', 'to', 'death', 'URL']",Wed Jan 29 12:31:13 +0000 2014,1728602022,NEU,0.7287542223930359
+"['looking', 'for', 'the', 'next', '$', 'duk', '$', 'gmcr', '$', 'whr', '$', 'gain', 'singedinvestor', 'URL']",Sun Jun 01 07:01:54 +0000 2014,2539191845,NEU,0.9583288431167603
+"['get', 'the', 'latest', 'on', '$', 'wafd', '$', 'duk', '$', 'ua', '$', 's', 'personalfinance', 'URL']",Sun Jun 08 13:52:45 +0000 2014,2493404070,NEU,0.9731999635696411
+"['$', 'duk', 'is', 'it', 'breakout', 'time', 'on', '$', 'bokf', '$', 'woof', '$', 'fb', 'overvalued', 'URL']",Sun Jun 08 20:27:45 +0000 2014,2471856534,NEU,0.9307491779327393
+"['vnm', 'market', 'vectors', 'vietnam', 'etf', 'market', 'cap', 'URL', '$', 'vnm', '$', 'duk', '$', 'tear', '$', 'ptah', 'vnm', 'invest', 'stock']",Sat Aug 08 01:50:20 +0000 2015,2181334776,NEU,0.973108172416687
+"['duk', 'duke', 'energy', 'corp', '.', 'current', 'price', 'URL', '$', 'duk', '$', 'pgf', '$', 'uso', '$', 'iyr', 'duk', 'pennystocks', 'invest']",Sun Aug 30 19:33:36 +0000 2015,1833020461,NEU,0.9719451665878296
+"['vti', 'ipath', 's', '&', 'p', '500', 'vix', 'short-term', 'futures', 'etn', 'stock', 'forum', 'URL', '$', 'vti', '$', 'gern', '$', 'duk', '$', 'efg', 'vti', 'finance', 'sharevxx', 'verizon', '…']",Sun Aug 30 19:49:07 +0000 2015,2181314366,NEU,0.9565157890319824
+"['$', 'flo', 'stock', 'watchlist', '.', 'dont', 'be', 'left', 'behind', '$', 'pcar', '$', 'duk', '$', 'cray', 'liquidity', 'URL']",Sat May 17 13:00:39 +0000 2014,2496235646,NEU,0.9046331644058228
+"['are', 'you', 'hanging', 'on', 'to', '$', 'duk', '$', 'zion', '$', 'jah', '$', 'qlys', 'moneymanagement', 'URL']",Mon Jun 30 05:52:02 +0000 2014,2539613121,NEU,0.9691791534423828
+"['stocks', 'you', 'migh', 'want', 'to', 'sell', '$', 'hsy', '$', 'duk', '$', 'd', '$', 'ibm', 'must', 'see', 'URL']",Tue Dec 09 04:11:12 +0000 2014,2737412889,NEU,0.9592067003250122
+"['$', 'mon', 'stocks', 'to', 'watch', 'this', 'week', '$', 'jdsu', '$', 'duk', '$', 'aapl', 'try', 'this', 'URL']",Tue Dec 09 09:50:56 +0000 2014,2741665227,NEU,0.9132903814315796
+"['stocks', ""i'm"", 'keeping', 'my', 'eye', 'on', '...', 'should', 'you', '?', '$', 'sbux', '$', 'jdsu', '$', 'duk', '$', 'ibm', 'money', 'URL']",Tue Dec 09 00:40:35 +0000 2014,2723826331,NEU,0.9141082763671875
+"['are', 'you', 'bullish', 'on', 'these', 'stocks', '$', 'lamr', '$', 'duk', '$', 'kmt', '$', 'fb', 'financialnews', 'URL']",Thu May 29 12:03:39 +0000 2014,2473582536,NEU,0.9372943043708801
+"['$', 'duk', 'ohio', 'court', 'blocks', 'duke', 'energy', 'charges', 'for', 'cleanup', 'URL']",Fri May 16 01:10:21 +0000 2014,1704147314,NEU,0.8433530926704407
+"['$', 'duk', '10:01', 'am', 'duke', 'energy', 'carolinas', 'will', 'build', 'and', 'operate', 'a', '750', '-', 'megawatt', 'natural', 'gas-fired', 'combined', 'cycle', 'plant', 'at', 'the', 'existing', 'lee', '...']",Fri May 16 19:34:41 +0000 2014,1704147314,NEU,0.9484339356422424
+"['$', 'duk', 'are', 'you', 'hanging', 'on', 'to', '$', 'rsg', '$', 'fosl', '$', 'gogo', 'must', 'have', 'URL']",Mon Jun 09 09:37:10 +0000 2014,2539174971,NEU,0.9708636999130249
+"['are', 'you', 'considering', 'buying', '$', 'ddr', '$', 'duk', '$', 'awh', '$', 'usd', 'economy', 'URL']",Mon Jun 09 11:06:22 +0000 2014,2492489126,NEU,0.9684271812438965
+"['duke', 'energy', 'trying', 'to', 'plug', 'coal', 'ash', 'leak', 'in', 'north', 'carolina', 'URL', '$', 'duk']",Thu Feb 06 15:35:15 +0000 2014,201753473,NEU,0.9735187888145447
+"['pre-market', 'news', 'analysis', 'on', ':', 'URL', '$', 'spn', '$', 'ual', '$', 'duk', '$', 'rrc']",Fri Aug 07 15:55:00 +0000 2015,2974809074,NEU,0.9703149795532227
+"['$', 'duk', 'find', 'more', 'winners', 'like', '$', 'mnst', '$', 'lltc', '$', 'spy', 'newsletter', 'URL']",Sat Jun 07 21:06:42 +0000 2014,2539180205,POS,0.6747846007347107
+"['should', 'you', 'buy', ',', 'sell', 'or', 'hold', '$', 'vly', '$', 'duk', '$', 'tkr', '$', 'gain', 'moneymanagement', 'URL']",Sat Dec 06 16:03:19 +0000 2014,2723818237,NEU,0.9777789115905762
+"['$', 'duk', 'earnings', 'news', 'on', '$', 'boh', '$', 'whr', '$', 'feye', 'equity', 'URL']",Tue Nov 25 23:02:28 +0000 2014,2741690105,NEU,0.9729927182197571
+"['4.2', '%', 'dividend', 'duke', 'energy', 'should', 'benefit', 'from', 'the', 'dovish', 'fed', 'and', 'growing', 'profits', 'URL', '$', 'duk']",Tue Mar 31 04:11:10 +0000 2015,23059499,POS,0.7510095834732056
+"['$', 'it', 'wow', '.', 'great', 'stock', 'research', 'on', '$', 'jdsu', '$', 'duk', '$', 'aapl', 'overvalued', 'URL']",Mon Dec 15 19:07:15 +0000 2014,2729333534,POS,0.9862241744995117
+"['duke', 'energy', 'corp', ':', 'duke', ':', '2nd', 'leaking', 'pipe', 'at', 'coal', 'ash', 'dump', 'no', 'danger', 'URL', '$', 'duk']",Sat Feb 15 17:40:02 +0000 2014,102325185,NEU,0.9144261479377747
+"['$', 'tfsl', 'get', 'research', 'on', '$', 'tco', '$', 'duk', '$', 's', 'visit', 'URL']",Sat Feb 15 15:31:01 +0000 2014,2264419428,NEU,0.9724441766738892
+"['$', 'duk', 'duke', 'energy', 'makes', 'headway', 'in', 'restoring', 'power', 'to', 'carolinas', 'customers', 'URL']",Sat Feb 15 03:05:38 +0000 2014,1923869994,NEU,0.5221812725067139
+"['$', 'duk', 'duke', 'energy', 'makes', 'headway', 'in', 'restoring', 'power', 'to', 'carolinas', 'customers', 'URL']",Sat Feb 15 03:05:38 +0000 2014,1849605206,NEU,0.5221812725067139
+"['$', 'duk', 'whats', 'going', 'on', 'with', '$', 'gas', '$', 'big', '$', 'hit', 'stock', 'URL']",Thu May 01 21:56:13 +0000 2014,2483728696,NEU,0.9725817441940308
+"['$', 'duk', ':', 'us', 'the', 'duke', 'energy', 'train', 'keeps', 'rolling', 'along', 'duke', 'energy', 'corp', 'URL', 'sp500']",Sat Aug 22 06:09:24 +0000 2015,2643714854,NEU,0.9447226524353027
+"['duke', 'energy', 'declares', '$', '0.825', 'dividend', 'URL', '$', 'duk']",Thu Oct 29 19:36:39 +0000 2015,207441033,NEU,0.9552171230316162
+"['whats', 'happening', 'with', '$', 'gme', '$', 'duk', '$', 'nuro', '$', 'pkg', '$', 'fffc', 'moneymanagement', 'URL']",Sun Feb 23 23:20:19 +0000 2014,2246298767,NEU,0.9732728004455566
+"['denying', 'denial', '-', 'financial', 'review', '$', 'duk', '$', 'fdx', '$', 'gm', '$', 'pny', '$', 'tm', '$', 'vrx', '$', 'xom', '$', 'vlkaf', 'URL']",Tue Oct 27 03:15:57 +0000 2015,1001192245,NEU,0.9308972954750061
+"['$', 'duk', 'how', 'the', 'united', 'states', 'is', 'reinventing', 'itself', 'yet', 'again', 'URL']",Sat Jan 04 21:22:04 +0000 2014,1728602022,NEU,0.7183098793029785
+"['will', 'nextera', 'energy', 'keep', 'beating', 'analyst', 'expectations', 'in', '3q15', '?', '$', 'nee', '$', 'spy', '$', 'duk', 'URL']",Mon Oct 26 15:38:18 +0000 2015,701411095,NEU,0.8049166798591614
+"['duke', 'energy', 'to', 'acquire', 'piedmont', 'in', 'approx', '.', '$', '4.9', 'bln', 'deal', '–', 'quick', 'facts', '$', 'duk', 'URL']",Mon Oct 26 16:10:12 +0000 2015,2974959088,NEU,0.9526079893112183
+"['utilities', 'def', 'a', 'good', 'place', 'to', 'be', '$', 'duk', 'with', 'a', 'cute', 'div', '..', 'holding', '.', '$', 'etr', 'another', 'good', 'one', 'just', 'paid', 'a', 'div', 'but', 'i', 'may', 'buy', 'anyway', 'on', 'strngth']",Wed Aug 12 17:18:03 +0000 2015,110539278,POS,0.9779902696609497
+"['$', 'duk', 'nc', 'plans', 'business', 'recruiting', 'to', 'be', 'more', 'like', 'sales', 'URL']",Thu Jan 02 18:39:04 +0000 2014,1728602022,NEU,0.9516658186912537
+"['street', 'upgrades', ':', '$', 'asna', '$', 'x', '$', 'pzza', '$', 'dre', '$', 'lry', '$', 'jec', '$', 'ess', '$', 'af', '$', 'urbn', '$', 'chs', '$', 'ann', '$', 'aeo', '$', 'xlnx', '$', 'duk']",Thu Jan 02 14:15:18 +0000 2014,34389648,NEU,0.9268403053283691
+"['stock', 'watchlist', '.', 'dont', 'be', 'left', 'behind', '$', 'ce', '$', 'duk', '$', 'lnt', '$', 'yod', 'i', 'suggest', 'URL']",Sun Jun 15 01:02:24 +0000 2014,2494827792,NEU,0.9055402278900146
+"['free', 'research', 'on', '$', 'hun', '$', 'duk', '$', 'cog', '$', 'pcln', 'investing', 'URL']",Sat May 03 02:04:57 +0000 2014,2443605649,NEU,0.9551270604133606
+"['$', 'duk', 'are', 'you', 'holding', '$', 'txt', '$', 'schw', '$', 'df', 'investing', 'URL']",Fri Feb 14 08:11:16 +0000 2014,2238139854,NEU,0.9713914394378662
+"['$', 'duk', 'duke', 'energy', 'issues', 'request', 'for', 'new', 'solar', 'energy', 'projects', 'in', 'north', 'carolina', 'URL']",Fri Feb 14 15:32:04 +0000 2014,1910908514,NEU,0.9634146094322205
+"['stocktwits', 'trending', 'alert', ':', 'trading', 'recent', 'interest', 'in', 'duke', 'energy', '$', 'duk', 'URL']",Wed May 20 17:11:49 +0000 2015,2448859862,NEU,0.9107952117919922
+"['$', 'duk', ':', 'duke', 'energy', 'corporation', 'analyst', 'rating', 'update', ':', 'URL']",Tue Jun 09 11:03:03 +0000 2015,2344619544,NEU,0.9689260125160217
+"['$', 'duk', '75.77', 'new', 'high']",Thu Oct 02 13:49:13 +0000 2014,66985306,POS,0.7136973738670349
+"['amba', 'ambarella', ',', 'inc', '.', 'company', 'info', 'URL', '$', 'amba', '$', 'duk', '$', 'pkx', '$', 'fldm', 'amba', 'stocks', 'stocks']",Sun Dec 06 06:34:02 +0000 2015,386787305,NEU,0.9763887524604797
+"['jbem', ""'"", 'pick', 'rxii', 'upcoming', 'catalyst', ':', 'read', 'here', ':', 'URL', '$', 'kone', '$', 'envi', '$', 'lre', '$', 'else', '$', 'kof', '$', 'tap', '$', 'duk', '$', 'pg']",Tue Sep 15 18:47:23 +0000 2015,27214873,NEU,0.9701625108718872
+"['$', 'duk', ':', 'duke', 'energy', 'launches', 'mobile', 'app', 'for', 'investors', 'URL']",Wed Jul 23 09:15:42 +0000 2014,1836984799,NEU,0.9100858569145203
+"['algo', 'trading', 'closing', 'signals', ':', 'nov', '/', '17', '$', 'exr', '(', '1.4', '%', ')', '$', 'acc', '(', '0.0', '%', ')', '$', 'stz', '(', '1.0', '%', ')', '$', 'duk', '(', '-10.8', '%', ')', '$', 'jbht', '(', '-1.0', '%', ')', '$', 'cost', '(', '1.6', '%', ')', '$', 'hrs', '(', '1.9', '%', ')', '$', 'msci', '(', '2.3', '%', ')']",Tue Nov 17 20:03:34 +0000 2015,102057172,NEU,0.9750564694404602
+"['looking', 'for', 'research', 'on', '$', 'fast', '$', 'ago', '$', 'duk', '$', 'df', 'view', 'now', 'URL']",Fri Apr 04 17:54:22 +0000 2014,2459803259,NEU,0.9776527881622314
+"['great', 'stock', 'newsletter', 'you', 'must', 'have', '$', 'penn', '$', 'oge', '$', 'duk', '$', 'ci', 'wealthmanagement', 'URL']",Fri Apr 04 02:56:24 +0000 2014,2458127159,POS,0.9819279909133911
+"['$', 'duk', '-', 'duke', 'energy', 'ceo', 'lynn', 'good', 'discusses', 'coal', 'ash', 'at', 'hood', 'hargett', 'luncheon', '->', 'URL', 'stock', 'stocks', 'stockaction']",Wed Apr 02 22:17:35 +0000 2014,2180886595,NEU,0.9522711634635925
+"['$', 'duk', 'the', 'hottest', 'trade', 'is', 'about', 'to', 'face', 'headwinds', 'URL']",Thu Apr 03 19:49:33 +0000 2014,1910908514,NEU,0.8613593578338623
+"['duk', 'duke', 'energy', 'corp', '.', 'tick', 'click', 'here', '->', 'URL', 'trending', '$', 'duk', '$', 'oih', '$', 'mack', '$', 'gld', 'duk', 'stocks', 'invest']",Sun May 17 01:34:05 +0000 2015,2196900553,NEU,0.9713745713233948
+"['$', 'duk', ':', 'company', 'shares', 'of', 'duke', 'energy', 'corporation', 'drops', 'by', '-0.42', '%', ':', 'URL']",Mon Jun 01 04:10:03 +0000 2015,2342763212,NEG,0.9271270036697388
+"['duke', 'energy', 'dividend', 'analysis', 'shows', 'it', 'is', 'undervalued', 'by', '22', '%', 'URL', '$', 'duk']",Tue May 26 04:15:10 +0000 2015,203859927,NEG,0.5488183498382568
+"['$', 'duk', ':', 'us', 'traders', 'sell', 'duke', 'energy', 'corp', 'on', 'strength', '(', 'duk', ')', 'duke', 'energy', 'corp', 'URL', 'sp500']",Sat Jan 10 23:12:18 +0000 2015,2643714854,NEU,0.9655839204788208
+"['$', 'duk', 'is', 'it', 'breakout', 'time', 'on', '$', 'qep', '$', 'znga', '$', 'aapl', 'view', 'now', 'URL']",Fri Jul 25 01:36:14 +0000 2014,2659763552,NEU,0.9489061236381531
+"['$', 'duk', ':', 'duke', 'energy', 'corp', 'stock', 'rating', 'lowered', 'by', 'bmo', 'capital', 'markets', '…', ':', 'URL']",Wed Nov 11 04:32:09 +0000 2015,2342215530,NEG,0.5168648362159729
+"['$', 'duk', 'duke', 'energy', 'alerts', 'customers', 'about', 'new', 'phone', 'scheme', 'URL']",Wed Apr 02 02:33:09 +0000 2014,1910908514,NEU,0.9457058906555176
+"['$', 'duk', 'find', 'the', 'next', 'hot', 'pennystock', '$', 'ben', '$', 'bmy', '$', 'qlys', 'stock', 'URL']",Sat Mar 15 01:40:50 +0000 2014,2239798476,NEU,0.8504336476325989
+"['duk', 'duke', 'energy', 'corp', '.', 'last', 'price', 'URL', '$', 'duk', '$', 'spxl', '$', 'duk', '$', 'trvn', 'duk', 'invest', 'investing']",Thu Sep 24 23:38:49 +0000 2015,2538570848,NEU,0.965571939945221
+"['and', 'how', 'about', '$', 'duk', '61.8', 'perfect', '...', 'URL']",Wed Mar 12 20:40:13 +0000 2014,254172272,NEU,0.6339293122291565
+"['$', 'duk', 'get', 'great', 'research', 'on', 'stocks', '$', 'ben', '$', 'alks', '$', 'df', 'must', 'see', 'URL']",Wed Mar 12 19:04:27 +0000 2014,2370996812,POS,0.98023921251297
+"['analysts', 'expect', '36.9', '%', 'eps', 'growth', 'next', 'year', 'at', '$', 'duk', ':', 'URL', 'URL']",Mon Nov 16 05:42:11 +0000 2015,3068966814,NEU,0.7226603627204895
+"['insider', 'trading', 'alerts', 'on', '$', 'sfg', '$', 'duk', '$', 'tkr', '$', 'blox', 'view', 'now', 'URL']",Sun Jul 13 22:31:50 +0000 2014,2484937986,NEU,0.9788379669189453
+"['are', 'you', 'considering', 'buying', '$', 'ip', '$', 'oii', '$', 'duk', '$', 'bwp', 'goto', 'URL']",Sun Jul 13 15:32:29 +0000 2014,2472436736,NEU,0.9691295623779297
+"['cmcm', 'cheetah', 'mobile', 'inc', '.', 'tick', 'URL', '$', 'cmcm', '$', 'bib', '$', 'swks', '$', 'duk', 'cmcm', 'pennystocks', 'pennystocks']",Wed Nov 18 11:35:04 +0000 2015,2197078218,NEU,0.9705967903137207
