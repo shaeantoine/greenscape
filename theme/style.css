@@ -1,0 +1,89 @@
+.quarto-title-block .quarto-title-banner {
+    background-image: url(banner.png);
+    background-size: 225px;
+    background-position: right;
+    background-repeat: no-repeat;
+    padding-right: 40px;
+    background-origin: content-box;
+}
+
+.justify {
+    text-align: justify !important;
+}
+
+p {
+    text-align: justify;
+}
+
+a[role="doc-biblioref"] {
+    color: #333;
+}
+
+code {
+    color: #d85f33;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+th, td {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+.header {
+  background-color: #f2f2f2; /* Dark background color */
+}
+
+#fig-1 {
+  border: 2px solid #777;
+  padding: 10px;
+}
+
+#fig-2 {
+  border: 2px solid #777;
+  padding: 10px;
+}
+
+#fig-3 {
+  border: 2px solid #777;
+  padding: 10px;
+}
+
+#fig-4 {
+  border: 2px solid #777;
+  padding: 10px;
+}
+
+#fig-5 {
+  border: 2px solid #777;
+  padding: 10px;
+}
+
+#fig-model-timeseries {
+  border: 2px solid #777;
+  padding: 10px;
+}
+
+#fig-hist {
+  border: 2px solid #777;
+  padding: 10px;
+}
+
+#fig-kg2-pos {
+  border: 2px solid #777;
+  padding: 10px;
+}
+
+#fig-kg1-pos {
+  border: 2px solid #777;
+  padding: 10px;
+}
