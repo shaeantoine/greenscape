@@ -122,7 +122,7 @@ print("downloaded")
 
 children = []
 company_id = None
-for id in range(1):#len(shorted_tweets)):
+for id in range(len(shorted_tweets)):
     pid = os.fork()
     if pid == 0:
         company_id = id
