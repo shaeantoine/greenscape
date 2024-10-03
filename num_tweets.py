@@ -156,5 +156,10 @@ else:
     )
     tweet_df = pd.concat([tweet_df, sentiment_df], axis=1)
 
-    print(company + "-----------\n"+ tweet_df)
-    tweet_df.to_csv(f"stock-price-predictions/sentiments/{company}.csv")
+    print(f"{company} analysed")
+    tweet_df.to_csv(f"stock-price-predictions/tweet/{company}/tweet_sentiment.csv", index=False)
+    tweet_df['created_at'] = pd.to_datetime(tweet_df['created_at'])
+    tweet_df['day'] = tweet_df['created_at'].dt.date
+    tweet_df["sentiment_number"] = tweet_df["sentiment"].replace({"NEG": -1, "POS": 1, "NEU": 0})
+    daily_tweet_df = tweet_df.groupby('day')['sentiment_number'].mean().reset_index()
+    daily_tweet_df.to_csv(f"stock-price-predictions/tweet/{company}/daily_tweet_sentiment.csv", index=False)
