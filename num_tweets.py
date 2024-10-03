@@ -102,17 +102,20 @@ for comp, tweets in num_tweets.items():
 
 print("shortened")
 
+
 def analyze_sentiment(text_tokens_list):
     # for each row in column, join the text tokens together into a single string
-    texts = [' '.join(text_tokens) for text_tokens in text_tokens_list]
+    texts = [" ".join(text_tokens) for text_tokens in text_tokens_list]
     # apply the sentiment analysis to the entire list
     results = sentiment_pipeline(texts)
     # extract labels and scores for each result
-    sentiments = [(res['label'], res['score']) for res in results]
-    
+    sentiments = [(res["label"], res["score"]) for res in results]
+
     return sentiments
 
+
 from transformers import pipeline
+
 sentiment_pipeline = pipeline(model="finiteautomata/bertweet-base-sentiment-analysis")
 
 print("downloaded")
@@ -139,13 +142,18 @@ else:
     company = shorted_tweets[company_id]
     for day_f in glob(f"stock-price-predictions/tweet/{company}/*"):
         data = []
-        with open(day_f, 'r') as f:
+        with open(day_f, "r") as f:
             for line in f:
                 data.append(json.loads(line))
         line_tweet_df = pd.DataFrame(data)
+        print(line_tweet_df)
         tweet_df = pd.concat([tweet_df, line_tweet_df])
 
-    sentiment_df = pd.DataFrame(analyze_sentiment(tweet_df['text']), columns=['sentiment', 'score'])
+    print(tweet_df)
+
+    sentiment_df = pd.DataFrame(
+        analyze_sentiment(tweet_df["text"]), columns=["sentiment", "score"]
+    )
     tweet_df = pd.concat([tweet_df, sentiment_df], axis=1)
 
-    print(company + "-----------\n"+ tweet_df)
+    print(company + "-----------\n" + tweet_df)
